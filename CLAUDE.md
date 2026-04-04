@@ -112,6 +112,7 @@ player-knowledge    — Player knows this, Zeph does not
 ### What NOT to Tag
 
 Do not use tags for things already in frontmatter fields:
+
 - `type: character` replaces `#character`
 - `status: deceased` replaces `#deceased`
 - `decoded: false` replaces `#clue/undecoded`

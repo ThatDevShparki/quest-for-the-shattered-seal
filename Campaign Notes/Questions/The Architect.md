@@ -1,7 +1,7 @@
 ---
 type: question
-priority: medium
 status: open
+priority: medium
 subject: "The Architect"
 core_question: "Who came to his mother's bedside, and what did he do there?"
 session_introduced: 0
@@ -16,6 +16,7 @@ dm_source:
 ## The Questions
 
 ### Medium Priority
+
 - Who or what is [[The Architect]]?
 - What did he do at [[Sylara Dawnmere|Sylara]]'s bedside the night before she died?
 - Is his presence connected to her death or coincidental to it?
@@ -24,6 +25,7 @@ dm_source:
 - Is [[The Architect]] connected to [[The Visage]], [[The Dawnmere Lineage|the Dawnmere lineage]], or [[The Brothers]]?
 
 ### Low Priority
+
 - Why did he give a title instead of a name to a child who asked?
 - Was the warmth of his smile genuine or performed?
 

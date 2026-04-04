@@ -1,7 +1,7 @@
 ---
 type: question
-priority: high
 status: open
+priority: high
 subject: "The Visage"
 core_question: "What is the entity in the ceremonial room, and what does it want from him?"
 session_introduced: 0
@@ -17,6 +17,7 @@ dm_source:
 ## The Questions
 
 ### High Priority
+
 - What is [[The Visage]]? God, entity, something that predates both categories, something else entirely?
 - What does becoming its servant actually mean? What would be asked, what would change, what would it cost?
 - What does it actually know about [[Sylara Dawnmere|Sylara]] and is that knowledge real or constructed to move him?
@@ -25,12 +26,14 @@ dm_source:
 - Is saying no survivable? Is saying yes?
 
 ### Medium Priority
+
 - Is [[The Visage]] the thing that destroyed his father or connected to it?
 - Is [[The Visage]] one of [[The Brothers]]?
 - Is [[The Visage]] connected to the civilization that built [[The Sealed Ruin Beneath Grainfall|the sealed ruin]] or something they contained?
 - What happened during the ritual that [[Zephyrix Skydelver|Zeph]] did not see because he was running?
 
 ### Low Priority
+
 - Can [[The Visage]] leave the ceremonial room or is it bound there?
 - Has it spoken to anyone else in [[Grainfall]]?
 

@@ -2,5 +2,6 @@
   "templater-obsidian",
   "dataview",
   "calendarium",
-  "juggl"
+  "juggl",
+  "obsidian-linter"
 ]

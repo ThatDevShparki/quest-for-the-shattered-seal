@@ -1,7 +1,7 @@
 ---
 type: question
-priority: high
 status: open
+priority: high
 subject: "The Dreamrot"
 core_question: "What is the Dreamrot doing to him, and is it the same thing that took his father?"
 session_introduced: 0
@@ -16,6 +16,7 @@ dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
 ## The Questions
 
 ### High Priority
+
 - What is the Dreamrot specifically and what is it doing to him?
 - Is what he is noticing in himself the same thing that happened to his father or something adjacent to it?
 - Did the ritual accelerate it or is he simply becoming more aware of what was already there?

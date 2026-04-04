@@ -1,7 +1,7 @@
 ---
 type: question
-priority: high
 status: open
+priority: high
 subject: "Sae-th"
 core_question: "What does the language of the brothers say, and what does it bind?"
 session_introduced: 0
@@ -16,11 +16,13 @@ dm_source:
 ## The Questions
 
 ### High Priority
+
 - What do the passages in [[Aeralon's Journal|Aeralon's journal]] actually say?
 - Is there anyone alive who can read [[Sae-th|the old language]]?
 - Did [[Aeralon Ashdelve|Aeralon]]'s attempt to decode [[Sae-th|the language]] contribute to what happened to him?
 
 ### Medium Priority
+
 - Is [[Sae-th|the language]] still spoken or written anywhere in the world?
 - What does it mean for a language to bind the world? Is the binding intact?
 - Are [[The Four Symbols|the four symbols]] characters from [[Sae-th|the old language]] or related to it?

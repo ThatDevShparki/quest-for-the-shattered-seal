@@ -6,6 +6,7 @@ tags: [mystery/saeth, mystery/dawnmere, mystery/ari, mystery/ruin]
 dm_source:
 image: "[[Resources/Images/Aeralon's Journal - Image.png]]"
 ---
+
 # Aeralon's Journal
 
 ![[Resources/Images/Aeralon's Journal - Image.png]]

@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Knowledge/Characters/Sylara Dawnmere.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sylara Dawnmere"
+              "title": "Home"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Knowledge/Characters/Sylara Dawnmere.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sylara Dawnmere"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Knowledge/Characters/Sylara Dawnmere.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sylara Dawnmere"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Knowledge/Characters/Sylara Dawnmere.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sylara Dawnmere"
+              "title": "Outline of Home"
             }
           },
           {
@@ -220,14 +220,24 @@
   },
   "active": "91c98c6eb7138db4",
   "lastOpenFiles": [
+    "Campaign Knowledge/Clues/Sae-th.md",
+    "Campaign Knowledge/Clues/The Brothers.md",
+    "Campaign Knowledge/Clues/The Four Symbols.md",
     "Campaign Knowledge/Items/Aeralon's Journal.md",
     "Campaign Knowledge/Items/Sylara's Amulet.md",
-    "Campaign Knowledge/Characters/Zephyrix Skydelver.md",
-    "Resources/Images/Sylara's Amulet - Image.png",
-    "Resources/Images/Aeralon's Journal - Image.png",
-    "Resources/Images/Zephyrix Skydelver - Image.png",
+    "Campaign Knowledge/Locations/Grainfall.md",
+    "Campaign Knowledge/Locations/The Ruined Observatory.md",
+    "Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall.md",
+    "Campaign Knowledge/Organizations/The Dawnmere Lineage.md",
+    "Campaign Knowledge/Organizations/The Orryn Society.md",
     "Campaign Notes/Sessions/Session 0.md",
     "Campaign Notes/Sessions/Session 1.md",
+    "Resources/DM Notes/Session 0 Guidance.md",
+    "Resources/Images/Aeralon's Journal - Image.png",
+    "Resources/Images/Sylara's Amulet - Image.png",
+    "Resources/Images/Zephyrix Skydelver - Image.png",
+    "Campaign Knowledge/Characters/Sylara Dawnmere.md",
+    "Campaign Knowledge/Characters/Zephyrix Skydelver.md",
     "Campaign Knowledge/Characters/Aeralon Ashdelve.md",
     "2026-04-04.md",
     "Mystery Dashboard.md",
@@ -238,18 +248,8 @@
     "Campaign Notes/Questions/The Architect.md",
     "Campaign Notes/Questions/The Dreamrot.md",
     "Campaign Notes/Questions/The Visage.md",
-    "Campaign Notes/Questions/Grainfall.md",
-    "Campaign Notes/Questions/The Ruined Observatory.md",
-    "Campaign Notes/Questions/The Sealed Ruin.md",
-    "Campaign Notes/Questions/Aeralon Ashdelve.md",
-    "Campaign Notes/Questions/The Brothers.md",
-    "Campaign Notes/Questions/Sae-th.md",
-    "Campaign Notes/Questions/Sylara Dawnmere.md",
-    "Campaign Notes/Questions/Index.md",
     "Mystery Web.canvas",
-    "Campaign Knowledge/Organizations/The Orryn Society.md",
     "Campaign Knowledge/Vault Database.base",
-    "Campaign Knowledge/Organizations/The Dawnmere Lineage.md",
     "Campaign Notes/Story",
     "Resources/DM Notes/Unconfirmed 594589.crdownload",
     "Resources/DM Notes",

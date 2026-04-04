@@ -1,7 +1,7 @@
 ---
 type: question
-priority: medium
 status: open
+priority: medium
 subject: "The Brothers"
 core_question: "Who are the brothers, and do they still exist?"
 session_introduced: 0
@@ -17,6 +17,7 @@ dm_source:
 ## The Questions
 
 ### Medium Priority
+
 - Who or what are [[The Brothers|the Brothers]]?
 - How many are there?
 - Are they connected to [[The Dawnmere Lineage|the Dawnmere lineage]] directly?

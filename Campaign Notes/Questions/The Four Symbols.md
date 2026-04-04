@@ -1,7 +1,7 @@
 ---
 type: question
-priority: high
 status: open
+priority: high
 subject: "The Four Symbols"
 core_question: "What do the four symbols represent, and who carries the other three?"
 session_introduced: 0
@@ -17,12 +17,14 @@ dm_source:
 ## The Questions
 
 ### High Priority
+
 - What do [[The Four Symbols]] represent individually and collectively?
 - What are the other three symbols the marks of and who carries them?
 - What is the significance of the minor variations between the four?
 - What did [[Sylara Dawnmere|Sylara]] actually tell him about the crest as a child? Can the memory be recovered?
 
 ### Medium Priority
+
 - Are [[The Four Symbols]] connected to [[The Brothers]] directly?
 - Are there other locations where [[The Four Symbols]] appear together beyond [[The Ruined Observatory|the Observatory]] and [[The Sealed Ruin Beneath Grainfall|the sealed ruin]]?
 

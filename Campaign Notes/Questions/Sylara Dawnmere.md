@@ -1,7 +1,7 @@
 ---
 type: question
-priority: high
 status: open
+priority: high
 subject: "Sylara Dawnmere"
 core_question: "What did his mother know, and what did she choose light over?"
 session_introduced: 0
@@ -16,6 +16,7 @@ dm_source:
 ## The Questions
 
 ### High Priority
+
 - What did [[Sylara Dawnmere|Sylara]] actually know about [[The Dawnmere Lineage|the Dawnmere lineage]]? Did she know the full depth of what her bloodline was connected to or did she choose light in partial ignorance?
 - What killed her? Was it illness, or did [[The Architect]] collect something from her, and if so what and why?
 - What did she choose light _over_? [[The Dawnmere Lineage|The Dawnmere crest]] on the wall of the ceremonial room tells him the choosing was deliberate and against something specific. What was it?
@@ -23,6 +24,7 @@ dm_source:
 - Did she know about [[The Visage]]? Was her faith built in response to it, in ignorance of it, or in some relationship to it he does not yet have a word for?
 
 ### Medium Priority
+
 - Does she have any living family? Are there other [[The Dawnmere Lineage|Dawnmere line]] members who knew her?
 - What was her life before [[Aeralon Ashdelve|Aeralon]]? Where did she come from?
 - Did she know [[Ari]] was her familiar when she was alive? What was their relationship?

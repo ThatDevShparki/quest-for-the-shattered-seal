@@ -1,7 +1,7 @@
 ---
 type: question
-priority: medium
 status: open
+priority: medium
 subject: "Grainfall"
 core_question: "What does this town know about what lies beneath it?"
 session_introduced: 0
@@ -15,6 +15,7 @@ dm_source:
 ## The Questions
 
 ### Medium Priority
+
 - What does [[Grainfall|the town]] know about what is beneath it?
 - Who sealed the ruin and under whose authority?
 - Are there people in this town who have been waiting for someone carrying the Dawnmere name to arrive?

@@ -1,7 +1,7 @@
 ---
 type: question
-priority: high
 status: open
+priority: high
 subject: "Aeralon Ashdelve"
 core_question: "What did his father find in Grainfall, and why did it destroy him?"
 session_introduced: 0
@@ -17,6 +17,7 @@ dm_source:
 ## The Questions
 
 ### High Priority
+
 - What did [[Aeralon Ashdelve|Aeralon]] find in [[Grainfall]] the first time? What specifically began the change?
 - Did [[Aeralon Ashdelve|Aeralon]] perform the ritual in the ceremonial room? If so what happened?
 - What did [[Aeralon Ashdelve|Aeralon]] actually know about [[The Dawnmere Lineage|the Dawnmere lineage]]? How much of his vagueness was ignorance and how much was deliberate protection?
@@ -25,12 +26,14 @@ dm_source:
 - Did [[Aeralon Ashdelve|Aeralon]] know [[Ari]] was [[Sylara Dawnmere|Sylara]]'s familiar?
 
 ### Medium Priority
+
 - What does [[The Orryn Society]] know about [[Aeralon Ashdelve|Aeralon]]'s final years of research?
 - What did [[Brenvaal]] know about [[Grainfall]] and what did [[Aeralon Ashdelve|Aeralon]] tell him?
 - Did [[Aeralon Ashdelve|Aeralon]] ever open to the first page in his final years? Did any part of him that was still himself try to follow [[Sylara Dawnmere|Sylara]]'s instructions?
 - Was any of the change in [[Aeralon Ashdelve|Aeralon]] a choice or was it entirely the Dreamrot?
 
 ### Low Priority
+
 - What was [[Aeralon Ashdelve|Aeralon]]'s life before [[Sylara Dawnmere|Sylara]]? Where did he come from?
 - How did [[The Orryn Society]] regard [[Aeralon Ashdelve|Aeralon]]'s final years publicly?
 

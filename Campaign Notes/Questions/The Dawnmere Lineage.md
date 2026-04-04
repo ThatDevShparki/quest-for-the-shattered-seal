@@ -1,7 +1,7 @@
 ---
 type: question
-priority: high
 status: open
+priority: high
 subject: "The Dawnmere Lineage"
 core_question: "What does carrying the Dawnmere name actually mean?"
 session_introduced: 0
@@ -16,12 +16,14 @@ dm_source:
 ## The Questions
 
 ### High Priority
+
 - What is the full history of [[The Dawnmere Lineage|the Dawnmere line]]?
 - Are there living members of the lineage beyond [[Zephyrix Skydelver|Zeph]]?
 - Is he connected to one of [[The Brothers]] through his mother's blood?
 - What does carrying the Dawnmere name actually mean in the world that the campaign is revealing?
 
 ### Medium Priority
+
 - What is the relationship between [[The Dawnmere Lineage|the Dawnmere lineage]] and the civilization that built [[The Sealed Ruin Beneath Grainfall|the sealed ruin]]?
 - Did all members of [[The Dawnmere Lineage|the Dawnmere line]] make the same choice [[Sylara Dawnmere|Sylara]] did or did they serve [[The Visage]]?
 - What does [[The Dawnmere Lineage|the Dawnmere crest]]'s position in the family tree on the ceremonial room wall mean? Where in the lineage does it fall?

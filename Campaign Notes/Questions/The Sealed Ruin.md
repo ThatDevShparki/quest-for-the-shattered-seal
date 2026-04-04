@@ -1,7 +1,7 @@
 ---
 type: question
-priority: high
 status: open
+priority: high
 subject: "The Sealed Ruin Beneath Grainfall"
 core_question: "What civilization built this place, and why did someone seal it?"
 session_introduced: 0
@@ -17,6 +17,7 @@ dm_source:
 ## The Questions
 
 ### High Priority
+
 - Who sealed [[The Sealed Ruin Beneath Grainfall|the ruin]] and why? What was the actual reason?
 - What do the murals record? Can they be read?
 - What civilization built this place and why does it leave no trace in any known record?
@@ -24,6 +25,7 @@ dm_source:
 - What happened in [[The Sealed Ruin Beneath Grainfall|the ceremonial room]] after he ran?
 
 ### Medium Priority
+
 - What is the relationship between [[The Sealed Ruin Beneath Grainfall|the sealed ruin]] and [[The Ruined Observatory|the Observatory]]?
 - Are the crypts and their occupants connected to [[The Dawnmere Lineage|the Dawnmere lineage]]?
 
