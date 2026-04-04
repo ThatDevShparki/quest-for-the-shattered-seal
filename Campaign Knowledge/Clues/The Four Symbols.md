@@ -1,6 +1,7 @@
 ---
 type: clue
 decoded: false
+scope: campaign
 aliases: [the four symbols, the symbols]
 tags: [mystery/symbols, mystery/brothers, mystery/dawnmere]
 dm_source:

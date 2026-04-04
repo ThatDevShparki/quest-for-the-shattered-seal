@@ -1,6 +1,7 @@
 ---
 type: clue
 decoded: false
+scope: campaign
 aliases: [the language of the brothers]
 tags: [mystery/saeth, mystery/brothers]
 dm_source:
