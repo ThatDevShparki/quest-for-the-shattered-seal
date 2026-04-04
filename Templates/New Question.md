@@ -2,6 +2,7 @@
 type: question
 priority: medium
 status: open
+scope:
 subject:
 core_question:
 session_introduced:

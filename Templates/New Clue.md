@@ -1,6 +1,7 @@
 ---
 type: clue
 decoded: false
+scope:
 aliases: []
 tags: []
 dm_source:
