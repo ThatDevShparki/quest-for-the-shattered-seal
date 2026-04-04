@@ -7,6 +7,8 @@ tags:
   - mystery/dawnmere
   - mystery/ruin
   - turning-point
+dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
+image:
 ---
 
 # The Ritual

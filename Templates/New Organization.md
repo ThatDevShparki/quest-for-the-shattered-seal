@@ -2,6 +2,8 @@
 type: organization
 aliases: []
 tags: []
+dm_source:
+image:
 ---
 
 # <% tp.file.title %>

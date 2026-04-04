@@ -9,6 +9,8 @@ tags:
   - mystery/dawnmere
   - mystery/ruin
   - thread/open
+dm_source:
+image:
 ---
 
 # The Visage

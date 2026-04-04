@@ -7,6 +7,7 @@ core_question: "What does this town know about what lies beneath it?"
 session_introduced: 0
 tags:
   - mystery/ruin
+dm_source:
 ---
 
 # Questions -- Grainfall

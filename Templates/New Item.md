@@ -3,6 +3,8 @@ type: item
 possessed: false
 aliases: []
 tags: []
+dm_source:
+image:
 ---
 
 # <% tp.file.title %>

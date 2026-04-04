@@ -3,6 +3,8 @@ type: organization
 aliases:
   - the Society
 tags: []
+dm_source:
+image:
 ---
 
 # The Orryn Society

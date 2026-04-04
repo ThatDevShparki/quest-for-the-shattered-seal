@@ -7,6 +7,8 @@ tags:
   - mystery/dawnmere
   - mystery/symbols
   - mystery/saeth
+dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
+image:
 ---
 
 # Arrival in Grainfall

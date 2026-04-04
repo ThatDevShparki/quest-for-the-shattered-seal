@@ -3,6 +3,8 @@ type: clue
 decoded: false
 aliases: []
 tags: [mystery/brothers, mystery/saeth, mystery/symbols]
+dm_source:
+image:
 ---
 
 # The Brothers

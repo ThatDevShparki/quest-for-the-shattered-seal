@@ -9,6 +9,8 @@ tags:
   - mystery/saeth
   - mystery/ruin
   - mystery/dreamrot
+dm_source:
+image:
 ---
 
 # Aeralon Ashdelve

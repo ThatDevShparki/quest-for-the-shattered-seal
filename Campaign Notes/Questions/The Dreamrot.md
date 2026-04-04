@@ -8,6 +8,7 @@ session_introduced: 0
 tags:
   - mystery/dreamrot
   - mystery/dawnmere
+dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
 ---
 
 # Questions -- The Dreamrot

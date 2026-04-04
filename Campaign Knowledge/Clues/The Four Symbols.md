@@ -3,6 +3,8 @@ type: clue
 decoded: false
 aliases: [the four symbols, the symbols]
 tags: [mystery/symbols, mystery/brothers, mystery/dawnmere]
+dm_source:
+image:
 ---
 
 # The Four Symbols

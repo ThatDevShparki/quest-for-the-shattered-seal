@@ -7,6 +7,8 @@ aliases:
 tags:
   - mystery/dawnmere
   - mystery/visage
+dm_source:
+image:
 ---
 
 # The Dawnmere Lineage

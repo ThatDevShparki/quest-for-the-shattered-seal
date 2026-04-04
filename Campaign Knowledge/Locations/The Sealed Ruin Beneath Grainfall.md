@@ -3,6 +3,8 @@ type: location
 visited: true
 aliases: [the sealed ruin, the ruin, the ceremonial room]
 tags: [mystery/ruin, mystery/visage, mystery/dawnmere, mystery/symbols]
+dm_source:
+image:
 ---
 
 # The Sealed Ruin Beneath Grainfall

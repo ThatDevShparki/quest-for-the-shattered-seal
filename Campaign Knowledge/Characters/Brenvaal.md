@@ -3,6 +3,8 @@ type: character
 status: unknown
 aliases: []
 tags: []
+dm_source:
+image:
 ---
 
 # Brenvaal

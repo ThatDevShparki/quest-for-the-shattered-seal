@@ -2,6 +2,7 @@
 type: session
 session_number: <% await tp.system.prompt("Session number?") %>
 tags: []
+dm_source:
 ---
 
 # Session <% tp.file.title.replace("Session ", "") %>

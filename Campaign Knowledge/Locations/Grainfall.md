@@ -3,6 +3,8 @@ type: location
 visited: true
 aliases: [the town]
 tags: [mystery/ruin]
+dm_source:
+image:
 ---
 
 # Grainfall

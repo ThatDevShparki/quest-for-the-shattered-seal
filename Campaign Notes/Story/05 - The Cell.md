@@ -7,6 +7,8 @@ tags:
   - mystery/visage
   - mystery/dawnmere
   - turning-point
+dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
+image:
 ---
 
 # The Cell

@@ -8,6 +8,7 @@ session_introduced: 0
 tags:
   - mystery/symbols
   - mystery/dawnmere
+dm_source:
 ---
 
 # Questions -- The Ruined Observatory

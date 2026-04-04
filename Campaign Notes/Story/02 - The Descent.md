@@ -7,6 +7,8 @@ tags:
   - mystery/dreamrot
   - mystery/saeth
   - mystery/ruin
+dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
+image:
 ---
 
 # The Descent

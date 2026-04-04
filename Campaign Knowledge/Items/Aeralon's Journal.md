@@ -3,9 +3,12 @@ type: item
 possessed: true
 aliases: [the journal, the inheritance]
 tags: [mystery/saeth, mystery/dawnmere, mystery/ari, mystery/ruin]
+dm_source:
+image: "[[Resources/Images/Aeralon's Journal - Image.png]]"
 ---
-
 # Aeralon's Journal
+
+![[Resources/Images/Aeralon's Journal - Image.png]]
 
 ## The Object
 

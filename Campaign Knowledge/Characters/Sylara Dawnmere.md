@@ -7,8 +7,9 @@ aliases:
 tags:
   - mystery/dawnmere
   - mystery/architect
+dm_source:
+image:
 ---
-
 # Sylara Dawnmere
 
 ## What He Remembers

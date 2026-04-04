@@ -5,6 +5,8 @@ arc: "Before Grainfall"
 tags:
   - mystery/dawnmere
   - mystery/architect
+dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
+image:
 ---
 
 # The Origin

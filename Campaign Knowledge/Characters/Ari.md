@@ -8,6 +8,8 @@ tags:
   - mystery/ari
   - player-knowledge
   - thread/open
+dm_source:
+image:
 ---
 
 # Ari

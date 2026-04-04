@@ -7,6 +7,8 @@ tags:
   - mystery/architect
   - mystery/dawnmere
   - thread/open
+dm_source:
+image:
 ---
 
 # The Architect

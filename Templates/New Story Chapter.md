@@ -3,6 +3,8 @@ type: story
 chapter:
 arc: ""
 tags: []
+dm_source:
+image:
 ---
 
 # <% tp.file.title %>
