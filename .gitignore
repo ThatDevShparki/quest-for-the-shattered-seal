@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/hotkeys.json
+
+# Claude Code
+.claude/
+
+# Quartz local build
+quartz-build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if local Quartz testing)
+node_modules/

@@ -1,25 +1,44 @@
 @use "./base.scss";
 
-// Quest for the Shattered Seal -- Dark Fantasy Theme
+// Quest for the Shattered Seal -- Classic Parchment Theme
 
-// Heading accents
+// Headings
 h1 {
+  font-family: "Crimson Text", serif;
   border-bottom: 2px solid var(--secondary);
   padding-bottom: 0.3em;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
 }
 
-// Parchment-style blockquotes
+h2 {
+  font-family: "Crimson Text", serif;
+  color: var(--secondary);
+}
+
+h3, h4, h5, h6 {
+  font-family: "Crimson Text", serif;
+}
+
+// Parchment blockquotes
 blockquote {
   border-left: 3px solid var(--secondary);
-  background: rgba(184, 134, 11, 0.04);
   padding: 0.8em 1.2em;
+  background: rgba(139, 69, 19, 0.04);
   border-radius: 0 4px 4px 0;
+  font-style: italic;
 }
 
-// Subtle separator styling
+// Emphasis -- Zeph's internal voice
+em {
+  color: var(--secondary);
+}
+
+// Separators
 hr {
   border: none;
-  border-top: 1px solid var(--lightgray);
+  height: 2px;
+  background: linear-gradient(to right, transparent, var(--secondary), transparent);
   margin: 2em 0;
 }
 
@@ -28,22 +47,24 @@ table {
   border-collapse: collapse;
 
   th {
-    background: var(--highlight);
+    background: rgba(139, 69, 19, 0.08);
     border-bottom: 2px solid var(--secondary);
-    font-family: "Cinzel", serif;
+    font-family: "Crimson Text", serif;
     font-size: 0.85em;
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    padding: 8px 12px;
   }
 
   td {
     border-bottom: 1px solid var(--lightgray);
+    padding: 8px 12px;
   }
 }
 
-// Tag pills with fantasy styling
+// Tag pills
 a.internal.tag-link {
-  background: var(--highlight);
+  background: rgba(139, 69, 19, 0.06);
   border: 1px solid var(--secondary);
   border-radius: 3px;
   padding: 0.1em 0.5em;
@@ -52,8 +73,8 @@ a.internal.tag-link {
 
 // Page title
 .page-title {
-  font-family: "Cinzel", serif;
-  letter-spacing: 0.02em;
+  font-family: "Crimson Text", serif;
+  letter-spacing: 0.04em;
 }
 
 // Graph view
@@ -62,13 +83,25 @@ a.internal.tag-link {
   border-radius: 4px;
 }
 
-// Emphasis for Zeph's internal voice
-em {
-  color: var(--secondary);
-}
-
 // Explorer folder titles
 .folder-title {
-  font-family: "Cinzel", serif;
+  font-family: "Crimson Text", serif;
   font-size: 0.9em;
+}
+
+// Drop cap for first paragraph in story chapters
+.center > article > p:first-of-type::first-letter {
+  font-size: 3.2em;
+  float: left;
+  line-height: 0.8;
+  padding-right: 8px;
+  margin-top: 6px;
+  color: var(--secondary);
+  font-family: "IM Fell Great Primer", serif;
+  font-weight: bold;
+}
+
+// Links
+a {
+  color: var(--secondary);
 }
