@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9048a144b1bcbdb7",
+        "id": "f6273e2265f6c95d",
         "type": "tabs",
         "children": [
           {
-            "id": "9b14a722ca5ca283",
+            "id": "42e8619c9d3239b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Campaign Knowledge/Organizations/The Orryn Society.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "The Orryn Society"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 272.5
   },
   "right": {
     "id": "05c747d80031ad34",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Campaign Knowledge/Organizations/The Orryn Society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CLAUDE"
+              "title": "Backlinks for The Orryn Society"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Campaign Knowledge/Organizations/The Orryn Society.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CLAUDE"
+              "title": "Outgoing links from The Orryn Society"
             }
           },
           {
@@ -156,21 +156,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Campaign Knowledge/Organizations/The Orryn Society.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CLAUDE"
+              "title": "Outline of The Orryn Society"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,43 +184,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9b14a722ca5ca283",
+  "active": "42e8619c9d3239b3",
   "lastOpenFiles": [
+    "Campaign Knowledge/Organizations/The Dawnmere Lineage.md",
+    "Campaign Knowledge/Locations/The Ruined Observatory.md",
+    "Campaign Knowledge/Locations/Grainfall.md",
+    "Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall.md",
+    "Campaign Knowledge/Items/Sylara's Amulet.md",
+    "Campaign Knowledge/Items/Aeralon's Journal.md",
+    "Campaign Knowledge/Characters/Aeralon Ashdelve.md",
+    "Campaign Notes/Sessions/Session 1.md",
+    "Campaign Notes/Sessions/Session 0.md",
+    "Campaign Knowledge/Characters/Zephyrix Skydelver.md",
     "Mystery Web.canvas",
-    "CLAUDE.md",
-    "Home.md",
-    "Templates/New Question.md",
+    "Campaign Notes/Questions/Index.md",
+    "Campaign Notes/Story/05 - The Cell.md",
+    "Campaign Notes/Story/02 - The Descent.md",
+    "Campaign Notes/Story/04 - The Ritual.md",
+    "Resources/DM Notes/Session 0 Guidance.md",
+    "Campaign Notes/Story/03 - Arrival in Grainfall.md",
+    "Campaign Notes/Story/01 - The Origin.md",
+    "Templates/New Story Chapter.md",
+    "Campaign Notes/Story",
+    "Resources/DM Notes/Unconfirmed 594589.crdownload",
+    "Resources/DM Notes",
+    "Campaign Story",
+    "Campaign Knowledge/Organizations/The Orryn Society.md",
+    "Campaign Knowledge/Characters/The Visage.md",
+    "Campaign Knowledge/Characters/Brenvaal.md",
+    "Resources/Images/Aeralon's Journal - Image.png",
+    "Resources/Images/Sylara's Amulet - Image.png",
+    "Resources/Images",
+    "Resources/character_sheet.pdf",
+    "Templates/New Session.md",
     "Templates/New Organization.md",
+    "Templates/New Question.md",
+    "Templates/New Location.md",
     "Templates/New Item.md",
     "Resources",
-    "Resources/character_sheet.pdf",
-    "Campaign Notes/Questions/Index.md",
-    "Templates/New Clue.md",
-    "Templates/New Session.md",
-    "Templates/New Location.md",
-    "Templates/New Character.md",
     "Templates",
-    "context.md",
-    "Campaign Notes/Sessions/Session 1.md",
-    "Campaign Knowledge/Index.md",
-    "Campaign Knowledge/Clues/The Four Symbols.md",
-    "Campaign Knowledge/Clues/The Brothers.md",
-    "Campaign Knowledge/Clues/Sae-th.md",
-    "Campaign Knowledge/Characters/Ari.md",
-    "Campaign Knowledge/Characters/The Visage.md",
-    "Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall.md",
-    "Campaign Knowledge/Locations/The Ruined Observatory.md",
     "Campaign Knowledge/Clues",
-    "Campaign Knowledge/Items/Sylara's Amulet.md",
-    "Campaign Notes/Questions",
-    "Campaign Notes/Sessions",
-    "Campaign Knowledge",
-    "Open Questions.md",
-    "Campaign Knowledge/Items/Aeralon's Journal.md",
-    "Campaign Knowledge/Locations/Grainfall.md",
-    "Campaign Knowledge/Characters/The Architect.md",
-    "Campaign Knowledge/Organizations",
-    "Campaign Knowledge/Items",
-    "Campaign Knowledge/Locations"
+    "Campaign Notes/Questions"
   ]
 }

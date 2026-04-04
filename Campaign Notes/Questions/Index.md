@@ -1,120 +1,122 @@
 ---
 type: index
+aliases: []
+tags: []
 ---
 
 # Open Questions
 
-_Everything Zephyrix Skydelver Does Not Know Yet_
+_Everything [[Zephyrix Skydelver]] Does Not Know Yet_
 
 ---
 
-> This document consolidates every open question Zeph is carrying into the campaign, drawn from all character, location, item, and knowledge documents. Questions are organized by subject and flagged by priority. High priority questions are the ones driving his immediate behavior. Medium priority questions are threads he is aware of but not yet actively pulling. Low priority questions are things he has noticed without knowing what to do with yet. This document should be updated as questions are answered and new ones emerge.
+> This document consolidates every open question [[Zephyrix Skydelver|Zeph]] is carrying into the campaign, drawn from all character, location, item, and knowledge documents. Questions are organized by subject and flagged by priority. High priority questions are the ones driving his immediate behavior. Medium priority questions are threads he is aware of but not yet actively pulling. Low priority questions are things he has noticed without knowing what to do with yet. This document should be updated as questions are answered and new ones emerge.
 
 ---
 
-## About His Mother — Sylara Dawnmere
+## About His Mother — [[Sylara Dawnmere]]
 
 **High Priority**
 
-- What did Sylara actually know about the Dawnmere lineage? Did she know the full depth of what her bloodline was connected to or did she choose light in partial ignorance?
-- What killed her? Was it illness, or did The Architect collect something from her, and if so what and why?
-- What did she choose light _over_? The Dawnmere crest on the wall of the ceremonial room tells him the choosing was deliberate and against something specific. What was it?
+- What did [[Sylara Dawnmere|Sylara]] actually know about [[The Dawnmere Lineage|the Dawnmere lineage]]? Did she know the full depth of what her bloodline was connected to or did she choose light in partial ignorance?
+- What killed her? Was it illness, or did [[The Architect]] collect something from her, and if so what and why?
+- What did she choose light _over_? [[The Dawnmere Lineage|The Dawnmere crest]] on the wall of the ceremonial room tells him the choosing was deliberate and against something specific. What was it?
 - What did she tell him about the crest as a child? The memory is imprecise. Can he recover it or will something in the campaign give it back to him?
-- Did she know about the Visage? Was her faith built in response to it, in ignorance of it, or in some relationship to it he does not yet have a word for?
+- Did she know about [[The Visage]]? Was her faith built in response to it, in ignorance of it, or in some relationship to it he does not yet have a word for?
 
 **Medium Priority**
 
-- Does she have any living family? Are there other Dawnmere line members who knew her?
-- What was her life before Aeralon? Where did she come from?
-- Did she know Ari was her familiar when she was alive? What was their relationship?
+- Does she have any living family? Are there other [[The Dawnmere Lineage|Dawnmere line]] members who knew her?
+- What was her life before [[Aeralon Ashdelve|Aeralon]]? Where did she come from?
+- Did she know [[Ari]] was her familiar when she was alive? What was their relationship?
 - Why did she never explain the crest beyond its surface features?
 
 ---
 
-## About His Father — Aeralon Ashdelve
+## About His Father — [[Aeralon Ashdelve]]
 
 **High Priority**
 
-- What did Aeralon find in Grainfall the first time? What specifically began the change?
-- Did Aeralon perform the ritual in the ceremonial room? If so what happened?
-- What did Aeralon actually know about the Dawnmere lineage? How much of his vagueness was ignorance and how much was deliberate protection?
-- Did Aeralon encounter The Architect again after Sylara's death?
-- Why did he draw Ari into the journal? Was it protection, containment, love, necessity, or something else?
-- Did Aeralon know Ari was Sylara's familiar?
+- What did [[Aeralon Ashdelve|Aeralon]] find in [[Grainfall]] the first time? What specifically began the change?
+- Did [[Aeralon Ashdelve|Aeralon]] perform the ritual in the ceremonial room? If so what happened?
+- What did [[Aeralon Ashdelve|Aeralon]] actually know about [[The Dawnmere Lineage|the Dawnmere lineage]]? How much of his vagueness was ignorance and how much was deliberate protection?
+- Did [[Aeralon Ashdelve|Aeralon]] encounter [[The Architect]] again after [[Sylara Dawnmere|Sylara]]'s death?
+- Why did he draw [[Ari]] into [[Aeralon's Journal|the journal]]? Was it protection, containment, love, necessity, or something else?
+- Did [[Aeralon Ashdelve|Aeralon]] know [[Ari]] was [[Sylara Dawnmere|Sylara]]'s familiar?
 
 **Medium Priority**
 
-- What does the Orryn Society know about Aeralon's final years of research?
-- What did Brenvaal know about Grainfall and what did Aeralon tell him?
-- Did Aeralon ever open to the first page in his final years? Did any part of him that was still himself try to follow Sylara's instructions?
-- Was any of the change in Aeralon a choice or was it entirely the Dreamrot?
+- What does [[The Orryn Society]] know about [[Aeralon Ashdelve|Aeralon]]'s final years of research?
+- What did [[Brenvaal]] know about [[Grainfall]] and what did [[Aeralon Ashdelve|Aeralon]] tell him?
+- Did [[Aeralon Ashdelve|Aeralon]] ever open to the first page in his final years? Did any part of him that was still himself try to follow [[Sylara Dawnmere|Sylara]]'s instructions?
+- Was any of the change in [[Aeralon Ashdelve|Aeralon]] a choice or was it entirely the Dreamrot?
 
 **Low Priority**
 
-- What was Aeralon's life before Sylara? Where did he come from?
-- How did the Orryn Society regard Aeralon's final years publicly?
+- What was [[Aeralon Ashdelve|Aeralon]]'s life before [[Sylara Dawnmere|Sylara]]? Where did he come from?
+- How did [[The Orryn Society]] regard [[Aeralon Ashdelve|Aeralon]]'s final years publicly?
 
 ---
 
-## About Ari
+## About [[Ari]]
 
 **High Priority**
 
-- What is Ari actually trying to say? What is the complete thought that _never-dark_ and _Dawnmere-burns_ are fragments of?
-- What does Ari know about Sylara? How much of her does it carry?
-- Why does it speak in Aeralon's cadences if it was Sylara's familiar? What did twenty years inside the journal do to it?
+- What is [[Ari]] actually trying to say? What is the complete thought that _never-dark_ and _Dawnmere-burns_ are fragments of?
+- What does [[Ari]] know about [[Sylara Dawnmere|Sylara]]? How much of her does it carry?
+- Why does it speak in [[Aeralon Ashdelve|Aeralon]]'s cadences if it was [[Sylara Dawnmere|Sylara]]'s familiar? What did twenty years inside [[Aeralon's Journal|the journal]] do to it?
 - What does _never-dark_ mean? Protection or warning?
-- What does _Dawnmere-burns_ mean? The bloodline's nature, what happened to Sylara, or what is coming for Zeph?
+- What does _Dawnmere-burns_ mean? The bloodline's nature, what happened to [[Sylara Dawnmere|Sylara]], or what is coming for [[Zephyrix Skydelver|Zeph]]?
 
 **Medium Priority**
 
-- Does Ari have a real name? What did Sylara call it?
+- Does [[Ari]] have a real name? What did [[Sylara Dawnmere|Sylara]] call it?
 - How much does it understand of what is said around it?
-- Is the journal still its home in some sense or was the emergence permanent?
+- Is [[Aeralon's Journal|the journal]] still its home in some sense or was the emergence permanent?
 - What is the barrier between what it knows and what it can say? Is it permanent or can it be overcome?
 
 **Low Priority**
 
-- What did Ari witness during Aeralon's descent? What does it remember of the Grainfall obsession?
-- Did Ari witness Sylara's death? Was it present that night?
+- What did [[Ari]] witness during [[Aeralon Ashdelve|Aeralon]]'s descent? What does it remember of the [[Grainfall]] obsession?
+- Did [[Ari]] witness [[Sylara Dawnmere|Sylara]]'s death? Was it present that night?
 
 ---
 
-## About The Visage
+## About [[The Visage]]
 
 **High Priority**
 
-- What is the Visage? God, entity, something that predates both categories, something else entirely?
+- What is [[The Visage]]? God, entity, something that predates both categories, something else entirely?
 - What does becoming its servant actually mean? What would be asked, what would change, what would it cost?
-- What does it actually know about Sylara and is that knowledge real or constructed to move him?
-- What does it need from him specifically? Why him, why now, why the Dawnmere bloodline?
+- What does it actually know about [[Sylara Dawnmere|Sylara]] and is that knowledge real or constructed to move him?
+- What does it need from him specifically? Why him, why now, why [[The Dawnmere Lineage|the Dawnmere bloodline]]?
 - How long has it been waiting and what has it been waiting for?
 - Is saying no survivable? Is saying yes?
 
 **Medium Priority**
 
-- Is the Visage the thing that destroyed his father or connected to it?
-- Is the Visage one of the Brothers?
-- Is the Visage connected to the civilization that built the sealed ruin or something they contained?
-- What happened during the ritual that Zeph did not see because he was running?
+- Is [[The Visage]] the thing that destroyed his father or connected to it?
+- Is [[The Visage]] one of [[The Brothers]]?
+- Is [[The Visage]] connected to the civilization that built [[The Sealed Ruin Beneath Grainfall|the sealed ruin]] or something they contained?
+- What happened during the ritual that [[Zephyrix Skydelver|Zeph]] did not see because he was running?
 
 **Low Priority**
 
-- Can the Visage leave the ceremonial room or is it bound there?
-- Has it spoken to anyone else in Grainfall?
+- Can [[The Visage]] leave the ceremonial room or is it bound there?
+- Has it spoken to anyone else in [[Grainfall]]?
 
 ---
 
-## About The Architect
+## About [[The Architect]]
 
 **Medium Priority**
 
-- Who or what is The Architect?
-- What did he do at Sylara's bedside the night before she died?
+- Who or what is [[The Architect]]?
+- What did he do at [[Sylara Dawnmere|Sylara]]'s bedside the night before she died?
 - Is his presence connected to her death or coincidental to it?
-- Did Aeralon ever encounter The Architect again?
-- Does The Architect know Zeph exists?
-- Is The Architect connected to the Visage, the Dawnmere lineage, or the Brothers?
+- Did [[Aeralon Ashdelve|Aeralon]] ever encounter [[The Architect]] again?
+- Does [[The Architect]] know [[Zephyrix Skydelver|Zeph]] exists?
+- Is [[The Architect]] connected to [[The Visage]], [[The Dawnmere Lineage|the Dawnmere lineage]], or [[The Brothers]]?
 
 **Low Priority**
 
@@ -123,68 +125,68 @@ _Everything Zephyrix Skydelver Does Not Know Yet_
 
 ---
 
-## About The Dawnmere Lineage
+## About [[The Dawnmere Lineage]]
 
 **High Priority**
 
-- What is the full history of the Dawnmere line?
-- Are there living members of the lineage beyond Zeph?
-- Is he connected to one of the Brothers through his mother's blood?
+- What is the full history of [[The Dawnmere Lineage|the Dawnmere line]]?
+- Are there living members of the lineage beyond [[Zephyrix Skydelver|Zeph]]?
+- Is he connected to one of [[The Brothers]] through his mother's blood?
 - What does carrying the Dawnmere name actually mean in the world that the campaign is revealing?
 
 **Medium Priority**
 
-- What is the relationship between the Dawnmere lineage and the civilization that built the sealed ruin?
-- Did all members of the Dawnmere line make the same choice Sylara did or did they serve the Visage?
-- What does the Dawnmere crest's position in the family tree on the ceremonial room wall mean? Where in the lineage does it fall?
+- What is the relationship between [[The Dawnmere Lineage|the Dawnmere lineage]] and the civilization that built [[The Sealed Ruin Beneath Grainfall|the sealed ruin]]?
+- Did all members of [[The Dawnmere Lineage|the Dawnmere line]] make the same choice [[Sylara Dawnmere|Sylara]] did or did they serve [[The Visage]]?
+- What does [[The Dawnmere Lineage|the Dawnmere crest]]'s position in the family tree on the ceremonial room wall mean? Where in the lineage does it fall?
 
 ---
 
-## About The Four Symbols
+## About [[The Four Symbols]]
 
 **High Priority**
 
-- What do the four symbols represent individually and collectively?
+- What do [[The Four Symbols]] represent individually and collectively?
 - What are the other three symbols the marks of and who carries them?
 - What is the significance of the minor variations between the four?
-- What did Sylara actually tell him about the crest as a child? Can the memory be recovered?
+- What did [[Sylara Dawnmere|Sylara]] actually tell him about the crest as a child? Can the memory be recovered?
 
 **Medium Priority**
 
-- Are the four symbols connected to the Brothers directly?
-- Are there other locations where the four symbols appear together beyond the Observatory and the sealed ruin?
+- Are [[The Four Symbols]] connected to [[The Brothers]] directly?
+- Are there other locations where [[The Four Symbols]] appear together beyond [[The Ruined Observatory|the Observatory]] and [[The Sealed Ruin Beneath Grainfall|the sealed ruin]]?
 
 ---
 
-## About Sae-th
+## About [[Sae-th]]
 
 **High Priority**
 
-- What do the passages in Aeralon's journal actually say?
-- Is there anyone alive who can read Sae-th?
-- Did Aeralon's attempt to decode Sae-th contribute to what happened to him?
+- What do the passages in [[Aeralon's Journal]] actually say?
+- Is there anyone alive who can read [[Sae-th]]?
+- Did [[Aeralon Ashdelve|Aeralon]]'s attempt to decode [[Sae-th]] contribute to what happened to him?
 
 **Medium Priority**
 
-- Is Sae-th still spoken or written anywhere in the world?
+- Is [[Sae-th]] still spoken or written anywhere in the world?
 - What does it mean for a language to bind the world? Is the binding intact?
-- Are the four symbols characters from Sae-th or related to it?
+- Are [[The Four Symbols]] characters from [[Sae-th]] or related to it?
 
 ---
 
-## About The Brothers
+## About [[The Brothers]]
 
 **Medium Priority**
 
-- Who or what are the Brothers?
+- Who or what are [[The Brothers]]?
 - How many are there?
-- Are they connected to the Dawnmere lineage directly?
+- Are they connected to [[The Dawnmere Lineage|the Dawnmere lineage]] directly?
 - Do they still exist in any meaningful sense?
-- Is the Visage one of them?
+- Is [[The Visage]] one of them?
 
 ---
 
-## About The Sealed Ruin
+## About [[The Sealed Ruin Beneath Grainfall|The Sealed Ruin]]
 
 **High Priority**
 
@@ -196,32 +198,32 @@ _Everything Zephyrix Skydelver Does Not Know Yet_
 
 **Medium Priority**
 
-- What is the relationship between the sealed ruin and the Ruined Observatory?
-- Are the crypts and their occupants connected to the Dawnmere lineage?
+- What is the relationship between [[The Sealed Ruin Beneath Grainfall|the sealed ruin]] and [[The Ruined Observatory]]?
+- Are the crypts and their occupants connected to [[The Dawnmere Lineage|the Dawnmere lineage]]?
 
 ---
 
-## About The Ruined Observatory
+## About [[The Ruined Observatory]]
 
 **High Priority**
 
 - Who is living on the upper levels and why?
 - Who hung the tapestry and when?
-- Is the occupant connected to the Dawnmere lineage, the sealed ruin, or something else entirely?
+- Is the occupant connected to [[The Dawnmere Lineage|the Dawnmere lineage]], [[The Sealed Ruin Beneath Grainfall|the sealed ruin]], or something else entirely?
 
 **Medium Priority**
 
-- What was the Observatory originally built for?
-- Is the Observatory connected to the sealed ruin architecturally or historically?
+- What was [[The Ruined Observatory|the Observatory]] originally built for?
+- Is [[The Ruined Observatory|the Observatory]] connected to [[The Sealed Ruin Beneath Grainfall|the sealed ruin]] architecturally or historically?
 - Is it safe to go back?
 
 ---
 
-## About Grainfall
+## About [[Grainfall]]
 
 **Medium Priority**
 
-- What does Grainfall know about what is beneath it?
+- What does [[Grainfall]] know about what is beneath it?
 - Who sealed the ruin and under whose authority?
 - Are there people in this town who have been waiting for someone carrying the Dawnmere name to arrive?
 - Are there people who have been making sure no one does?
@@ -235,7 +237,7 @@ _Everything Zephyrix Skydelver Does Not Know Yet_
 - What is the Dreamrot specifically and what is it doing to him?
 - Is what he is noticing in himself the same thing that happened to his father or something adjacent to it?
 - Did the ritual accelerate it or is he simply becoming more aware of what was already there?
-- Is the Dreamrot connected to the Dawnmere bloodline specifically or is it something anyone can contract?
+- Is the Dreamrot connected to [[The Dawnmere Lineage|the Dawnmere bloodline]] specifically or is it something anyone can contract?
 
 ---
 

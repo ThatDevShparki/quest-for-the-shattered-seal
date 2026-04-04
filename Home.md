@@ -59,6 +59,17 @@ SORT file.name ASC
 
 ---
 
+## Campaign Story
+
+```dataview
+TABLE chapter, arc
+FROM "Campaign Notes/Story"
+WHERE type = "story"
+SORT chapter ASC
+```
+
+---
+
 ## Sessions
 
 ```dataview

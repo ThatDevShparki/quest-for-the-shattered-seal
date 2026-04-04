@@ -15,8 +15,9 @@ This is an Obsidian vault for a D&D 5.5e campaign called **Dreamrot**. The vault
 
 ### Creating New Documents
 
-Always use the templates in `Templates/`. There are 7:
+Always use the templates in `Templates/`. There are 8:
 
+- `New Story Chapter.md` — for new canonical narrative chapters (the source of truth for what happened)
 - `New Character.md` — for any NPC, entity, or figure Zeph encounters
 - `New Location.md` — for any place
 - `New Item.md` — for any object of significance
@@ -31,12 +32,13 @@ Templates use Templater syntax (`<% tp.file.title %>`). They include frontmatter
 
 When the campaign reveals new information:
 
-1. Add a row to the relevant document's **Knowledge Tracker** table
-2. Update the narrative sections if the new information changes what Zeph knows
-3. Add new `[[wiki-links]]` to any newly relevant entities
-4. Update `tags:` in frontmatter if the document now connects to a new mystery thread
-5. Update `Campaign Notes/Questions/Index.md` if a question is answered or a new one opens
-6. Update `Campaign Knowledge/Index.md` tracker status if entry counts change
+1. **Update Campaign Story first.** New events go into the appropriate Story chapter, or create a new chapter. Story is the canonical source of truth for what happened.
+2. Add a row to the relevant document's **Knowledge Tracker** table
+3. Update the narrative sections of character/location/item/clue docs if new information changes what Zeph knows. These are reference profiles, not the primary narrative.
+4. Add new `[[wiki-links]]` to any newly relevant entities
+5. Update `tags:` in frontmatter if the document now connects to a new mystery thread
+6. Update `Campaign Notes/Questions/Index.md` if a question is answered or a new one opens
+7. Update `Campaign Knowledge/Index.md` tracker status if entry counts change
 
 ---
 
@@ -66,6 +68,7 @@ These are non-negotiable. Every one of them exists because of a specific decisio
 ### Formatting and Structure
 
 - **Frontmatter is required on every document.** Follow the schema exactly:
+  - Story chapters: `type`, `chapter`, `arc`, `tags`
   - Characters: `type`, `status`, `aliases`, `tags`
   - Locations: `type`, `visited`, `aliases`, `tags`
   - Items: `type`, `possessed`, `aliases`, `tags`
@@ -129,13 +132,25 @@ Campaign Knowledge/
   Organizations/                     — 2 files (Dawnmere Lineage, Orryn Society)
   Mystery Web.canvas                 — Visual node map of mysteries
 Campaign Notes/
+  Story/                             — Canonical linear narrative (source of truth)
+    01 - The Origin.md               — Birth, Sylara, the Architect, childhood
+    02 - The Descent.md              — Aeralon's change, death, the journal, the decision
+    03 - Arrival in Grainfall.md     — Observatory, sealed ruin, ceremonial room
+    04 - The Ritual.md               — The ritual, the Visage, the flight, the arrest
+    05 - The Cell.md                 — Ari's emergence, the amulet, the present state
   Sessions/                          — Session notes (Session 0, Session 1)
   Questions/
     Index.md                         — Consolidated open questions
-Templates/                           — 7 Templater templates
+Templates/                           — 8 Templater templates
 Resources/
   character_sheet.pdf                — Zeph's character sheet (source of truth for mechanics)
 ```
+
+### Architecture Principle
+
+**Campaign Story is the canonical source of truth for what happened.** It is the linear narrative, told from Zeph's perspective, organized by arc and chapter. As the campaign progresses, existing chapters grow and new chapters are added.
+
+**Character, location, item, clue, and organization documents are reference profiles.** They analyze, describe, and track knowledge about their subject. They link to Campaign Story for the full narrative of events. They do not retell stories that the Story chapters already contain.
 
 ---
 
