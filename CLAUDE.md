@@ -72,10 +72,10 @@ These are non-negotiable. Every one of them exists because of a specific decisio
   - Characters: `type`, `status`, `aliases`, `tags`
   - Locations: `type`, `visited`, `aliases`, `tags`
   - Items: `type`, `possessed`, `aliases`, `tags`
-  - Clues: `type`, `decoded`, `aliases`, `tags`
+  - Clues: `type`, `decoded`, `scope`, `aliases`, `tags`
   - Organizations: `type`, `aliases`, `tags`
   - Sessions: `type`, `session_number`, `tags`
-  - Questions: `type`, `priority`, `status`, `subject`, `session_introduced`, `tags`
+  - Questions: `type`, `priority`, `status`, `scope`, `subject`, `session_introduced`, `tags`
   - Indexes: `type`
 - **Wiki-link every meaningful mention of a known entity.** Use display text for readability: `[[Aeralon Ashdelve|Aeralon]]`. Link every occurrence, not just the first.
 - **Tags are for mystery threads and narrative weight only.** Do not duplicate what frontmatter fields already express. See the tag taxonomy below.
@@ -117,6 +117,20 @@ Do not use tags for things already in frontmatter fields:
 - `status: deceased` replaces `#deceased`
 - `decoded: false` replaces `#clue/undecoded`
 - `priority: high` replaces `#priority/high`
+
+### Scope Classification
+
+The `scope` frontmatter property classifies whether a question or clue is personal to Zeph or part of the broader world mystery.
+
+**Valid values:**
+- `character` — Personal to Zeph. His body, his parents, his familiar, his direct emotional experience.
+- `campaign` — World-level mystery. Ancient entities, lost languages, sealed ruins, unknown civilizations.
+- `both` — Sits at the boundary. Personal to Zeph AND structurally important to the world (e.g., the Dawnmere lineage is his blood and an ancient world structure).
+
+**Classification guidance:**
+- If the question or clue would exist regardless of Zeph's involvement, it is `campaign`.
+- If the question or clue is about Zeph's body, family, familiar, or direct emotional experience, it is `character`.
+- If removing Zeph from the equation would change the nature of the question but not eliminate it, it is `both`.
 
 ---
 
