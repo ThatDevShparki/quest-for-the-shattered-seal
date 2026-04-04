@@ -21,7 +21,7 @@ publish: false
 - What is the Dreamrot specifically and what is it doing to him?
 - Is what he is noticing in himself the same thing that happened to his father or something adjacent to it?
 - Did the ritual accelerate it or is he simply becoming more aware of what was already there?
-- Is the Dreamrot connected to [[The Dawnmere Lineage|the Dawnmere bloodline]] specifically or is it something anyone can contract?
+- Is the Dreamrot connected to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere bloodline]] specifically or is it something anyone can contract?
 
 ---
 
@@ -33,13 +33,13 @@ The Dreamrot is not abstract. It is happening to Zeph now. Whether it is a curse
 
 ## What He Knows So Far
 
-Zeph has begun noticing changes in himself that echo what happened to [[Aeralon Ashdelve|his father]]. The Dreamrot may be hereditary or it may have been triggered by exposure to something in [[The Sealed Ruin Beneath Grainfall|the ruin]] or through the act of decoding [[Sae-th|the old language]]. The timeline and mechanism remain unclear.
+Zeph has begun noticing changes in himself that echo what happened to [[Campaign Knowledge/Characters/Aeralon Ashdelve|his father]]. The Dreamrot may be hereditary or it may have been triggered by exposure to something in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ruin]] or through the act of decoding [[Campaign Knowledge/Clues/Sae-th|the old language]]. The timeline and mechanism remain unclear.
 
 ---
 
 ## Related Clues
 
-- [[Sae-th]] -- did the act of decoding the language contribute to the onset of the Dreamrot?
+- [[Campaign Knowledge/Clues/Sae-th]] -- did the act of decoding the language contribute to the onset of the Dreamrot?
 
 ---
 

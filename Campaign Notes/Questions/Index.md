@@ -7,7 +7,7 @@ publish: false
 
 # Open Questions
 
-_Everything [[Zephyrix Skydelver]] Does Not Know Yet_
+_Everything [[Campaign Knowledge/Characters/Zephyrix Skydelver]] Does Not Know Yet_
 
 ---
 

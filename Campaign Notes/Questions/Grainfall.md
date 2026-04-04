@@ -17,7 +17,7 @@ publish: false
 
 ### Medium Priority
 
-- What does [[Grainfall|the town]] know about what is beneath it?
+- What does [[Campaign Knowledge/Locations/Grainfall|the town]] know about what is beneath it?
 - Who sealed the ruin and under whose authority?
 - Are there people in this town who have been waiting for someone carrying the Dawnmere name to arrive?
 - Are there people who have been making sure no one does?
@@ -32,7 +32,7 @@ Grainfall sits directly above something ancient and deliberately buried. A town 
 
 ## What He Knows So Far
 
-[[Grainfall|The town]] exists above [[The Sealed Ruin Beneath Grainfall|the sealed ruin]]. It is unclear whether the townspeople are aware of what lies beneath them, whether local authorities played a role in sealing the ruin, or whether anyone in town has a connection to [[The Dawnmere Lineage|the Dawnmere lineage]].
+[[Campaign Knowledge/Locations/Grainfall|The town]] exists above [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin]]. It is unclear whether the townspeople are aware of what lies beneath them, whether local authorities played a role in sealing the ruin, or whether anyone in town has a connection to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]].
 
 ---
 

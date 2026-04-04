@@ -12,15 +12,15 @@ publish: true
 
 ## The Source
 
-His father wrote their name once, in the margins of [[Aeralon's Journal|Aeralon's journal]] beside passages written in [[Sae-th]], in handwriting still steady enough to be deliberate.
+His father wrote their name once, in the margins of [[Campaign Knowledge/Items/Aeralon's Journal|Aeralon's journal]] beside passages written in [[Campaign Knowledge/Clues/Sae-th]], in handwriting still steady enough to be deliberate.
 
-_As far as I can tell this is the language of the brothers. It is called [[Sae-th]]. It binds the world._
+_As far as I can tell this is the language of the brothers. It is called [[Campaign Knowledge/Clues/Sae-th]]. It binds the world._
 
 That is the complete record. The Brothers are not described. They are not named individually. They are referenced as the owners or originators or speakers of a language that predates any known civilization and that his father believed binds the world.
 
-[[Aeralon Ashdelve|Aeralon]] wrote this as fact rather than theory. He was meticulous about that distinction his entire career. He did not write things as fact without basis. Whatever he understood about the Brothers he understood well enough to state their connection to [[Sae-th]] without qualification.
+[[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] wrote this as fact rather than theory. He was meticulous about that distinction his entire career. He did not write things as fact without basis. Whatever he understood about the Brothers he understood well enough to state their connection to [[Campaign Knowledge/Clues/Sae-th]] without qualification.
 
-What that understanding cost him or what it contained beyond this single sentence, [[Zephyrix Skydelver|Zeph]] does not know.
+What that understanding cost him or what it contained beyond this single sentence, [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] does not know.
 
 ---
 
@@ -28,7 +28,7 @@ What that understanding cost him or what it contained beyond this single sentenc
 
 He has not committed to this as established fact. He is thinking about it.
 
-[[The Four Symbols]] at [[The Ruined Observatory]]. Four variations of a shared base form. His family's crest is one of them. The Brothers, plural. A language connected to something ancient enough to predate recorded history.
+[[Campaign Knowledge/Clues/The Four Symbols]] at [[Campaign Knowledge/Locations/The Ruined Observatory]]. Four variations of a shared base form. His family's crest is one of them. The Brothers, plural. A language connected to something ancient enough to predate recorded history.
 
 Four brothers. Four symbols. He is holding this connection provisionally and waiting for the campaign to confirm or complicate it.
 
@@ -40,9 +40,9 @@ Almost everything.
 
 He does not know who the Brothers are or were. Whether they are historical figures, divine entities, something that predates both of those categories, or all of those things simultaneously in the way that ancient civilizations made no distinction between them.
 
-He does not know how many there are. Brothers implies more than one. [[The Four Symbols]] suggest four. He is not certain these are the same count.
+He does not know how many there are. Brothers implies more than one. [[Campaign Knowledge/Clues/The Four Symbols]] suggest four. He is not certain these are the same count.
 
-He does not know their relationship to [[The Dawnmere Lineage|the Dawnmere lineage]], to [[The Visage]], to [[The Sealed Ruin Beneath Grainfall|the sealed ruin]], to [[Sae-th]] beyond the annotation, or to each other.
+He does not know their relationship to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]], to [[Campaign Knowledge/Characters/The Visage]], to [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin]], to [[Campaign Knowledge/Clues/Sae-th]] beyond the annotation, or to each other.
 
 He does not know if they still exist in any meaningful sense. Whether they are living, dead, contained, dispersed, or something else entirely that he does not have a word for yet.
 
@@ -52,22 +52,22 @@ He does not know if he is connected to one of them through his mother's bloodlin
 
 ## Connections
 
-- [[Aeralon Ashdelve]] -- the only source for the Brothers, through his journal annotation
-- [[Aeralon's Journal]] -- contains the single annotation referencing the Brothers
-- [[Sae-th]] -- identified by Aeralon as the language of the Brothers
-- [[The Four Symbols]] -- four variations of the Dawnmere crest, possibly one per Brother
-- [[The Ruined Observatory]] -- where the four symbols were discovered
-- [[The Sealed Ruin Beneath Grainfall]] -- the ancient ruin possibly built by or for the Brothers
-- [[The Dawnmere Lineage]] -- Zeph's family crest is one of the four symbols, suggesting a bloodline connection
-- [[Sylara Dawnmere]] -- carried the Dawnmere crest, possibly linked to one of the Brothers
-- [[The Visage]] -- the entity in the ceremonial room, possibly one of the Brothers or connected to them
-- [[Grainfall]] -- the town built above the ruin connected to the Brothers
+- [[Campaign Knowledge/Characters/Aeralon Ashdelve]] -- the only source for the Brothers, through his journal annotation
+- [[Campaign Knowledge/Items/Aeralon's Journal]] -- contains the single annotation referencing the Brothers
+- [[Campaign Knowledge/Clues/Sae-th]] -- identified by Aeralon as the language of the Brothers
+- [[Campaign Knowledge/Clues/The Four Symbols]] -- four variations of the Dawnmere crest, possibly one per Brother
+- [[Campaign Knowledge/Locations/The Ruined Observatory]] -- where the four symbols were discovered
+- [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall]] -- the ancient ruin possibly built by or for the Brothers
+- [[Campaign Knowledge/Organizations/The Dawnmere Lineage]] -- Zeph's family crest is one of the four symbols, suggesting a bloodline connection
+- [[Campaign Knowledge/Characters/Sylara Dawnmere]] -- carried the Dawnmere crest, possibly linked to one of the Brothers
+- [[Campaign Knowledge/Characters/The Visage]] -- the entity in the ceremonial room, possibly one of the Brothers or connected to them
+- [[Campaign Knowledge/Locations/Grainfall]] -- the town built above the ruin connected to the Brothers
 
 ---
 
 ## Knowledge Tracker
 
-_This section will be updated as the campaign progresses and the Brothers reveal themselves through [[Sae-th]], [[The Four Symbols|the four symbols]], [[The Dawnmere Lineage|the Dawnmere lineage]], or other sources._
+_This section will be updated as the campaign progresses and the Brothers reveal themselves through [[Campaign Knowledge/Clues/Sae-th]], [[Campaign Knowledge/Clues/The Four Symbols|the four symbols]], [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]], or other sources._
 
 ---
 

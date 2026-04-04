@@ -18,23 +18,23 @@ publish: false
 
 ### High Priority
 
-- What is [[Ari]] actually trying to say? What is the complete thought that _never-dark_ and _Dawnmere-burns_ are fragments of?
-- What does [[Ari]] know about [[Sylara Dawnmere|Sylara]]? How much of her does it carry?
-- Why does it speak in [[Aeralon Ashdelve|Aeralon]]'s cadences if it was [[Sylara Dawnmere|Sylara]]'s familiar? What did twenty years inside [[Aeralon's Journal|the journal]] do to it?
+- What is [[Campaign Knowledge/Characters/Ari]] actually trying to say? What is the complete thought that _never-dark_ and _Dawnmere-burns_ are fragments of?
+- What does [[Campaign Knowledge/Characters/Ari]] know about [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]? How much of her does it carry?
+- Why does it speak in [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s cadences if it was [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]'s familiar? What did twenty years inside [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] do to it?
 - What does _never-dark_ mean? Protection or warning?
-- What does _Dawnmere-burns_ mean? The bloodline's nature, what happened to [[Sylara Dawnmere|Sylara]], or what is coming for [[Zephyrix Skydelver|Zeph]]?
+- What does _Dawnmere-burns_ mean? The bloodline's nature, what happened to [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]], or what is coming for [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]]?
 
 ### Medium Priority
 
-- Does [[Ari]] have a real name? What did [[Sylara Dawnmere|Sylara]] call it?
+- Does [[Campaign Knowledge/Characters/Ari]] have a real name? What did [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] call it?
 - How much does it understand of what is said around it?
-- Is [[Aeralon's Journal|the journal]] still its home in some sense or was the emergence permanent?
+- Is [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] still its home in some sense or was the emergence permanent?
 - What is the barrier between what it knows and what it can say? Is it permanent or can it be overcome?
 
 ### Low Priority
 
-- What did [[Ari]] witness during [[Aeralon Ashdelve|Aeralon]]'s descent? What does it remember of the [[Grainfall]] obsession?
-- Did [[Ari]] witness [[Sylara Dawnmere|Sylara]]'s death? Was it present that night?
+- What did [[Campaign Knowledge/Characters/Ari]] witness during [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s descent? What does it remember of the [[Campaign Knowledge/Locations/Grainfall]] obsession?
+- Did [[Campaign Knowledge/Characters/Ari]] witness [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]'s death? Was it present that night?
 
 ---
 
@@ -46,13 +46,13 @@ Ari is the only living link to both of Zeph's parents. It carries fragments of k
 
 ## What He Knows So Far
 
-[[Ari]] emerged from [[Aeralon's Journal|Aeralon's journal]] and appears to have been [[Sylara Dawnmere|Sylara]]'s familiar. It speaks in broken phrases -- _never-dark_ and _Dawnmere-burns_ -- using cadences that echo [[Aeralon Ashdelve|Aeralon]]. It was trapped inside the journal for roughly twenty years. It responds to Zeph and seems to recognize him, but its ability to communicate is severely limited.
+[[Campaign Knowledge/Characters/Ari]] emerged from [[Campaign Knowledge/Items/Aeralon's Journal|Aeralon's journal]] and appears to have been [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]'s familiar. It speaks in broken phrases -- _never-dark_ and _Dawnmere-burns_ -- using cadences that echo [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]. It was trapped inside the journal for roughly twenty years. It responds to Zeph and seems to recognize him, but its ability to communicate is severely limited.
 
 ---
 
 ## Related Clues
 
-- [[Sae-th]] -- the ancient language Ari may understand or be trying to speak fragments of
+- [[Campaign Knowledge/Clues/Sae-th]] -- the ancient language Ari may understand or be trying to speak fragments of
 
 ---
 

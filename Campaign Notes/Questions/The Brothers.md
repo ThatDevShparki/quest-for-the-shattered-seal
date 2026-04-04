@@ -19,11 +19,11 @@ publish: false
 
 ### Medium Priority
 
-- Who or what are [[The Brothers|the Brothers]]?
+- Who or what are [[Campaign Knowledge/Clues/The Brothers|the Brothers]]?
 - How many are there?
-- Are they connected to [[The Dawnmere Lineage|the Dawnmere lineage]] directly?
+- Are they connected to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]] directly?
 - Do they still exist in any meaningful sense?
-- Is [[The Visage|the Visage]] one of them?
+- Is [[Campaign Knowledge/Characters/The Visage|the Visage]] one of them?
 
 ---
 
@@ -35,15 +35,15 @@ The Brothers appear repeatedly across the evidence Zeph has uncovered, always at
 
 ## What He Knows So Far
 
-[[The Brothers|The Brothers]] are referenced in connection with [[Sae-th|the old language]] and [[The Four Symbols|the symbols]]. Their nature remains unclear. [[The Visage|The Visage]] encountered in the ruin may be one of them, but nothing confirms this yet.
+[[Campaign Knowledge/Clues/The Brothers|The Brothers]] are referenced in connection with [[Campaign Knowledge/Clues/Sae-th|the old language]] and [[Campaign Knowledge/Clues/The Four Symbols|the symbols]]. Their nature remains unclear. [[Campaign Knowledge/Characters/The Visage|The Visage]] encountered in the ruin may be one of them, but nothing confirms this yet.
 
 ---
 
 ## Related Clues
 
-- [[The Brothers]] -- the primary clue document on these figures
-- [[Sae-th]] -- the language associated with them
-- [[The Four Symbols]] -- symbols that may represent or be tied to them
+- [[Campaign Knowledge/Clues/The Brothers]] -- the primary clue document on these figures
+- [[Campaign Knowledge/Clues/Sae-th]] -- the language associated with them
+- [[Campaign Knowledge/Clues/The Four Symbols]] -- symbols that may represent or be tied to them
 
 ---
 

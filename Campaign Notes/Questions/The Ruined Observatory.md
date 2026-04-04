@@ -20,12 +20,12 @@ publish: false
 
 - Who is living on the upper levels and why?
 - Who hung the tapestry and when?
-- Is the occupant connected to [[The Dawnmere Lineage|the Dawnmere lineage]], [[The Sealed Ruin Beneath Grainfall|the sealed ruin]], or something else entirely?
+- Is the occupant connected to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]], [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin]], or something else entirely?
 
 ### Medium Priority
 
-- What was [[The Ruined Observatory|the Observatory]] originally built for?
-- Is [[The Ruined Observatory|the Observatory]] connected to [[The Sealed Ruin Beneath Grainfall|the sealed ruin]] architecturally or historically?
+- What was [[Campaign Knowledge/Locations/The Ruined Observatory|the Observatory]] originally built for?
+- Is [[Campaign Knowledge/Locations/The Ruined Observatory|the Observatory]] connected to [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin]] architecturally or historically?
 - Is it safe to go back?
 
 ---
@@ -38,13 +38,13 @@ The Observatory is not as abandoned as it appears. Someone is living there, and 
 
 ## What He Knows So Far
 
-[[The Ruined Observatory|The Observatory]] appears ruined from the outside but shows signs of habitation on its upper levels. A tapestry was found inside that connects to [[The Four Symbols|the four symbols]]. The identity and purpose of whoever is living there remain unknown.
+[[Campaign Knowledge/Locations/The Ruined Observatory|The Observatory]] appears ruined from the outside but shows signs of habitation on its upper levels. A tapestry was found inside that connects to [[Campaign Knowledge/Clues/The Four Symbols|the four symbols]]. The identity and purpose of whoever is living there remain unknown.
 
 ---
 
 ## Related Clues
 
-- [[The Four Symbols]] -- the tapestry in the Observatory bears imagery tied to these symbols
+- [[Campaign Knowledge/Clues/The Four Symbols]] -- the tapestry in the Observatory bears imagery tied to these symbols
 
 ---
 

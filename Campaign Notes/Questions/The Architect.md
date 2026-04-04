@@ -18,12 +18,12 @@ publish: false
 
 ### Medium Priority
 
-- Who or what is [[The Architect]]?
-- What did he do at [[Sylara Dawnmere|Sylara]]'s bedside the night before she died?
+- Who or what is [[Campaign Knowledge/Characters/The Architect]]?
+- What did he do at [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]'s bedside the night before she died?
 - Is his presence connected to her death or coincidental to it?
-- Did [[Aeralon Ashdelve|Aeralon]] ever encounter [[The Architect]] again?
-- Does [[The Architect]] know [[Zephyrix Skydelver|Zeph]] exists?
-- Is [[The Architect]] connected to [[The Visage]], [[The Dawnmere Lineage|the Dawnmere lineage]], or [[The Brothers]]?
+- Did [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] ever encounter [[Campaign Knowledge/Characters/The Architect]] again?
+- Does [[Campaign Knowledge/Characters/The Architect]] know [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] exists?
+- Is [[Campaign Knowledge/Characters/The Architect]] connected to [[Campaign Knowledge/Characters/The Visage]], [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]], or [[Campaign Knowledge/Clues/The Brothers]]?
 
 ### Low Priority
 
@@ -40,13 +40,13 @@ The Architect is the figure who appeared at Sylara's bedside the night before sh
 
 ## What He Knows So Far
 
-[[Zephyrix Skydelver|Zeph]] saw [[The Architect]] once as a child, at [[Sylara Dawnmere|Sylara]]'s bedside the night before she died. The man was warm, smiled, and when asked his name said only that he was "the Architect." Nothing else is known about him -- not his nature, his purpose, or whether he has appeared since.
+[[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] saw [[Campaign Knowledge/Characters/The Architect]] once as a child, at [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]'s bedside the night before she died. The man was warm, smiled, and when asked his name said only that he was "the Architect." Nothing else is known about him -- not his nature, his purpose, or whether he has appeared since.
 
 ---
 
 ## Related Clues
 
-- [[The Four Symbols]] -- if the Architect is connected to the Brothers, the symbols may relate to his role or identity
+- [[Campaign Knowledge/Clues/The Four Symbols]] -- if the Architect is connected to the Brothers, the symbols may relate to his role or identity
 
 ---
 

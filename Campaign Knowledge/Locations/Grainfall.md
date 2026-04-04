@@ -12,11 +12,11 @@ publish: true
 
 ## Why He Came
 
-Grainfall is the place his father called his ultimate discovery. It appears in [[Aeralon's Journal|the journal]] repeatedly across the final years of [[Aeralon Ashdelve|Aeralon]]'s notes, named with increasing frequency and decreasing coherence as the pages move toward the end. It is where the handwriting began to change. It is where whatever found his father found him.
+Grainfall is the place his father called his ultimate discovery. It appears in [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] repeatedly across the final years of [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s notes, named with increasing frequency and decreasing coherence as the pages move toward the end. It is where the handwriting began to change. It is where whatever found his father found him.
 
-It is also the place his father wrote that he had found [[Sylara Dawnmere|Sylara]].
+It is also the place his father wrote that he had found [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]].
 
-[[Zephyrix Skydelver|Zeph]] did not come to Grainfall because he knew what it was. He came because [[Aeralon's Journal|the journal]] pointed here and the journal was the only direction he had. He arrived with his father's notes, his mother's amulet, and the specific determination of someone who has run out of ways to avoid a thing and has decided to face it instead.
+[[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] did not come to Grainfall because he knew what it was. He came because [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] pointed here and the journal was the only direction he had. He arrived with his father's notes, his mother's amulet, and the specific determination of someone who has run out of ways to avoid a thing and has decided to face it instead.
 
 He has been here only a few days. It feels longer.
 
@@ -38,13 +38,13 @@ This is a gap he intends to fill. He is aware that he has been operating without
 
 The ruin beneath Grainfall was sealed. Officially and recently. The stated reason was structural instability.
 
-Nothing in his father's survey notes supported this explanation. [[Aeralon Ashdelve|Aeralon]] had documented the site extensively in his earlier years, before the madness, and his structural observations described a ruin that was remarkably well preserved for its age. Not unstable. Deliberately constructed to last. The kind of stonework that does not fail without intervention.
+Nothing in his father's survey notes supported this explanation. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had documented the site extensively in his earlier years, before the madness, and his structural observations described a ruin that was remarkably well preserved for its age. Not unstable. Deliberately constructed to last. The kind of stonework that does not fail without intervention.
 
-Someone sealed it after [[Aeralon Ashdelve|Aeralon]]'s last visit or during his final years of deteriorating research. [[Zephyrix Skydelver|Zeph]] does not know who made that decision or under whose authority or what actually prompted it. He does not know if the sealing was a response to what [[Aeralon Ashdelve|Aeralon]] found there or a coincidence of timing. He does not know if the people who sealed it knew what was inside.
+Someone sealed it after [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s last visit or during his final years of deteriorating research. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] does not know who made that decision or under whose authority or what actually prompted it. He does not know if the sealing was a response to what [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] found there or a coincidence of timing. He does not know if the people who sealed it knew what was inside.
 
 He went in anyway. He knows what he found. He does not yet know what finding it means for the town that has been sitting above it.
 
-[[The Sealed Ruin Beneath Grainfall|The ruin]] itself he knows more intimately than he knows Grainfall. He has been inside it. He has seen the crypts and the murals and the ceremonial room and the family tree carved into stone that predates recorded history. He has stood where his father stood and done what his father was too fractured to do and run when the room decided he had done enough for one evening.
+[[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|The ruin]] itself he knows more intimately than he knows Grainfall. He has been inside it. He has seen the crypts and the murals and the ceremonial room and the family tree carved into stone that predates recorded history. He has stood where his father stood and done what his father was too fractured to do and run when the room decided he had done enough for one evening.
 
 He knows the ruin. He does not yet know the town that grew above it.
 
@@ -52,17 +52,17 @@ He knows the ruin. He does not yet know the town that grew above it.
 
 ## The Ruined Observatory
 
-At the edge of the forest just outside Grainfall stands a structure the locals apparently call [[The Ruined Observatory]]. [[Zephyrix Skydelver|Zeph]] found it while orienting himself in the area, cross referencing his father's notes against the local geography.
+At the edge of the forest just outside Grainfall stands a structure the locals apparently call [[Campaign Knowledge/Locations/The Ruined Observatory]]. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] found it while orienting himself in the area, cross referencing his father's notes against the local geography.
 
 Two things registered immediately.
 
 Someone appeared to be living on the upper levels. Not obviously, not in a way that announced itself, but in the specific way that occupied spaces announce themselves to people who have spent their lives in excavation sites learning to read the difference between abandoned and dormant. Something about the upper levels was not purely ruin.
 
-Further inside he found [[The Dawnmere Lineage|the Dawnmere crest]] carved into the stone. His family's symbol in a structure at the edge of a town that contains [[The Sealed Ruin Beneath Grainfall|a sealed ruin]] with his family's symbol on the walls. He copied down the markings surrounding it and discovered that what appeared to be a single symbol was in fact four, each remarkably similar to the others with minor deliberate variations between them. He recognized them, imprecisely and from somewhere he could not immediately place, from something his mother said while holding [[Sylara's Amulet|the pendant]] out for a small child to look at.
+Further inside he found [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere crest]] carved into the stone. His family's symbol in a structure at the edge of a town that contains [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|a sealed ruin]] with his family's symbol on the walls. He copied down the markings surrounding it and discovered that what appeared to be a single symbol was in fact four, each remarkably similar to the others with minor deliberate variations between them. He recognized them, imprecisely and from somewhere he could not immediately place, from something his mother said while holding [[Campaign Knowledge/Items/Sylara's Amulet|the pendant]] out for a small child to look at.
 
-He left [[The Ruined Observatory]] with more questions than he arrived with and moved on toward [[The Sealed Ruin Beneath Grainfall|the ruin]] beneath the town because [[Aeralon's Journal|the journal]] was pulling him there and there are only so many directions a person can move at once.
+He left [[Campaign Knowledge/Locations/The Ruined Observatory]] with more questions than he arrived with and moved on toward [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ruin]] beneath the town because [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] was pulling him there and there are only so many directions a person can move at once.
 
-He intends to go back. [[The Ruined Observatory]] is not finished with him or he is not finished with it. He is not sure yet which framing is more accurate.
+He intends to go back. [[Campaign Knowledge/Locations/The Ruined Observatory]] is not finished with him or he is not finished with it. He is not sure yet which framing is more accurate.
 
 ---
 
@@ -70,7 +70,7 @@ He intends to go back. [[The Ruined Observatory]] is not finished with him or he
 
 There are authorities in Grainfall. He knows this because they arrested him.
 
-Beyond this basic fact he knows almost nothing about them. He does not know their structure or their leadership or their relationship to [[The Sealed Ruin Beneath Grainfall|the sealed ruin]] or their feelings about people who trespass in protected sites and emerge claiming a god has awoken underground. He knows they went to look when he told them what had happened and found nothing disturbed and came back with handcuffs.
+Beyond this basic fact he knows almost nothing about them. He does not know their structure or their leadership or their relationship to [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin]] or their feelings about people who trespass in protected sites and emerge claiming a god has awoken underground. He knows they went to look when he told them what had happened and found nothing disturbed and came back with handcuffs.
 
 He does not know if they are simply doing their job or if they know more than they are saying. He does not know who sealed the ruin and whether the sealing was an administrative decision or something with more intention behind it. He does not know if his arrest was routine or if someone was informed.
 
@@ -94,7 +94,7 @@ Both seem possible. Grainfall has the feeling of a place that has been sitting a
 
 He knows almost nothing about this town and he knows that he knows almost nothing. This is the most honest summary he can offer.
 
-He does not know its history or its relationship to the ruins beneath it or what stories its people tell about what is down there. He does not know who sealed the ruin or when precisely or why the stated reason does not match the evidence. He does not know who is living in the upper levels of [[The Ruined Observatory]] or what they know about [[The Four Symbols|the four symbols]] carved into its stone. He does not know what the authorities here know or who they answer to. He does not know if anyone in Grainfall has heard of [[Aeralon Ashdelve]] or of [[The Dawnmere Lineage|the Dawnmere name]] or of [[Sae-th]] or of [[The Brothers]].
+He does not know its history or its relationship to the ruins beneath it or what stories its people tell about what is down there. He does not know who sealed the ruin or when precisely or why the stated reason does not match the evidence. He does not know who is living in the upper levels of [[Campaign Knowledge/Locations/The Ruined Observatory]] or what they know about [[Campaign Knowledge/Clues/The Four Symbols|the four symbols]] carved into its stone. He does not know what the authorities here know or who they answer to. He does not know if anyone in Grainfall has heard of [[Campaign Knowledge/Characters/Aeralon Ashdelve]] or of [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere name]] or of [[Campaign Knowledge/Clues/Sae-th]] or of [[Campaign Knowledge/Clues/The Brothers]].
 
 He does not know if this town is simply a town that happens to have an ancient sealed ruin beneath it, or if it is something more deliberately positioned than that.
 
@@ -104,7 +104,7 @@ He is going to find out. He has barely started. The jail cell is, in a specific 
 
 ## Where He Is Now
 
-A cell. Stone walls. Damp from the inside. The ceiling he has been looking at for most of a night while turning [[Sylara's Amulet|a pendant]] over in his hands and watching [[Ari|a raven]] speak in his father's cadences.
+A cell. Stone walls. Damp from the inside. The ceiling he has been looking at for most of a night while turning [[Campaign Knowledge/Items/Sylara's Amulet|a pendant]] over in his hands and watching [[Campaign Knowledge/Characters/Ari|a raven]] speak in his father's cadences.
 
 Grainfall is out there beyond these walls, carrying whatever it carries, knowing whatever it knows, going about whatever it goes about in the early hours before morning.
 
@@ -120,18 +120,18 @@ He does not have much choice but to be.
 
 ## Connections
 
-- [[The Sealed Ruin Beneath Grainfall]] -- the ancient ruin sealed beneath the town, where the ritual took place
-- [[The Ruined Observatory]] -- the structure at the forest's edge bearing the Dawnmere crest and the four symbols
-- [[Aeralon Ashdelve]] -- Zeph's father, who spent his final years obsessed with this place
-- [[Aeralon's Journal]] -- the journal that led Zeph here
-- [[Sylara Dawnmere]] -- Zeph's mother, referenced by Aeralon as having been "found" here
-- [[Sylara's Amulet]] -- the pendant that activated in the ruin beneath the town
-- [[The Dawnmere Lineage]] -- the bloodline woven into the ruin's walls
-- [[The Four Symbols]] -- carved into the Observatory, connected to the Dawnmere crest
-- [[Sae-th]] -- the ancient language found in the journal, connected to the ruins
-- [[The Brothers]] -- referenced in the journal, possibly connected to the four symbols
-- [[The Visage]] -- the entity that spoke during the ritual beneath the town
-- [[Ari]] -- Aeralon's familiar, emerged from the journal in the jail cell
+- [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall]] -- the ancient ruin sealed beneath the town, where the ritual took place
+- [[Campaign Knowledge/Locations/The Ruined Observatory]] -- the structure at the forest's edge bearing the Dawnmere crest and the four symbols
+- [[Campaign Knowledge/Characters/Aeralon Ashdelve]] -- Zeph's father, who spent his final years obsessed with this place
+- [[Campaign Knowledge/Items/Aeralon's Journal]] -- the journal that led Zeph here
+- [[Campaign Knowledge/Characters/Sylara Dawnmere]] -- Zeph's mother, referenced by Aeralon as having been "found" here
+- [[Campaign Knowledge/Items/Sylara's Amulet]] -- the pendant that activated in the ruin beneath the town
+- [[Campaign Knowledge/Organizations/The Dawnmere Lineage]] -- the bloodline woven into the ruin's walls
+- [[Campaign Knowledge/Clues/The Four Symbols]] -- carved into the Observatory, connected to the Dawnmere crest
+- [[Campaign Knowledge/Clues/Sae-th]] -- the ancient language found in the journal, connected to the ruins
+- [[Campaign Knowledge/Clues/The Brothers]] -- referenced in the journal, possibly connected to the four symbols
+- [[Campaign Knowledge/Characters/The Visage]] -- the entity that spoke during the ritual beneath the town
+- [[Campaign Knowledge/Characters/Ari]] -- Aeralon's familiar, emerged from the journal in the jail cell
 
 ---
 

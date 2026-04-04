@@ -19,16 +19,16 @@ publish: false
 
 ### High Priority
 
-- Who sealed [[The Sealed Ruin Beneath Grainfall|the ruin]] and why? What was the actual reason?
+- Who sealed [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ruin]] and why? What was the actual reason?
 - What do the murals record? Can they be read?
 - What civilization built this place and why does it leave no trace in any known record?
-- What is the full extent of [[The Sealed Ruin Beneath Grainfall|the ruin]] beyond what he explored?
-- What happened in [[The Sealed Ruin Beneath Grainfall|the ceremonial room]] after he ran?
+- What is the full extent of [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ruin]] beyond what he explored?
+- What happened in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] after he ran?
 
 ### Medium Priority
 
-- What is the relationship between [[The Sealed Ruin Beneath Grainfall|the sealed ruin]] and [[The Ruined Observatory|the Observatory]]?
-- Are the crypts and their occupants connected to [[The Dawnmere Lineage|the Dawnmere lineage]]?
+- What is the relationship between [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin]] and [[Campaign Knowledge/Locations/The Ruined Observatory|the Observatory]]?
+- Are the crypts and their occupants connected to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]]?
 
 ---
 
@@ -40,15 +40,15 @@ The sealed ruin is the most direct physical evidence Zeph has found of whatever 
 
 ## What He Knows So Far
 
-[[The Sealed Ruin Beneath Grainfall|The ruin]] lies beneath [[Grainfall|the town of Grainfall]] and was sealed deliberately. Inside, he found murals, crypts, and a ceremonial chamber. The murals contain imagery that may relate to [[The Four Symbols|the four symbols]]. The language [[Sae-th|Sae-th]] appears in inscriptions within the ruin. Something happened in the ceremonial room that he fled from before fully understanding.
+[[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|The ruin]] lies beneath [[Campaign Knowledge/Locations/Grainfall|the town of Grainfall]] and was sealed deliberately. Inside, he found murals, crypts, and a ceremonial chamber. The murals contain imagery that may relate to [[Campaign Knowledge/Clues/The Four Symbols|the four symbols]]. The language [[Campaign Knowledge/Clues/Sae-th|Sae-th]] appears in inscriptions within the ruin. Something happened in the ceremonial room that he fled from before fully understanding.
 
 ---
 
 ## Related Clues
 
-- [[Sae-th]] -- inscriptions in the ruin appear to be written in this language
-- [[The Four Symbols]] -- imagery in the murals may correspond to these symbols
-- [[The Brothers]] -- the builders or occupants of the ruin may be connected to them
+- [[Campaign Knowledge/Clues/Sae-th]] -- inscriptions in the ruin appear to be written in this language
+- [[Campaign Knowledge/Clues/The Four Symbols]] -- imagery in the murals may correspond to these symbols
+- [[Campaign Knowledge/Clues/The Brothers]] -- the builders or occupants of the ruin may be connected to them
 
 ---
 

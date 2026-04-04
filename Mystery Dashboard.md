@@ -146,7 +146,7 @@ FROM #mystery/dawnmere
 SORT type ASC
 ```
 
-> Cross-threads: [[The Dawnmere Lineage]], [[Sylara's Amulet]], and [[The Four Symbols]] connect this mystery to the Visage, the Symbols, and the Ruin.
+> Cross-threads: [[Campaign Knowledge/Organizations/The Dawnmere Lineage]], [[Campaign Knowledge/Items/Sylara's Amulet]], and [[Campaign Knowledge/Clues/The Four Symbols]] connect this mystery to the Visage, the Symbols, and the Ruin.
 
 ---
 
@@ -167,7 +167,7 @@ FROM #mystery/visage
 SORT type ASC
 ```
 
-> The entity in the ceremonial room. Connected to the Dawnmere bloodline through [[Sylara Dawnmere|Sylara's]] voice. Open question: what is it?
+> The entity in the ceremonial room. Connected to the Dawnmere bloodline through [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara's]] voice. Open question: what is it?
 
 ---
 
@@ -188,7 +188,7 @@ FROM #mystery/architect
 SORT type ASC
 ```
 
-> The figure at [[Sylara Dawnmere|Sylara's]] bedside. Not yet connected to [[The Visage]] in Zeph's mind. That framework might exist.
+> The figure at [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara's]] bedside. Not yet connected to [[Campaign Knowledge/Characters/The Visage]] in Zeph's mind. That framework might exist.
 
 ---
 
@@ -209,7 +209,7 @@ FROM #mystery/saeth
 SORT type ASC
 ```
 
-> The language of [[The Brothers]]. It binds the world. Passages unread. Connection to the four symbols provisional.
+> The language of [[Campaign Knowledge/Clues/The Brothers]]. It binds the world. Passages unread. Connection to the four symbols provisional.
 
 ---
 
@@ -251,7 +251,7 @@ FROM #mystery/brothers
 SORT type ASC
 ```
 
-> Unnamed, unnumbered, unknown. Referenced once in [[Aeralon's Journal|the journal]]. Possibly four.
+> Unnamed, unnumbered, unknown. Referenced once in [[Campaign Knowledge/Items/Aeralon's Journal|the journal]]. Possibly four.
 
 ---
 
@@ -294,7 +294,7 @@ FROM #mystery/ari
 SORT type ASC
 ```
 
-> Actually [[Sylara Dawnmere|Sylara's]] familiar. Zeph does not know this.
+> Actually [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara's]] familiar. Zeph does not know this.
 
 ---
 
@@ -315,7 +315,7 @@ FROM #mystery/ruin
 SORT type ASC
 ```
 
-> The civilization that built [[The Sealed Ruin Beneath Grainfall|the sealed ruin]]. No trace in any known record. Predates history entirely.
+> The civilization that built [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin]]. No trace in any known record. Predates history entirely.
 
 ---
 

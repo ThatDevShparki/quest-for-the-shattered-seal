@@ -24,11 +24,11 @@ The entrance was navigable. Whatever sealing had been done was administrative ra
 
 The ruin was extraordinary in the specific way that truly forgotten places are extraordinary. Not the dramatic extraordinary of something discovered and celebrated. The quiet extraordinary of something that has been exactly where it was for a very long time without anyone coming to look.
 
-Everything was untouched. The dust was undisturbed in the way that dust is undisturbed when no foot has moved through it in a very long time. The air had the particular quality of sealed spaces, old and still and carrying the faint mineral smell of excavated stone that [[Zephyrix Skydelver|Zeph]] has known since childhood. It smelled like his father's study and like every site he had ever been brought to as a child, and the familiarity of the smell in an unfamiliar place was its own kind of disorientation.
+Everything was untouched. The dust was undisturbed in the way that dust is undisturbed when no foot has moved through it in a very long time. The air had the particular quality of sealed spaces, old and still and carrying the faint mineral smell of excavated stone that [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] has known since childhood. It smelled like his father's study and like every site he had ever been brought to as a child, and the familiarity of the smell in an unfamiliar place was its own kind of disorientation.
 
 He moved slowly. His father taught him to move slowly. You read a site before you touch it and you touch it before you take from it and you take from it only when you understand what you are taking. He touched nothing. He read everything he could.
 
-What he read was unfamiliar. This is the significant thing and he recognized its significance immediately. He has spent his life in [[Aeralon Ashdelve|Aeralon]]'s orbit, surrounded by [[Aeralon Ashdelve|Aeralon]]'s scholarship and [[The Orryn Society]]'s accumulated knowledge and the breadth of what academic archaeology has documented across decades of serious work. He has encountered obscure civilizations, regional cultures, poorly documented periods of history. He has sat in rooms full of the most knowledgeable people in the known world and listened to them argue about the edges of what is understood.
+What he read was unfamiliar. This is the significant thing and he recognized its significance immediately. He has spent his life in [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s orbit, surrounded by [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s scholarship and [[Campaign Knowledge/Organizations/The Orryn Society]]'s accumulated knowledge and the breadth of what academic archaeology has documented across decades of serious work. He has encountered obscure civilizations, regional cultures, poorly documented periods of history. He has sat in rooms full of the most knowledgeable people in the known world and listened to them argue about the edges of what is understood.
 
 Nothing in this ruin matched anything he had encountered in any of that. Not approximately. Not in the way that a regional variation matches its root culture or a later period echoes an earlier one. The civilization that built this place left no trace in any record he has access to. It predates the record entirely or exists entirely outside it.
 
@@ -58,7 +58,7 @@ Not decorative. Not incidental. Deliberate and dense and continuous, the kind of
 
 He could not read them. This is the honest account and it sits uncomfortably for someone with his training. He can read architectural intention. He can read cultural priority from what a civilization chooses to depict and how. He can identify period and regional influence and the iconographic conventions of dozens of historical traditions.
 
-He could read none of that here. The figures and events and moments depicted in these murals belonged to a visual language as unfamiliar as [[Sae-th]]. He understood that they were records of something, events and people and moments from the life of whatever civilization built this place. He could not understand what was being recorded.
+He could read none of that here. The figures and events and moments depicted in these murals belonged to a visual language as unfamiliar as [[Campaign Knowledge/Clues/Sae-th]]. He understood that they were records of something, events and people and moments from the life of whatever civilization built this place. He could not understand what was being recorded.
 
 He moved through them slowly, looking at each section carefully, making mental notes of what he could describe even without being able to interpret. The figures were not Aarakocra or human or any race he recognized with certainty. The events depicted had a quality of significance to them, the particular visual weight that artists give to things that matter, without providing him the context to understand what mattered or why.
 
@@ -72,7 +72,7 @@ He found it deep inside. The hallways led to it with the architectural logic of 
 
 It was large. Large enough that his footsteps changed quality when he entered, the echo deepening and broadening in the way of spaces built to hold something significant. The ceiling was high and lost to shadow at the edges of his light source. The floor was unbroken stone, the same precision of construction as everything else in the ruin but grander in its execution, a surface made to be stood upon by people who considered the standing important.
 
-Braziers and altars were arranged on a central platform, the configuration deliberate and specific in a way that his father's early journal entries had described precisely. He recognized it from those descriptions. He had read that passage enough times that standing in the room felt like arriving somewhere he had been told about rather than discovering something new. [[Aeralon Ashdelve|Aeralon]] had seen this. [[Aeralon Ashdelve|Aeralon]] had stood here.
+Braziers and altars were arranged on a central platform, the configuration deliberate and specific in a way that his father's early journal entries had described precisely. He recognized it from those descriptions. He had read that passage enough times that standing in the room felt like arriving somewhere he had been told about rather than discovering something new. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had seen this. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had stood here.
 
 He touched the walls as he moved around the space. Not to take samples, not to disturb, simply the archaeologist's instinct to make physical contact with a thing you are trying to understand, to feel the texture and temperature of the stone and the precision of the carvings beneath your hands. The walls were cold and very smooth and the carvings were sharper than their apparent age should have allowed, as though whatever the civilization used to cut stone had been more precise than anything in current use.
 
@@ -88,13 +88,13 @@ A family tree rendered in careful and continuous detail across the full circumfe
 
 He traced it with his hands and his eyes for a long time. The scope of it was staggering. Whatever family this documented had been vast and long and considered itself worth the stone it was carved into.
 
-And there, woven into the web, was [[The Dawnmere Lineage|the Dawnmere family crest]].
+And there, woven into the web, was [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere family crest]].
 
-He stopped moving. He stood in front of it and looked at it for a long time without touching it and without speaking and without reaching for [[Aeralon's Journal|the journal]], which was his first instinct and which he suppressed because he needed a moment before he was ready for what the journal might confirm.
+He stopped moving. He stood in front of it and looked at it for a long time without touching it and without speaking and without reaching for [[Campaign Knowledge/Items/Aeralon's Journal|the journal]], which was his first instinct and which he suppressed because he needed a moment before he was ready for what the journal might confirm.
 
 Then he reached for the journal.
 
-What he found in the journal's pages, the defaced crests and the frantic scribbling and his father's handwriting deteriorating around the very symbol he was looking at on the wall, told him everything about what [[Aeralon Ashdelve|Aeralon]] had felt standing in this same spot. And told him nothing about what it meant.
+What he found in the journal's pages, the defaced crests and the frantic scribbling and his father's handwriting deteriorating around the very symbol he was looking at on the wall, told him everything about what [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had felt standing in this same spot. And told him nothing about what it meant.
 
 He touched the wall where the crest was carved. Just once. With one hand. The stone was the same temperature as everything else. He did not know what he expected.
 
@@ -106,7 +106,7 @@ The full narrative of the ritual and flight is told in [[Campaign Notes/Story/04
 
 His father had written of this room in his earlier years, in the precise and controlled handwriting of a scholar who had not yet begun to fracture. The description was exact and the cross references thorough and the ritual he had found in texts so obscure they were considered fictional by most scholars was annotated with the care of someone who had decided it was worth understanding even if acting on it was another question.
 
-[[Aeralon Ashdelve|Aeralon]] had stood here and not performed the ritual. Or had performed it and not documented the performance. Or had been too far gone by the time he stood here to perform it correctly. [[Zephyrix Skydelver|Zeph]] does not know which.
+[[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had stood here and not performed the ritual. Or had performed it and not documented the performance. Or had been too far gone by the time he stood here to perform it correctly. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] does not know which.
 
 He was not too far gone. He was clear headed and making clean connections and he understood what the room was designed for and he understood what his father had found and he understood, with the particular certainty of someone who has spent his life being trained by the most thorough scholar he has ever known, that leaving without attempting what the room was built for would be the wrong decision.
 
@@ -116,7 +116,7 @@ Something spoke back.
 
 A woman's voice. At first he thought it was his mother. The timbre of it, the cadence, something in the shape of the sound reached directly into his earliest memories and pulled. But it was not her. It was something that knew exactly how to sound like her, something that had found the most unguarded place in him and pressed itself against it like a key against a lock.
 
-[[The Visage]] asked him to become its servant.
+[[Campaign Knowledge/Characters/The Visage]] asked him to become its servant.
 
 ---
 
@@ -124,7 +124,7 @@ A woman's voice. At first he thought it was his mother. The timbre of it, the ca
 
 He ran.
 
-This is the complete record of what he experienced between [[The Visage|the voice]] asking its question and the street outside. He was not observing. He was not reading the site. He was moving as fast as his body would carry him through a space that had turned hostile in every sensory register simultaneously.
+This is the complete record of what he experienced between [[Campaign Knowledge/Characters/The Visage|the voice]] asking its question and the street outside. He was not observing. He was not reading the site. He was moving as fast as his body would carry him through a space that had turned hostile in every sensory register simultaneously.
 
 Skeletons rising from the crypts he had passed with such careful scholarly attention. Walls shaking. Braziers igniting. Urns shattering. The floor heaving beneath him the entire length of the ruin. He did not look back. He did not stop. He did not think about anything except the exit and then the exit again and then the exit once more until he was through it.
 
@@ -142,7 +142,7 @@ He does not know what the murals are recording. He could not read them. He knows
 
 He does not know what the family tree in the ceremonial room means in full. He knows his family's crest is in it. He does not know where in the lineage it falls, what relationship it has to the central ancestral point, or what the other branches of the tree represent.
 
-He does not know what spoke to him. He does not know what [[The Visage]] is, what it wants beyond the obvious, what its relationship is to [[The Dawnmere Lineage|the Dawnmere lineage]] or to the ruin or to the civilization that built this place. He does not know if it is still in the room or whether the room is simply where it can be heard.
+He does not know what spoke to him. He does not know what [[Campaign Knowledge/Characters/The Visage]] is, what it wants beyond the obvious, what its relationship is to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]] or to the ruin or to the civilization that built this place. He does not know if it is still in the room or whether the room is simply where it can be heard.
 
 He does not know what the ritual did beyond producing a response. He does not know if performing it had consequences he has not yet felt or noticed. He does not know if his father performed it and what happened when he did.
 
@@ -152,25 +152,25 @@ He does not know if he will go back. He knows he will go back. He does not know 
 
 ## Connections
 
-- [[Grainfall]] -- the town built above the ruin
-- [[The Ruined Observatory]] -- the structure at the forest's edge bearing the same Dawnmere crest
-- [[Aeralon Ashdelve]] -- Zeph's father, who explored the ruin and documented it extensively
-- [[Aeralon's Journal]] -- contains the descriptions and ritual instructions that led Zeph to the ceremonial room
-- [[Sylara Dawnmere]] -- Zeph's mother, whose bloodline is woven into the family tree on the walls
-- [[Sylara's Amulet]] -- activated during the ritual and flight from the ceremonial room
-- [[The Dawnmere Lineage]] -- the bloodline carved into the ceremonial room walls
-- [[The Visage]] -- the entity that spoke during the ritual, asking Zeph to become its servant
-- [[The Four Symbols]] -- related to the Dawnmere crest found on the walls
-- [[Sae-th]] -- the ancient language, its visual language as unfamiliar as the murals
-- [[The Brothers]] -- possibly connected to the civilization that built the ruin
-- [[The Orryn Society]] -- the accumulated scholarly knowledge that could not identify this civilization
-- [[Ari]] -- Aeralon's familiar, who emerged from the journal in the cell after the ritual
+- [[Campaign Knowledge/Locations/Grainfall]] -- the town built above the ruin
+- [[Campaign Knowledge/Locations/The Ruined Observatory]] -- the structure at the forest's edge bearing the same Dawnmere crest
+- [[Campaign Knowledge/Characters/Aeralon Ashdelve]] -- Zeph's father, who explored the ruin and documented it extensively
+- [[Campaign Knowledge/Items/Aeralon's Journal]] -- contains the descriptions and ritual instructions that led Zeph to the ceremonial room
+- [[Campaign Knowledge/Characters/Sylara Dawnmere]] -- Zeph's mother, whose bloodline is woven into the family tree on the walls
+- [[Campaign Knowledge/Items/Sylara's Amulet]] -- activated during the ritual and flight from the ceremonial room
+- [[Campaign Knowledge/Organizations/The Dawnmere Lineage]] -- the bloodline carved into the ceremonial room walls
+- [[Campaign Knowledge/Characters/The Visage]] -- the entity that spoke during the ritual, asking Zeph to become its servant
+- [[Campaign Knowledge/Clues/The Four Symbols]] -- related to the Dawnmere crest found on the walls
+- [[Campaign Knowledge/Clues/Sae-th]] -- the ancient language, its visual language as unfamiliar as the murals
+- [[Campaign Knowledge/Clues/The Brothers]] -- possibly connected to the civilization that built the ruin
+- [[Campaign Knowledge/Organizations/The Orryn Society]] -- the accumulated scholarly knowledge that could not identify this civilization
+- [[Campaign Knowledge/Characters/Ari]] -- Aeralon's familiar, who emerged from the journal in the cell after the ritual
 
 ---
 
 ## Knowledge Tracker
 
-_This section will be updated as the campaign progresses and the sealed ruin reveals more of its contents, its history, and its connection to [[The Dawnmere Lineage|the Dawnmere lineage]], [[The Visage|the entity]] within it, and the civilization that built it._
+_This section will be updated as the campaign progresses and the sealed ruin reveals more of its contents, its history, and its connection to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]], [[Campaign Knowledge/Characters/The Visage|the entity]] within it, and the civilization that built it._
 
 ---
 

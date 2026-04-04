@@ -19,24 +19,24 @@ publish: false
 
 ### High Priority
 
-- What is [[The Visage]]? God, entity, something that predates both categories, something else entirely?
+- What is [[Campaign Knowledge/Characters/The Visage]]? God, entity, something that predates both categories, something else entirely?
 - What does becoming its servant actually mean? What would be asked, what would change, what would it cost?
-- What does it actually know about [[Sylara Dawnmere|Sylara]] and is that knowledge real or constructed to move him?
-- What does it need from him specifically? Why him, why now, why [[The Dawnmere Lineage|the Dawnmere bloodline]]?
+- What does it actually know about [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] and is that knowledge real or constructed to move him?
+- What does it need from him specifically? Why him, why now, why [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere bloodline]]?
 - How long has it been waiting and what has it been waiting for?
 - Is saying no survivable? Is saying yes?
 
 ### Medium Priority
 
-- Is [[The Visage]] the thing that destroyed his father or connected to it?
-- Is [[The Visage]] one of [[The Brothers]]?
-- Is [[The Visage]] connected to the civilization that built [[The Sealed Ruin Beneath Grainfall|the sealed ruin]] or something they contained?
-- What happened during the ritual that [[Zephyrix Skydelver|Zeph]] did not see because he was running?
+- Is [[Campaign Knowledge/Characters/The Visage]] the thing that destroyed his father or connected to it?
+- Is [[Campaign Knowledge/Characters/The Visage]] one of [[Campaign Knowledge/Clues/The Brothers]]?
+- Is [[Campaign Knowledge/Characters/The Visage]] connected to the civilization that built [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin]] or something they contained?
+- What happened during the ritual that [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] did not see because he was running?
 
 ### Low Priority
 
-- Can [[The Visage]] leave the ceremonial room or is it bound there?
-- Has it spoken to anyone else in [[Grainfall]]?
+- Can [[Campaign Knowledge/Characters/The Visage]] leave the ceremonial room or is it bound there?
+- Has it spoken to anyone else in [[Campaign Knowledge/Locations/Grainfall]]?
 
 ---
 
@@ -48,15 +48,15 @@ The Visage is the most direct and dangerous presence Zeph has encountered. It sp
 
 ## What He Knows So Far
 
-[[The Visage]] appeared in the ceremonial room of [[The Sealed Ruin Beneath Grainfall|the sealed ruin beneath Grainfall]]. It spoke to [[Zephyrix Skydelver|Zeph]] directly and referenced [[Sylara Dawnmere|Sylara]]. It offered servitude and implied knowledge of the Dawnmere bloodline's purpose. Zeph ran before the ritual completed. The nature of what it is and what it wants remains almost entirely unknown.
+[[Campaign Knowledge/Characters/The Visage]] appeared in the ceremonial room of [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin beneath Grainfall]]. It spoke to [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] directly and referenced [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]. It offered servitude and implied knowledge of the Dawnmere bloodline's purpose. Zeph ran before the ritual completed. The nature of what it is and what it wants remains almost entirely unknown.
 
 ---
 
 ## Related Clues
 
-- [[Sae-th]] -- the language of the ruin where the Visage resides may hold keys to understanding it
-- [[The Four Symbols]] -- the symbols in the ceremonial room may define or bind the Visage
-- [[The Brothers]] -- the Visage may be one of them or connected to their story
+- [[Campaign Knowledge/Clues/Sae-th]] -- the language of the ruin where the Visage resides may hold keys to understanding it
+- [[Campaign Knowledge/Clues/The Four Symbols]] -- the symbols in the ceremonial room may define or bind the Visage
+- [[Campaign Knowledge/Clues/The Brothers]] -- the Visage may be one of them or connected to their story
 
 ---
 
