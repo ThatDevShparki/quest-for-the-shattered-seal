@@ -307,6 +307,17 @@ SORT type ASC
 
 ---
 
+## Open Questions
+
+```dataview
+TABLE priority, status, subject
+FROM "Campaign Notes/Questions"
+WHERE type = "question"
+SORT choice(priority, "high", 1, "medium", 2, "low", 3) ASC
+```
+
+---
+
 ## Recently Modified
 
 ```dataview

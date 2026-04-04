@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mystery Dashboard.md",
+                "file": "Campaign Notes/Questions/Ari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mystery Dashboard"
+              "title": "Ari"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mystery Dashboard.md",
+                "file": "Campaign Notes/Questions/Ari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mystery Dashboard"
+              "title": "Backlinks for Ari"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mystery Dashboard.md",
+                "file": "Campaign Notes/Questions/Ari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mystery Dashboard"
+              "title": "Outgoing links from Ari"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mystery Dashboard.md",
+                "file": "Campaign Notes/Questions/Ari.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mystery Dashboard"
+              "title": "Outline of Ari"
             }
           },
           {
@@ -207,8 +207,21 @@
   },
   "active": "de726ea43f1b31c5",
   "lastOpenFiles": [
-    "Home.md",
     "Mystery Dashboard.md",
+    "Campaign Notes/Questions/The Four Symbols.md",
+    "Campaign Notes/Questions/The Dawnmere Lineage.md",
+    "Campaign Notes/Questions/The Architect.md",
+    "Campaign Notes/Questions/The Dreamrot.md",
+    "Campaign Notes/Questions/The Visage.md",
+    "Campaign Notes/Questions/Grainfall.md",
+    "Campaign Notes/Questions/The Ruined Observatory.md",
+    "Campaign Notes/Questions/Ari.md",
+    "Campaign Notes/Questions/The Sealed Ruin.md",
+    "Campaign Notes/Questions/Aeralon Ashdelve.md",
+    "Campaign Notes/Questions/The Brothers.md",
+    "Campaign Notes/Questions/Sae-th.md",
+    "Campaign Notes/Questions/Sylara Dawnmere.md",
+    "Home.md",
     "Campaign Notes/Questions/Index.md",
     "Mystery Web.canvas",
     "Campaign Knowledge/Organizations/The Orryn Society.md",
@@ -222,27 +235,14 @@
     "Campaign Knowledge/Characters/Aeralon Ashdelve.md",
     "Campaign Notes/Sessions/Session 1.md",
     "Campaign Notes/Sessions/Session 0.md",
-    "Campaign Knowledge/Characters/Zephyrix Skydelver.md",
-    "Campaign Notes/Story/05 - The Cell.md",
-    "Campaign Notes/Story/02 - The Descent.md",
-    "Campaign Notes/Story/04 - The Ritual.md",
-    "Resources/DM Notes/Session 0 Guidance.md",
-    "Campaign Notes/Story/03 - Arrival in Grainfall.md",
-    "Campaign Notes/Story/01 - The Origin.md",
-    "Templates/New Story Chapter.md",
     "Campaign Notes/Story",
     "Resources/DM Notes/Unconfirmed 594589.crdownload",
     "Resources/DM Notes",
     "Campaign Story",
-    "Campaign Knowledge/Characters/The Visage.md",
-    "Campaign Knowledge/Characters/Brenvaal.md",
     "Resources/Images/Aeralon's Journal - Image.png",
     "Resources/Images/Sylara's Amulet - Image.png",
     "Resources/Images",
     "Resources/character_sheet.pdf",
-    "Templates/New Session.md",
-    "Templates/New Organization.md",
-    "Templates/New Question.md",
     "Resources",
     "Templates",
     "Campaign Knowledge/Clues"
