@@ -138,6 +138,7 @@ Campaign Notes/
     03 - Arrival in Grainfall.md     — Observatory, sealed ruin, ceremonial room
     04 - The Ritual.md               — The ritual, the Visage, the flight, the arrest
     05 - The Cell.md                 — Ari's emergence, the amulet, the present state
+  Mystery Dashboard.md               — Auto-updating investigation board (Dataview + DataviewJS)
   Sessions/                          — Session notes (Session 0, Session 1)
   Questions/
     Index.md                         — Consolidated open questions
@@ -151,6 +152,10 @@ Resources/
 **Campaign Story is the canonical source of truth for what happened.** It is the linear narrative, told from Zeph's perspective, organized by arc and chapter. As the campaign progresses, existing chapters grow and new chapters are added.
 
 **Character, location, item, clue, and organization documents are reference profiles.** They analyze, describe, and track knowledge about their subject. They link to Campaign Story for the full narrative of events. They do not retell stories that the Story chapters already contain.
+
+**The Mystery Dashboard is automatic.** It reads tags and links from all documents and builds its views from that data. When you tag a document with a mystery thread or add wiki-links, the dashboard updates itself. No manual dashboard maintenance is needed. The dashboard lives at `Mystery Dashboard.md` and uses DataviewJS for the overview table and thread overlap matrix, and standard Dataview queries for per-thread tables.
+
+**The Vault Database (Bases view)** is a native Obsidian filterable table at `Campaign Knowledge/Vault Database.base`. It reads frontmatter properties directly and allows interactive filtering, sorting, and grouping.
 
 ---
 

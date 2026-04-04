@@ -1,0 +1,36 @@
+name: Vault Database
+source:
+  type: folder
+  config:
+    path: Campaign Knowledge
+    includeSubfolders: true
+filters: []
+formulaFilter: ""
+order:
+  - field: fileName
+    direction: asc
+columns:
+  - field: fileName
+    width: 200
+    visible: true
+  - field: type
+    width: 100
+    visible: true
+  - field: status
+    width: 100
+    visible: true
+  - field: visited
+    width: 80
+    visible: true
+  - field: possessed
+    width: 80
+    visible: true
+  - field: decoded
+    width: 80
+    visible: true
+  - field: tags
+    width: 200
+    visible: true
+  - field: aliases
+    width: 200
+    visible: true

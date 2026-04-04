@@ -92,64 +92,10 @@ SORT choice(priority, "high", 1, "medium", 2, "low", 3) ASC
 
 ---
 
----
+## Mystery Tracking
 
-## Mystery Threads
-
-### The Dawnmere Bloodline
-```dataview
-LIST FROM #mystery/dawnmere
-SORT file.name ASC
-```
-
-### The Visage
-```dataview
-LIST FROM #mystery/visage
-SORT file.name ASC
-```
-
-### The Architect
-```dataview
-LIST FROM #mystery/architect
-SORT file.name ASC
-```
-
-### Sae-th
-```dataview
-LIST FROM #mystery/saeth
-SORT file.name ASC
-```
-
-### The Four Symbols
-```dataview
-LIST FROM #mystery/symbols
-SORT file.name ASC
-```
-
-### The Brothers
-```dataview
-LIST FROM #mystery/brothers
-SORT file.name ASC
-```
-
-### The Dreamrot
-```dataview
-LIST FROM #mystery/dreamrot
-SORT file.name ASC
-```
-
-### Ari's True Nature
-```dataview
-LIST FROM #mystery/ari
-SORT file.name ASC
-```
-
-### The Lost Civilization
-```dataview
-LIST FROM #mystery/ruin
-SORT file.name ASC
-```
+[[Mystery Dashboard|Mystery Dashboard]] · [[Campaign Knowledge/Mystery Web|Mystery Web]]
 
 ---
 
-[[Campaign Knowledge/Index|Master Index]] · [[Campaign Notes/Questions/Index|Questions Index]] · [[Campaign Knowledge/Mystery Web|Mystery Web]]
+[[Campaign Knowledge/Index|Master Index]] · [[Campaign Notes/Questions/Index|Open Questions]] · [[Campaign Knowledge/Vault Database|Vault Database]]
