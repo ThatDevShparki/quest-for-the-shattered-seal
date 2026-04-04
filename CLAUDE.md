@@ -130,7 +130,6 @@ Campaign Knowledge/
   Items/                             — 2 files (Journal, Amulet)
   Clues/                             — 3 files (Sae-th, Brothers, Four Symbols)
   Organizations/                     — 2 files (Dawnmere Lineage, Orryn Society)
-  Mystery Web.canvas                 — Visual node map of mysteries
 Campaign Notes/
   Story/                             — Canonical linear narrative (source of truth)
     01 - The Origin.md               — Birth, Sylara, the Architect, childhood

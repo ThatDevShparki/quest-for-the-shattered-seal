@@ -94,7 +94,7 @@ SORT choice(priority, "high", 1, "medium", 2, "low", 3) ASC
 
 ## Mystery Tracking
 
-[[Mystery Dashboard|Mystery Dashboard]] · [[Campaign Knowledge/Mystery Web|Mystery Web]]
+[[Mystery Dashboard|Mystery Dashboard]]
 
 ---
 

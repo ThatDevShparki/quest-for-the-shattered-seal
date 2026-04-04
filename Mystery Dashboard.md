@@ -4,7 +4,22 @@ type: index
 
 # Mystery Dashboard
 
-_Auto-updating investigation board. Powered by tags, links, and Dataview._
+_Auto-updating investigation board. Powered by tags, links, Dataview, and Juggl._
+
+---
+
+## The Web
+
+_All mysteries radiating from Zeph. Requires the Juggl plugin._
+
+```juggl
+local: Zephyrix Skydelver
+layout: force-directed
+height: 600px
+autoZoom: true
+navigator: true
+limit: 50
+```
 
 ---
 
@@ -104,6 +119,15 @@ dv.table(
 
 ## The Dawnmere Bloodline
 
+```juggl
+local: Sylara Dawnmere
+layout: force-directed
+height: 350px
+autoZoom: true
+navigator: false
+toolbar: false
+```
+
 ```dataview
 TABLE type, status
 FROM #mystery/dawnmere
@@ -115,6 +139,15 @@ SORT type ASC
 ---
 
 ## The Visage
+
+```juggl
+local: The Visage
+layout: force-directed
+height: 350px
+autoZoom: true
+navigator: false
+toolbar: false
+```
 
 ```dataview
 TABLE type, status
@@ -128,6 +161,15 @@ SORT type ASC
 
 ## The Architect
 
+```juggl
+local: The Architect
+layout: force-directed
+height: 350px
+autoZoom: true
+navigator: false
+toolbar: false
+```
+
 ```dataview
 TABLE type, status
 FROM #mystery/architect
@@ -139,6 +181,15 @@ SORT type ASC
 ---
 
 ## Sae-th
+
+```juggl
+local: Sae-th
+layout: force-directed
+height: 350px
+autoZoom: true
+navigator: false
+toolbar: false
+```
 
 ```dataview
 TABLE type, status
@@ -152,6 +203,15 @@ SORT type ASC
 
 ## The Four Symbols
 
+```juggl
+local: The Four Symbols
+layout: force-directed
+height: 350px
+autoZoom: true
+navigator: false
+toolbar: false
+```
+
 ```dataview
 TABLE type, status
 FROM #mystery/symbols
@@ -163,6 +223,15 @@ SORT type ASC
 ---
 
 ## The Brothers
+
+```juggl
+local: The Brothers
+layout: force-directed
+height: 350px
+autoZoom: true
+navigator: false
+toolbar: false
+```
 
 ```dataview
 TABLE type, status
@@ -176,6 +245,16 @@ SORT type ASC
 
 ## The Dreamrot
 
+```juggl
+local: Zephyrix Skydelver
+layout: force-directed
+height: 350px
+autoZoom: true
+navigator: false
+toolbar: false
+filter: tag:#mystery/dreamrot
+```
+
 ```dataview
 TABLE type, status
 FROM #mystery/dreamrot
@@ -188,6 +267,15 @@ SORT type ASC
 
 ## Ari's True Nature
 
+```juggl
+local: Ari
+layout: force-directed
+height: 350px
+autoZoom: true
+navigator: false
+toolbar: false
+```
+
 ```dataview
 TABLE type, status
 FROM #mystery/ari
@@ -199,6 +287,15 @@ SORT type ASC
 ---
 
 ## The Lost Civilization
+
+```juggl
+local: The Sealed Ruin Beneath Grainfall
+layout: force-directed
+height: 350px
+autoZoom: true
+navigator: false
+toolbar: false
+```
 
 ```dataview
 TABLE type, status
@@ -221,4 +318,4 @@ LIMIT 8
 
 ---
 
-[[Home|Home]] · [[Campaign Notes/Questions/Index|Open Questions]] · [[Campaign Knowledge/Mystery Web|Mystery Web]] · [[Campaign Knowledge/Index|Master Index]]
+[[Home|Home]] · [[Campaign Notes/Questions/Index|Open Questions]] · [[Campaign Knowledge/Index|Master Index]]

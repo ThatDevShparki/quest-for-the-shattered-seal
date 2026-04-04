@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e100e19882d32e19",
+        "id": "f0e2e553619f72ae",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc1432bc677ceb6",
+            "id": "de726ea43f1b31c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,6 +164,26 @@
               "icon": "lucide-list",
               "title": "Outline of Mystery Dashboard"
             }
+          },
+          {
+            "id": "8cac965fa963c5d6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "2798aba51ce3f8d5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ]
       }
@@ -181,13 +201,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "bfc1432bc677ceb6",
+  "active": "de726ea43f1b31c5",
   "lastOpenFiles": [
-    "Campaign Notes/Questions/Index.md",
+    "Home.md",
     "Mystery Dashboard.md",
+    "Campaign Notes/Questions/Index.md",
     "Mystery Web.canvas",
     "Campaign Knowledge/Organizations/The Orryn Society.md",
     "Campaign Knowledge/Vault Database.base",
