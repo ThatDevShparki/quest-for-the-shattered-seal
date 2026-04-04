@@ -9,6 +9,7 @@ tags:
   - mystery/dreamrot
   - mystery/dawnmere
 dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
+publish: false
 ---
 
 # Questions -- The Dreamrot

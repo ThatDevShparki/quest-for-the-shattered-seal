@@ -1,0 +1,74 @@
+@use "./base.scss";
+
+// Quest for the Shattered Seal -- Dark Fantasy Theme
+
+// Heading accents
+h1 {
+  border-bottom: 2px solid var(--secondary);
+  padding-bottom: 0.3em;
+}
+
+// Parchment-style blockquotes
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background: rgba(184, 134, 11, 0.04);
+  padding: 0.8em 1.2em;
+  border-radius: 0 4px 4px 0;
+}
+
+// Subtle separator styling
+hr {
+  border: none;
+  border-top: 1px solid var(--lightgray);
+  margin: 2em 0;
+}
+
+// Knowledge tracker tables
+table {
+  border-collapse: collapse;
+
+  th {
+    background: var(--highlight);
+    border-bottom: 2px solid var(--secondary);
+    font-family: "Cinzel", serif;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  td {
+    border-bottom: 1px solid var(--lightgray);
+  }
+}
+
+// Tag pills with fantasy styling
+a.internal.tag-link {
+  background: var(--highlight);
+  border: 1px solid var(--secondary);
+  border-radius: 3px;
+  padding: 0.1em 0.5em;
+  font-size: 0.85em;
+}
+
+// Page title
+.page-title {
+  font-family: "Cinzel", serif;
+  letter-spacing: 0.02em;
+}
+
+// Graph view
+.graph-outer {
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+}
+
+// Emphasis for Zeph's internal voice
+em {
+  color: var(--secondary);
+}
+
+// Explorer folder titles
+.folder-title {
+  font-family: "Cinzel", serif;
+  font-size: 0.9em;
+}

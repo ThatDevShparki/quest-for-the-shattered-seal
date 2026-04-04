@@ -4,6 +4,7 @@ aliases: []
 tags: []
 dm_source:
 image:
+publish: false
 ---
 
 # <% tp.file.title %>

@@ -5,6 +5,7 @@ aliases: [the town]
 tags: [mystery/ruin]
 dm_source:
 image:
+publish: true
 ---
 
 # Grainfall

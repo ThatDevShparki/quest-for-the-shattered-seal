@@ -5,6 +5,7 @@ aliases: []
 tags: [mystery/brothers, mystery/saeth, mystery/symbols]
 dm_source:
 image:
+publish: true
 ---
 
 # The Brothers

@@ -8,6 +8,7 @@ session_introduced: 0
 tags:
   - mystery/ruin
 dm_source:
+publish: false
 ---
 
 # Questions -- Grainfall

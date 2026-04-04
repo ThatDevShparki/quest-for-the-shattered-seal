@@ -10,6 +10,7 @@ tags:
   - thread/open
 dm_source:
 image:
+publish: true
 ---
 
 # Ari

@@ -7,6 +7,7 @@ tags:
   - mystery/architect
 dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
 image:
+publish: true
 ---
 
 # The Origin

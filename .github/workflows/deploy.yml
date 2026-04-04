@@ -1,0 +1,70 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [develop]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Clone Quartz
+        run: git clone --depth 1 https://github.com/jackyzha0/quartz.git /tmp/quartz
+
+      - name: Install Quartz dependencies
+        run: cd /tmp/quartz && npm ci
+
+      - name: Copy vault content
+        run: |
+          rm -rf /tmp/quartz/content/*
+          cp -R "Campaign Knowledge" /tmp/quartz/content/
+          cp -R "Campaign Notes" /tmp/quartz/content/
+          mkdir -p /tmp/quartz/content/Resources
+          cp -R Resources/Images /tmp/quartz/content/Resources/ 2>/dev/null || true
+
+      - name: Copy landing page
+        run: cp .quartz/index.md /tmp/quartz/content/index.md
+
+      - name: Apply Quartz config
+        run: |
+          cp .quartz/quartz.config.ts /tmp/quartz/quartz.config.ts
+          cp .quartz/quartz.layout.ts /tmp/quartz/quartz.layout.ts
+          cp .quartz/custom.scss /tmp/quartz/quartz/styles/custom.scss
+
+      - name: Build
+        run: cd /tmp/quartz && npx quartz build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

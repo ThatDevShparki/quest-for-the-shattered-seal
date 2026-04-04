@@ -5,6 +5,7 @@ aliases: [the journal, the inheritance]
 tags: [mystery/saeth, mystery/dawnmere, mystery/ari, mystery/ruin]
 dm_source:
 image: "[[Resources/Images/Aeralon's Journal - Image.png]]"
+publish: true
 ---
 
 # Aeralon's Journal

@@ -9,6 +9,7 @@ tags:
   - mystery/dreamrot
 dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
 image: "[[Resources/Images/Zephyrix Skydelver - Image.png]]"
+publish: true
 ---
 
 # Zephyrix Skydelver

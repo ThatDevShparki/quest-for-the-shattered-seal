@@ -9,6 +9,7 @@ tags:
   - mystery/visage
 dm_source:
 image:
+publish: true
 ---
 
 # The Dawnmere Lineage

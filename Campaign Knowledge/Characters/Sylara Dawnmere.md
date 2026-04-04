@@ -9,6 +9,7 @@ tags:
   - mystery/architect
 dm_source:
 image:
+publish: true
 ---
 
 # Sylara Dawnmere

@@ -11,6 +11,7 @@ tags:
   - mystery/dreamrot
 dm_source:
 image:
+publish: true
 ---
 
 # Aeralon Ashdelve

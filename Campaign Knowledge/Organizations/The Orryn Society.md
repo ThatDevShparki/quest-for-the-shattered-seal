@@ -5,6 +5,7 @@ aliases:
 tags: []
 dm_source:
 image:
+publish: true
 ---
 
 # The Orryn Society

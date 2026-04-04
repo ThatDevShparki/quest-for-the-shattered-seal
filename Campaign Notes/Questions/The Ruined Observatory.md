@@ -9,6 +9,7 @@ tags:
   - mystery/symbols
   - mystery/dawnmere
 dm_source:
+publish: false
 ---
 
 # Questions -- The Ruined Observatory

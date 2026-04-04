@@ -5,6 +5,7 @@ aliases: [the amulet, the pendant, Pendant of Dawnmere]
 tags: [mystery/dawnmere, mystery/visage]
 dm_source:
 image: "[[Resources/Images/Sylara's Amulet - Image.png]]"
+publish: true
 ---
 
 # Sylara's Amulet -- Pendant of Dawnmere

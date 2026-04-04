@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 # Quest for the Shattered Seal
 
 _Zephyrix Skydelver — Aarakocra Cleric 3 — Grainfall, Session 1_

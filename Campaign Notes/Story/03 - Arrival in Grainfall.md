@@ -9,6 +9,7 @@ tags:
   - mystery/saeth
 dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
 image:
+publish: true
 ---
 
 # Arrival in Grainfall

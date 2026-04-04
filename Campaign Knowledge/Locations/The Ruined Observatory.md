@@ -5,6 +5,7 @@ aliases: [the Observatory]
 tags: [mystery/symbols, mystery/dawnmere]
 dm_source:
 image:
+publish: true
 ---
 
 # The Ruined Observatory

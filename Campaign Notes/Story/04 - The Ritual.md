@@ -9,6 +9,7 @@ tags:
   - turning-point
 dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
 image:
+publish: true
 ---
 
 # The Ritual

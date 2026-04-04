@@ -5,6 +5,7 @@ aliases: [the language of the brothers]
 tags: [mystery/saeth, mystery/brothers]
 dm_source:
 image:
+publish: true
 ---
 
 # Sae-th

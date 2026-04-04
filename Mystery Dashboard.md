@@ -1,5 +1,6 @@
 ---
 type: index
+publish: false
 ---
 
 # Mystery Dashboard
