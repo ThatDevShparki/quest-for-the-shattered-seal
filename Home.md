@@ -44,7 +44,7 @@ SORT file.name ASC
 ## Clues
 
 ```dataview
-TABLE decoded
+TABLE scope, decoded
 FROM "Campaign Knowledge/Clues"
 WHERE type = "clue"
 SORT file.name ASC
@@ -88,7 +88,7 @@ SORT session_number ASC
 ## Open Questions
 
 ```dataview
-TABLE priority, status, subject
+TABLE scope, priority, status, subject
 FROM "Campaign Notes/Questions"
 WHERE type = "question"
 SORT choice(priority = "high", "1", choice(priority = "medium", "2", "3")) ASC

@@ -18,7 +18,7 @@ _Everything [[Campaign Knowledge/Characters/Zephyrix Skydelver]] Does Not Know Y
 ## High Priority
 
 ```dataview
-TABLE subject, status
+TABLE subject, scope, status
 FROM "Campaign Notes/Questions"
 WHERE type = "question" AND priority = "high"
 SORT subject ASC
@@ -29,7 +29,7 @@ SORT subject ASC
 ## Medium Priority
 
 ```dataview
-TABLE subject, status
+TABLE subject, scope, status
 FROM "Campaign Notes/Questions"
 WHERE type = "question" AND priority = "medium"
 SORT subject ASC
@@ -40,7 +40,7 @@ SORT subject ASC
 ## All Questions
 
 ```dataview
-TABLE priority, status, subject
+TABLE priority, scope, status, subject
 FROM "Campaign Notes/Questions"
 WHERE type = "question"
 SORT choice(priority = "high", "1", choice(priority = "medium", "2", "3")) ASC

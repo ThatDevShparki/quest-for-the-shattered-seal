@@ -59,7 +59,7 @@ dv.table(
 ## Open Questions
 
 ```dataview
-TABLE core_question AS "Core Question", priority, status
+TABLE core_question AS "Core Question", scope, priority, status
 FROM "Campaign Notes/Questions"
 WHERE type = "question"
 SORT choice(priority = "high", "1", choice(priority = "medium", "2", "3")) ASC
