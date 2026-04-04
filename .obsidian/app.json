@@ -2,6 +2,7 @@
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "CLAUDE.md",
+    "README.md",
     ".claude/"
   ]
 }
