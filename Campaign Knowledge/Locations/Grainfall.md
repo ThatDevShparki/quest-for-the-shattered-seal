@@ -1,3 +1,8 @@
+---
+type: location
+visited: true
+---
+
 # Grainfall
 
 ## Why He Came

@@ -1,0 +1,150 @@
+# CLAUDE.md — Quest for the Shattered Seal
+
+This is an Obsidian vault for a D&D 5.5e campaign called **Dreamrot**. The vault is a player knowledge base for **Zephyrix "Zeph" Skydelver**, an Aarakocra Cleric (Knowledge Domain) Level 3. It is NOT a GM vault. It tracks what Zeph knows, suspects, and feels — not the full truth of the world.
+
+---
+
+## How to Use This Vault
+
+### Before Doing Anything
+
+1. Read `Home.md` — the dashboard shows the current state of every document type
+2. Read `Campaign Knowledge/Index.md` — the master index with tracker status
+3. Read `Campaign Notes/Questions/Index.md` — the consolidated open questions list
+4. Read the relevant documents for whatever you are working on
+
+### Creating New Documents
+
+Always use the templates in `Templates/`. There are 7:
+
+- `New Character.md` — for any NPC, entity, or figure Zeph encounters
+- `New Location.md` — for any place
+- `New Item.md` — for any object of significance
+- `New Clue.md` — for any piece of evidence, inscription, or discovery
+- `New Organization.md` — for any faction, lineage, or group
+- `New Session.md` — for session notes after each game
+- `New Question.md` — for individual open questions Zeph is carrying
+
+Templates use Templater syntax (`<% tp.file.title %>`). They include frontmatter, section structure, knowledge trackers, and Connections sections.
+
+### Updating Existing Documents
+
+When the campaign reveals new information:
+
+1. Add a row to the relevant document's **Knowledge Tracker** table
+2. Update the narrative sections if the new information changes what Zeph knows
+3. Add new `[[wiki-links]]` to any newly relevant entities
+4. Update `tags:` in frontmatter if the document now connects to a new mystery thread
+5. Update `Campaign Notes/Questions/Index.md` if a question is answered or a new one opens
+6. Update `Campaign Knowledge/Index.md` tracker status if entry counts change
+
+---
+
+## Guardrails
+
+These are non-negotiable. Every one of them exists because of a specific decision made during character creation.
+
+### Voice and Perspective
+
+- **Every document is written from Zeph's perspective.** Third person ("he"), not first person. What he knows, what he does not know, what he feels. Never omniscient. Never clinical.
+- **No em dashes.** This is a deliberate stylistic choice. Use commas, periods, or restructure the sentence.
+- **Gaps are named, not papered over.** If Zeph does not know something, say so explicitly. Do not invent content to fill gaps. A thin document about something Zeph barely understands is correct. Making it thicker is wrong.
+- **The not-knowing is as important as the knowing.** "What He Does Not Know" sections are load-bearing, not decorative.
+
+### Knowledge Separation
+
+- **Player knowledge and character knowledge are kept separate.** Some things the player knows that Zeph does not. These are marked with the `player-knowledge` tag. Never let player knowledge leak into Zeph-perspective prose.
+- **Known example:** Ari is actually Sylara's familiar. Zeph believes Ari was Aeralon's familiar. Documents written from Zeph's perspective must reflect what Zeph believes, not what the player knows.
+- **Never resolve a mystery.** If Zeph does not know the answer, neither does the document. Do not speculate beyond what Zeph would speculate. Do not connect dots he has not connected.
+
+### Document Integrity
+
+- **Do not create documents the campaign has not earned.** If Zeph has not encountered an NPC, that NPC does not get a document. If a location has not been visited or referenced, it does not exist in the vault.
+- **Deliberately thin documents stay thin.** Sylara Dawnmere's document is thin because Zeph barely knew her. Grainfall's document is thin because he has been there three days. Do not pad them.
+- **Knowledge trackers are append-only during a session.** New rows are added. Old rows are not modified unless the campaign explicitly contradicts them.
+
+### Formatting and Structure
+
+- **Frontmatter is required on every document.** Follow the schema exactly:
+  - Characters: `type`, `status`, `aliases`, `tags`
+  - Locations: `type`, `visited`, `aliases`, `tags`
+  - Items: `type`, `possessed`, `aliases`, `tags`
+  - Clues: `type`, `decoded`, `aliases`, `tags`
+  - Organizations: `type`, `aliases`, `tags`
+  - Sessions: `type`, `session_number`, `tags`
+  - Questions: `type`, `priority`, `status`, `subject`, `session_introduced`, `tags`
+  - Indexes: `type`
+- **Wiki-link every meaningful mention of a known entity.** Use display text for readability: `[[Aeralon Ashdelve|Aeralon]]`. Link every occurrence, not just the first.
+- **Tags are for mystery threads and narrative weight only.** Do not duplicate what frontmatter fields already express. See the tag taxonomy below.
+
+---
+
+## Tag Taxonomy
+
+Tags go in the frontmatter `tags:` array. They track which mystery threads a document is relevant to.
+
+### Mystery Threads
+
+```
+mystery/dawnmere    — The Dawnmere bloodline and its ancient origins
+mystery/visage      — The entity in the ceremonial room
+mystery/architect   — The figure at Sylara's bedside
+mystery/saeth       — The lost language and what it binds
+mystery/symbols     — The Four Symbols and their bearers
+mystery/brothers    — The unnamed Brothers
+mystery/dreamrot    — The infection consuming Zeph
+mystery/ari         — Ari's true nature and what it carries
+mystery/ruin        — The civilization that built the sealed ruin
+```
+
+### Narrative Weight
+
+```
+turning-point       — Major revelation or shift
+thread/open         — Unresolved narrative thread
+thread/closed       — Thread resolved
+player-knowledge    — Player knows this, Zeph does not
+```
+
+### What NOT to Tag
+
+Do not use tags for things already in frontmatter fields:
+- `type: character` replaces `#character`
+- `status: deceased` replaces `#deceased`
+- `decoded: false` replaces `#clue/undecoded`
+- `priority: high` replaces `#priority/high`
+
+---
+
+## Vault Structure
+
+```
+Home.md                              — Dashboard (Dataview-powered)
+Campaign Knowledge/
+  Index.md                           — Master index with tracker status
+  Characters/                        — 7 files (Zeph, parents, allies, entities)
+  Locations/                         — 3 files (Grainfall, Observatory, Sealed Ruin)
+  Items/                             — 2 files (Journal, Amulet)
+  Clues/                             — 3 files (Sae-th, Brothers, Four Symbols)
+  Organizations/                     — 2 files (Dawnmere Lineage, Orryn Society)
+  Mystery Web.canvas                 — Visual node map of mysteries
+Campaign Notes/
+  Sessions/                          — Session notes (Session 0, Session 1)
+  Questions/
+    Index.md                         — Consolidated open questions
+Templates/                           — 7 Templater templates
+Resources/
+  character_sheet.pdf                — Zeph's character sheet (source of truth for mechanics)
+```
+
+---
+
+## Key Facts
+
+- **Campaign:** Dreamrot
+- **DM:** storm (Discord)
+- **System:** D&D 5.5e (2024 PHB) with 5e subclasses allowed
+- **Current session:** Pre-campaign. Session 1 begins in a jail cell in Grainfall.
+- **Character sheet PDF is the mechanical source of truth.** Do not correct ability scores, spell DCs, or skill bonuses based on calculation. Trust the sheet.
+- **Plugins expected:** Dataview, Templater, Calendarium (may not be installed yet)
+- **Home rules:** Materials optional for casting, Nat 20 initiative = choose position, Potion as action = full benefit OR action + free Dodge

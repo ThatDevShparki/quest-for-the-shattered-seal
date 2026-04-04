@@ -1,3 +1,7 @@
+---
+type: organization
+---
+
 # The Dawnmere Lineage
 
 ## What He Was Told

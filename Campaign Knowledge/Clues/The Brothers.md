@@ -1,3 +1,8 @@
+---
+type: clue
+decoded: false
+---
+
 # The Brothers
 
 ## The Source

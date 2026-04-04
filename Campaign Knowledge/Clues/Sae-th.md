@@ -1,3 +1,8 @@
+---
+type: clue
+decoded: false
+---
+
 # Sae-th
 
 ## The Discovery

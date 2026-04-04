@@ -1,3 +1,8 @@
+---
+type: location
+visited: true
+---
+
 # The Sealed Ruin Beneath Grainfall
 
 ## The Entry

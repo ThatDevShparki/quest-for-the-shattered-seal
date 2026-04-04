@@ -1,3 +1,8 @@
+---
+type: item
+possessed: true
+---
+
 # Sylara's Amulet — Pendant of Dawnmere
 
 ## The Object

@@ -1,3 +1,8 @@
+---
+type: character
+status: unknown
+---
+
 # The Visage
 
 ## The Name

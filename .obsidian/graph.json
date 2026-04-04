@@ -5,8 +5,58 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Campaign Knowledge/Characters\"",
+      "color": {
+        "a": 1,
+        "rgb": 15251565
+      }
+    },
+    {
+      "query": "path:\"Campaign Knowledge/Locations\"",
+      "color": {
+        "a": 1,
+        "rgb": 7047342
+      }
+    },
+    {
+      "query": "path:\"Campaign Knowledge/Items\"",
+      "color": {
+        "a": 1,
+        "rgb": 13938999
+      }
+    },
+    {
+      "query": "path:\"Campaign Knowledge/Clues\"",
+      "color": {
+        "a": 1,
+        "rgb": 12877962
+      }
+    },
+    {
+      "query": "path:\"Campaign Knowledge/Organizations\"",
+      "color": {
+        "a": 1,
+        "rgb": 8036990
+      }
+    },
+    {
+      "query": "path:\"Campaign Notes/Sessions\"",
+      "color": {
+        "a": 1,
+        "rgb": 10197915
+      }
+    },
+    {
+      "query": "path:\"Campaign Notes/Questions\"",
+      "color": {
+        "a": 1,
+        "rgb": 14277081
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.5476742790999956,
   "close": true
 }

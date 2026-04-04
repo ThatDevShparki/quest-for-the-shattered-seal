@@ -1,3 +1,8 @@
+---
+type: item
+possessed: true
+---
+
 # Aeralon's Journal
 
 ## The Object

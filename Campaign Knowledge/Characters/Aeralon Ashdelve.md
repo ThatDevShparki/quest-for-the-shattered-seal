@@ -1,3 +1,8 @@
+---
+type: character
+status: deceased
+---
+
 # Aeralon Ashdelve
 
 ## The Man Before

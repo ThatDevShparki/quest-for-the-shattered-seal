@@ -1,3 +1,8 @@
+---
+type: character
+status: unknown
+---
+
 # The Architect
 
 ## How He Knows

@@ -1,3 +1,7 @@
+---
+type: index
+---
+
 # Campaign Knowledge — Master Index
 
 ## Campaign Knowledge

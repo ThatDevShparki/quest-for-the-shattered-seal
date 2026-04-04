@@ -1,3 +1,7 @@
+---
+type: index
+---
+
 # Open Questions
 
 _Everything Zephyrix Skydelver Does Not Know Yet_

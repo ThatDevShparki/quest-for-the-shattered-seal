@@ -1,3 +1,8 @@
+---
+type: character
+status: alive
+---
+
 # Zephyrix Skydelver
 
 ## Part One — Origin

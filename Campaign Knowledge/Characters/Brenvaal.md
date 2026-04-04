@@ -1,3 +1,8 @@
+---
+type: character
+status: unknown
+---
+
 # Brenvaal
 
 ## Who He Was

@@ -1,3 +1,8 @@
+---
+type: location
+visited: true
+---
+
 # The Ruined Observatory
 
 ## The Location

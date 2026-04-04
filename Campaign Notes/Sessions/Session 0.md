@@ -1,3 +1,10 @@
+---
+type: session
+session_number: 0
+---
+
+# Session 0
+
 ## The Three Questions
 
 ---

@@ -1,3 +1,8 @@
+---
+type: clue
+decoded: false
+---
+
 # The Four Symbols
 
 ## The Discovery

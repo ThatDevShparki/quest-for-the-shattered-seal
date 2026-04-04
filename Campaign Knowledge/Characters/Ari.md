@@ -1,3 +1,8 @@
+---
+type: character
+status: alive
+---
+
 # Ari
 
 ## The Name

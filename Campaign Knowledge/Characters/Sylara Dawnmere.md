@@ -1,3 +1,8 @@
+---
+type: character
+status: deceased
+---
+
 # Sylara Dawnmere
 
 ## What He Remembers

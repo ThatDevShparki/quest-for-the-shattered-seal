@@ -1,3 +1,7 @@
+---
+type: organization
+---
+
 # The Orryn Society
 
 ## What He Remembers

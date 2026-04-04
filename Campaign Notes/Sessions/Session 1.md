@@ -1,3 +1,8 @@
+---
+type: session
+session_number: 1
+---
+
 # Present State
 
 ## The Room
