@@ -3,6 +3,7 @@ type: question
 priority: medium
 status: open
 subject: "The Brothers"
+core_question: "Who are the brothers, and do they still exist?"
 session_introduced: 0
 tags:
   - mystery/brothers

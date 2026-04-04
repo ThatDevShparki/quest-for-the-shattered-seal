@@ -3,6 +3,7 @@ type: question
 priority: medium
 status: open
 subject: "Grainfall"
+core_question: "What does this town know about what lies beneath it?"
 session_introduced: 0
 tags:
   - mystery/ruin

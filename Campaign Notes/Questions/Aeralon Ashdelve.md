@@ -3,6 +3,7 @@ type: question
 priority: high
 status: open
 subject: "Aeralon Ashdelve"
+core_question: "What did his father find in Grainfall, and why did it destroy him?"
 session_introduced: 0
 tags:
   - mystery/dawnmere

@@ -3,6 +3,7 @@ type: question
 priority: medium
 status: open
 subject: "The Architect"
+core_question: "Who came to his mother's bedside, and what did he do there?"
 session_introduced: 0
 tags:
   - mystery/architect

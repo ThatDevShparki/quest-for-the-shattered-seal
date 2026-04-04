@@ -10,18 +10,31 @@
           {
             "id": "de726ea43f1b31c5",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "91c98c6eb7138db4",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Questions/Ari.md",
+                "file": "Campaign Notes/Sessions/Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ari"
+              "title": "Session 0"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Questions/Ari.md",
+                "file": "Campaign Notes/Sessions/Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ari"
+              "title": "Backlinks for Session 0"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Questions/Ari.md",
+                "file": "Campaign Notes/Sessions/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ari"
+              "title": "Outgoing links from Session 0"
             }
           },
           {
@@ -156,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Questions/Ari.md",
+                "file": "Campaign Notes/Sessions/Session 0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ari"
+              "title": "Outline of Session 0"
             }
           },
           {
@@ -205,9 +218,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "de726ea43f1b31c5",
+  "active": "91c98c6eb7138db4",
   "lastOpenFiles": [
+    "Campaign Notes/Sessions/Session 1.md",
+    "Campaign Notes/Sessions/Session 0.md",
+    "Campaign Knowledge/Characters/Aeralon Ashdelve.md",
+    "2026-04-04.md",
     "Mystery Dashboard.md",
+    "Home.md",
+    "Campaign Notes/Questions/Ari.md",
     "Campaign Notes/Questions/The Four Symbols.md",
     "Campaign Notes/Questions/The Dawnmere Lineage.md",
     "Campaign Notes/Questions/The Architect.md",
@@ -215,13 +234,11 @@
     "Campaign Notes/Questions/The Visage.md",
     "Campaign Notes/Questions/Grainfall.md",
     "Campaign Notes/Questions/The Ruined Observatory.md",
-    "Campaign Notes/Questions/Ari.md",
     "Campaign Notes/Questions/The Sealed Ruin.md",
     "Campaign Notes/Questions/Aeralon Ashdelve.md",
     "Campaign Notes/Questions/The Brothers.md",
     "Campaign Notes/Questions/Sae-th.md",
     "Campaign Notes/Questions/Sylara Dawnmere.md",
-    "Home.md",
     "Campaign Notes/Questions/Index.md",
     "Mystery Web.canvas",
     "Campaign Knowledge/Organizations/The Orryn Society.md",
@@ -231,10 +248,6 @@
     "Campaign Knowledge/Locations/Grainfall.md",
     "Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall.md",
     "Campaign Knowledge/Items/Sylara's Amulet.md",
-    "Campaign Knowledge/Items/Aeralon's Journal.md",
-    "Campaign Knowledge/Characters/Aeralon Ashdelve.md",
-    "Campaign Notes/Sessions/Session 1.md",
-    "Campaign Notes/Sessions/Session 0.md",
     "Campaign Notes/Story",
     "Resources/DM Notes/Unconfirmed 594589.crdownload",
     "Resources/DM Notes",

@@ -3,6 +3,7 @@ type: question
 priority: high
 status: open
 subject: "The Dreamrot"
+core_question: "What is the Dreamrot doing to him, and is it the same thing that took his father?"
 session_introduced: 0
 tags:
   - mystery/dreamrot

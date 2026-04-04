@@ -3,6 +3,7 @@ type: question
 priority: high
 status: open
 subject: "Sylara Dawnmere"
+core_question: "What did his mother know, and what did she choose light over?"
 session_introduced: 0
 tags:
   - mystery/dawnmere

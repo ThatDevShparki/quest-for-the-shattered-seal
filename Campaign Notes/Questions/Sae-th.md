@@ -3,6 +3,7 @@ type: question
 priority: high
 status: open
 subject: "Sae-th"
+core_question: "What does the language of the brothers say, and what does it bind?"
 session_introduced: 0
 tags:
   - mystery/saeth

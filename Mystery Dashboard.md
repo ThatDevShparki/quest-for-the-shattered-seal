@@ -55,6 +55,17 @@ dv.table(
 
 ---
 
+## Open Questions
+
+```dataview
+TABLE core_question AS "Core Question", priority, status
+FROM "Campaign Notes/Questions"
+WHERE type = "question"
+SORT choice(priority = "high", "1", choice(priority = "medium", "2", "3")) ASC
+```
+
+---
+
 ## Thread Overlap
 
 _Where do mysteries converge? Shared documents between threads are where breakthroughs happen._
@@ -304,17 +315,6 @@ SORT type ASC
 ```
 
 > The civilization that built [[The Sealed Ruin Beneath Grainfall|the sealed ruin]]. No trace in any known record. Predates history entirely.
-
----
-
-## Open Questions
-
-```dataview
-TABLE priority, status, subject
-FROM "Campaign Notes/Questions"
-WHERE type = "question"
-SORT choice(priority, "high", 1, "medium", 2, "low", 3) ASC
-```
 
 ---
 

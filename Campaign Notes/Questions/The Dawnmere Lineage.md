@@ -3,6 +3,7 @@ type: question
 priority: high
 status: open
 subject: "The Dawnmere Lineage"
+core_question: "What does carrying the Dawnmere name actually mean?"
 session_introduced: 0
 tags:
   - mystery/dawnmere

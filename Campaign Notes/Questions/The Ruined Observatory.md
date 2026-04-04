@@ -3,6 +3,7 @@ type: question
 priority: high
 status: open
 subject: "The Ruined Observatory"
+core_question: "Who is living in the observatory, and why?"
 session_introduced: 0
 tags:
   - mystery/symbols

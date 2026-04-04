@@ -3,6 +3,7 @@ type: question
 priority: high
 status: open
 subject: "The Sealed Ruin Beneath Grainfall"
+core_question: "What civilization built this place, and why did someone seal it?"
 session_introduced: 0
 tags:
   - mystery/ruin

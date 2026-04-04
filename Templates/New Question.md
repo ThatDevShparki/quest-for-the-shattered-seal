@@ -3,6 +3,7 @@ type: question
 priority: medium
 status: open
 subject:
+core_question:
 session_introduced:
 tags: []
 ---

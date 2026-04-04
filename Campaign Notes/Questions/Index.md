@@ -42,7 +42,7 @@ SORT subject ASC
 TABLE priority, status, subject
 FROM "Campaign Notes/Questions"
 WHERE type = "question"
-SORT choice(priority, "high", 1, "medium", 2, "low", 3) ASC
+SORT choice(priority = "high", "1", choice(priority = "medium", "2", "3")) ASC
 ```
 
 ---

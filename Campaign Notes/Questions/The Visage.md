@@ -3,6 +3,7 @@ type: question
 priority: high
 status: open
 subject: "The Visage"
+core_question: "What is the entity in the ceremonial room, and what does it want from him?"
 session_introduced: 0
 tags:
   - mystery/visage

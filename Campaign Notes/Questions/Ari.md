@@ -3,6 +3,7 @@ type: question
 priority: high
 status: open
 subject: "Ari"
+core_question: "What is Ari trying to say, and whose familiar is it really?"
 session_introduced: 0
 tags:
   - mystery/ari
