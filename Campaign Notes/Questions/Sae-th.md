@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: campaign
 priority: high
 subject: "Sae-th"
 core_question: "What does the language of the brothers say, and what does it bind?"

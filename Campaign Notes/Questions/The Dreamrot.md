@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: character
 priority: high
 subject: "The Dreamrot"
 core_question: "What is the Dreamrot doing to him, and is it the same thing that took his father?"

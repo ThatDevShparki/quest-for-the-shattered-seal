@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: both
 priority: high
 subject: "The Dawnmere Lineage"
 core_question: "What does carrying the Dawnmere name actually mean?"

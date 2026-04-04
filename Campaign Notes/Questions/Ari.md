@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: character
 priority: high
 subject: "Ari"
 core_question: "What is Ari trying to say, and whose familiar is it really?"

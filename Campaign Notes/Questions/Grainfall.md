@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: campaign
 priority: medium
 subject: "Grainfall"
 core_question: "What does this town know about what lies beneath it?"

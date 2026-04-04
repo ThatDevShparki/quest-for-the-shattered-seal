@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: campaign
 priority: high
 subject: "The Four Symbols"
 core_question: "What do the four symbols represent, and who carries the other three?"

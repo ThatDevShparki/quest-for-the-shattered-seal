@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: character
 priority: high
 subject: "Aeralon Ashdelve"
 core_question: "What did his father find in Grainfall, and why did it destroy him?"

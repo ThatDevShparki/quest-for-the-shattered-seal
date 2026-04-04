@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: campaign
 priority: medium
 subject: "The Brothers"
 core_question: "Who are the brothers, and do they still exist?"

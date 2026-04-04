@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: character
 priority: high
 subject: "Sylara Dawnmere"
 core_question: "What did his mother know, and what did she choose light over?"

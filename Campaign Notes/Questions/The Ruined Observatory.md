@@ -1,6 +1,7 @@
 ---
 type: question
 status: open
+scope: campaign
 priority: high
 subject: "The Ruined Observatory"
 core_question: "Who is living in the observatory, and why?"
