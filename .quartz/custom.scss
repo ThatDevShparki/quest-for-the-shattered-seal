@@ -105,3 +105,81 @@ a.internal.tag-link {
 a {
   color: var(--secondary);
 }
+
+// ── Scope Badges ──────────────────────────────────────────────
+// Per-link badges injected by ScopeFlair component.
+// Campaign = pewter/steel (cooler, "wider world")
+// Both = dusty plum (bridges personal and world)
+// Character = no badge (the personal is the default)
+
+// Badge color tokens — light mode
+:root {
+  --scope-campaign-bg: rgba(90, 110, 130, 0.10);
+  --scope-campaign-border: rgba(90, 110, 130, 0.30);
+  --scope-campaign-label: rgba(90, 110, 130, 0.70);
+  --scope-both-bg: rgba(120, 85, 120, 0.10);
+  --scope-both-border: rgba(120, 85, 120, 0.30);
+  --scope-both-label: rgba(120, 85, 120, 0.70);
+}
+
+// Badge color tokens — dark mode
+[saved-theme="dark"] {
+  --scope-campaign-bg: rgba(130, 155, 180, 0.10);
+  --scope-campaign-border: rgba(130, 155, 180, 0.25);
+  --scope-campaign-label: rgba(130, 155, 180, 0.60);
+  --scope-both-bg: rgba(160, 130, 160, 0.10);
+  --scope-both-border: rgba(160, 130, 160, 0.25);
+  --scope-both-label: rgba(160, 130, 160, 0.60);
+}
+
+// Campaign badge — world-level mystery
+a.internal.scope-campaign {
+  background-color: var(--scope-campaign-bg);
+  border: 1px solid var(--scope-campaign-border);
+  border-radius: 4px;
+  padding: 1px 6px;
+
+  &::after {
+    content: "WORLD";
+    font-family: "Crimson Text", serif;
+    font-size: 0.55em;
+    color: var(--scope-campaign-label);
+    margin-left: 5px;
+    vertical-align: middle;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+  }
+}
+
+// Both badge — personal AND world-level
+a.internal.scope-both {
+  background-color: var(--scope-both-bg);
+  border: 1px solid var(--scope-both-border);
+  border-radius: 4px;
+  padding: 1px 6px;
+
+  &::after {
+    content: "DUAL";
+    font-family: "Crimson Text", serif;
+    font-size: 0.55em;
+    color: var(--scope-both-label);
+    margin-left: 5px;
+    vertical-align: middle;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+  }
+}
+
+// Strip badges from flowing prose — they break readability
+p, blockquote {
+  a.internal.scope-campaign,
+  a.internal.scope-both {
+    background: none;
+    border: none;
+    padding: 0;
+
+    &::after {
+      content: none;
+    }
+  }
+}

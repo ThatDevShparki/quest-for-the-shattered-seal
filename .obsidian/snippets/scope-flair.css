@@ -1,101 +1,60 @@
 /*
- * Scope & Type Flair for Supercharged Links
+ * Scope Badges for Supercharged Links
  *
- * Two layers:
- *   1. Type flair (subtle)  — small muted indicator for document type
- *   2. Scope flair (prominent) — visible marker for campaign/both scope
+ * Campaign/both links get a subtle pill badge with trailing label.
+ * Character scope links stay flat (no badge).
  *
  * SETUP (one-time):
  * 1. Install "Supercharged Links" community plugin
  * 2. In its settings under "Styling", add these CSS class rules:
  *
- *    TYPE RULES (property: "type"):
- *      Value: "character"      -> CSS class: type-character
- *      Value: "location"       -> CSS class: type-location
- *      Value: "clue"           -> CSS class: type-clue
- *      Value: "question"       -> CSS class: type-question
- *      Value: "item"           -> CSS class: type-item
- *      Value: "organization"   -> CSS class: type-organization
- *
  *    SCOPE RULES (property: "scope"):
- *      Value: "campaign"       -> CSS class: scope-campaign
- *      Value: "character"      -> CSS class: scope-character
- *      Value: "both"           -> CSS class: scope-both
+ *      Value: "campaign"  -> CSS class: scope-campaign
+ *      Value: "character" -> CSS class: scope-character
+ *      Value: "both"      -> CSS class: scope-both
  *
  * 3. Enable this CSS snippet in Settings > Appearance > CSS snippets
  */
 
 
-/* ================================================================
- * LAYER 1: TYPE FLAIR (subtle)
- *
- * Tiny muted glyphs before links. Low opacity so they recede
- * behind the link text. Present but not distracting.
- * ================================================================ */
+/* ── Campaign badge: pewter/steel — world-level mystery ── */
 
-.type-character::before,
-.type-location::before,
-.type-clue::before,
-.type-question::before,
-.type-item::before,
-.type-organization::before {
-  font-size: 0.7em;
-  opacity: 0.45;
-  margin-right: 2px;
-  vertical-align: baseline;
+.scope-campaign {
+  background-color: rgba(90, 110, 130, 0.10);
+  border: 1px solid rgba(90, 110, 130, 0.30);
+  border-radius: 4px;
+  padding: 1px 6px;
 }
 
-.type-character::before    { content: "\25CB"; color: #8faabd; }  /* ○ person */
-.type-location::before     { content: "\25B3"; color: #8faabd; }  /* △ place */
-.type-clue::before         { content: "\25C7"; color: #8faabd; }  /* ◇ clue */
-.type-question::before     { content: "\003F"; color: #8faabd; }  /* ? question */
-.type-item::before         { content: "\25A0"; color: #8faabd; }  /* ■ object */
-.type-organization::before { content: "\2261"; color: #8faabd; }  /* ≡ group */
-
-
-/* ================================================================
- * LAYER 2: SCOPE FLAIR (prominent for campaign/both, silent for character)
- *
- * Campaign and both get a visible colored pip AFTER the link.
- * Character scope gets nothing extra, it is the default perspective.
- * ================================================================ */
-
-/* Campaign: blue pip — this is a world-level mystery */
 .scope-campaign::after {
-  content: "\25CF";  /* ● */
-  color: #5b9bd5;
+  content: "WORLD";
   font-size: 0.55em;
-  margin-left: 3px;
-  vertical-align: super;
+  color: rgba(90, 110, 130, 0.70);
+  margin-left: 5px;
+  vertical-align: middle;
+  letter-spacing: 0.08em;
+  font-weight: 600;
 }
 
-/* Both: purple pip — personal AND world-level */
+
+/* ── Both badge: dusty plum — personal AND world-level ── */
+
+.scope-both {
+  background-color: rgba(120, 85, 120, 0.10);
+  border: 1px solid rgba(120, 85, 120, 0.30);
+  border-radius: 4px;
+  padding: 1px 6px;
+}
+
 .scope-both::after {
-  content: "\25CF";  /* ● */
-  color: #9b72cf;
+  content: "DUAL";
   font-size: 0.55em;
-  margin-left: 3px;
-  vertical-align: super;
+  color: rgba(120, 85, 120, 0.70);
+  margin-left: 5px;
+  vertical-align: middle;
+  letter-spacing: 0.08em;
+  font-weight: 600;
 }
 
-/* Character: no ::after — silence is the signal */
 
-
-/* ================================================================
- * DATAVIEW TABLE ENHANCEMENTS
- *
- * Subtle background tints when scope links appear inside
- * Dataview table cells. Reinforces the pip with spatial color.
- * ================================================================ */
-
-.dataview .scope-campaign {
-  background-color: rgba(91, 155, 213, 0.06);
-  border-radius: 3px;
-  padding: 0 3px;
-}
-
-.dataview .scope-both {
-  background-color: rgba(155, 114, 207, 0.06);
-  border-radius: 3px;
-  padding: 0 3px;
-}
+/* ── Character scope: no badge — the personal is the default ── */

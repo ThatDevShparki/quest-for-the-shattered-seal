@@ -49,6 +49,7 @@ jobs:
           cp .quartz/quartz.config.ts /tmp/quartz/quartz.config.ts
           cp .quartz/quartz.layout.ts /tmp/quartz/quartz.layout.ts
           cp .quartz/custom.scss /tmp/quartz/quartz/styles/custom.scss
+          cp .quartz/components/ScopeFlair.tsx /tmp/quartz/quartz/components/ScopeFlair.tsx
 
       - name: Build
         run: cd /tmp/quartz && npx quartz build

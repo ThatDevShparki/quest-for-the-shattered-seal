@@ -1,10 +1,11 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import ScopeFlair from "./quartz/components/ScopeFlair"
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [ScopeFlair()],
   footer: Component.Footer({
     links: {
       "Campaign: Dreamrot": "#",
