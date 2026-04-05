@@ -120,7 +120,7 @@ The passages themselves remain unread. [[Campaign Knowledge/Characters/Zephyrix 
 
 ## The Familiar
 
-[[Campaign Knowledge/Characters/Ari|The raven]] that emerged from the journal in the jail cell in [[Campaign Knowledge/Locations/Grainfall]] was [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s familiar throughout his career. It was present at every dig and every archive and every candlelit late evening of cross referencing notes. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] saw it his entire childhood as a constant peripheral presence without fully registering what it was.
+[[Campaign Knowledge/Characters/Ari|The raven]] that emerged from the journal in the jail cell in [[Campaign Knowledge/Locations/Grainfall]] was [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s familiar throughout his career. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] did not know this until [[Campaign Knowledge/Characters/Ari]] emerged. He never saw a raven at his father's side. It was never there, or was never visible, or was kept from him by some deliberate concealment he had no reason to suspect.
 
 The journal is where [[Campaign Knowledge/Characters/Ari]] lived after [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] stopped being able to maintain the relationship that kept it close. It waited in the only place it had left to wait. It emerged after the ritual in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]], in the dark of the cell, and has not left since.
 

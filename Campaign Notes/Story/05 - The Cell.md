@@ -14,9 +14,17 @@ publish: true
 
 # The Cell
 
-He spent the night in the cell turning [[Campaign Knowledge/Items/Sylara's Amulet|the pendant]] over in the dark. Testing what he had felt. Watching it catch light that was not there. And sometime in the darkest part of that night, [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] moved.
+A cell. Stone walls that get damp from the inside, the particular dampness of old stone that has not been warm in years. The floor is the same stone as the walls and the ceiling is low enough that he is aware of it. It smells of cold and age and faintly of something mineral that he recognizes from excavation sites and tries not to think about too hard.
 
-Not much. A tremor along the cover, like something breathing inside it.
+The light is minimal. A torch somewhere at the end of a corridor throws just enough illumination through the bars to see by without quite being enough to read by. He has not tried to read. He has been thinking instead, which requires no light at all.
+
+Most of the others in the cell are asleep or close enough to it that the difference does not matter. The guards have stopped making rounds with any regularity. The city outside has gone quiet in the way cities go quiet very late, the noise retreating to somewhere that feels like another world.
+
+---
+
+Sometime in the darkest part of that night, [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] moved.
+
+Not much. A tremor along the cover, like something breathing inside it. He had been turning [[Campaign Knowledge/Items/Sylara's Amulet|the pendant]] over in his hands, testing what he had felt, watching it catch light that was not there. He noticed the tremor the way you notice something at the edge of your attention when everything else has gone quiet.
 
 Then [[Campaign Knowledge/Characters/Ari|a raven]] pulled itself out of the pages like smoke finding a shape. It landed on his knee, ruffled its feathers once, and looked at him with eyes that carried something he almost recognized. Not [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother]]. Not [[Campaign Knowledge/Characters/The Visage|the voice]] from the ritual. Something older and closer and quieter than either. When it spoke, it spoke in [[Campaign Knowledge/Characters/Aeralon Ashdelve|his father's]] cadences. Fragments. Observations about stonework. Notes about burial rites in the third age. Half finished sentences from field journals [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] had never been allowed to read.
 
@@ -24,17 +32,7 @@ Then [[Campaign Knowledge/Characters/Ari|a raven]] pulled itself out of the page
 
 His inheritance was never just [[Campaign Knowledge/Items/Aeralon's Journal|the journal]]. It was what lived inside it.
 
-He knows what he heard in that room. He knows what it felt like. And he knows that he did not say no. He simply ran. And whatever is waiting in [[Campaign Knowledge/Organizations/The Dawnmere Lineage|that bloodline]], in that room, in [[Campaign Knowledge/Characters/The Visage|the voice]] that knew exactly how to sound like [[Campaign Knowledge/Characters/Sylara Dawnmere]], it knows that too.
-
-He is not proud of running. His mother would not have run. She would have stood in that room and looked at whatever was speaking and made her choice with both eyes open. He is going back. And this time he is going to answer.
-
 ---
-
-A cell. Stone walls that get damp from the inside, the particular dampness of old stone that has not been warm in years. The floor is the same stone as the walls and the ceiling is low enough that he is aware of it. It smells of cold and age and faintly of something mineral that he recognizes from excavation sites and tries not to think about too hard.
-
-The light is minimal. A torch somewhere at the end of a corridor throws just enough illumination through the bars to see by without quite being enough to read by. He has not tried to read. He has been thinking instead, which requires no light at all.
-
-Most of the others in the cell are asleep or close enough to it that the difference does not matter. The guards have stopped making rounds with any regularity. The city outside has gone quiet in the way cities go quiet very late, the noise retreating to somewhere that feels like another world.
 
 He is sitting with his back against the stone wall. [[Campaign Knowledge/Characters/Ari]] is on his knee.
 
@@ -48,31 +46,19 @@ It has had two spurts since the cell went quiet. Both times the same. _Never-dar
 
 ---
 
-[[Campaign Knowledge/Characters/The Visage]]. It is the loudest thing in his mind and has been since the moment it spoke.
+[[Campaign Knowledge/Characters/The Visage]]. It is the loudest thing in his mind and has been since the moment it spoke. Not the chaos of the flight, not the arrest, not even the emergence of [[Campaign Knowledge/Characters/Ari]] from [[Campaign Knowledge/Items/Aeralon's Journal|the journal]]. Those things happened and he processed them and they are filed. [[Campaign Knowledge/Characters/The Visage]] has not filed.
 
-Not the chaos of the flight or the arrest or the disbelief of the authorities or even the emergence of [[Campaign Knowledge/Characters/Ari]] from [[Campaign Knowledge/Items/Aeralon's Journal|the journal]]. Those things happened and he processed them and they are filed. [[Campaign Knowledge/Characters/The Visage]] has not filed. It sits at the front of his mind in the specific way that unanswered questions sit when they are the kind that do not allow themselves to be set aside.
+It offered him knowledge. Of [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother]]. Of secrets [[Campaign Knowledge/Characters/Aeralon Ashdelve|his father]] kept. It spoke in [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara's]] voice without her warmth and it was desperate beneath the asking and it woke [[Campaign Knowledge/Items/Sylara's Amulet|the amulet]] and [[Campaign Knowledge/Characters/Ari|the raven]] as proof of concept and then he ran without answering. He did not say yes. He did not say no. And whatever is in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|that ceremonial room]] has been patient for long enough that a little more patience is nothing to it.
 
-It offered him knowledge. Of [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother]]. Of secrets [[Campaign Knowledge/Characters/Aeralon Ashdelve|his father]] kept. It spoke in [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara's]] voice without her warmth and it was desperate beneath the asking and it woke [[Campaign Knowledge/Items/Sylara's Amulet|the amulet]] and [[Campaign Knowledge/Characters/Ari|the raven]] as proof of concept and then he ran without answering.
+He is thinking about [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother]]. He has been thinking about her since he read her note on the first page of [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] in the cold house before he left. She is at the center of all of this. The crest on the wall, the tapestry in [[Campaign Knowledge/Locations/The Ruined Observatory|the Observatory]], [[Campaign Knowledge/Characters/The Visage]] speaking in her voice, [[Campaign Knowledge/Characters/Ari]] saying her family name in the dark. She knew what she came from. She chose differently. He does not yet know what she chose it over.
 
-He did not say yes. He did not say no. He ran. And whatever is in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|that ceremonial room]] has been patient for long enough that a little more patience is nothing to it.
-
-The question is still open. He knows this. He does not know yet what his answer will be. He knows the answer is coming.
-
-He is also thinking about [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother]]. He has been thinking about her since he read her note on the first page of [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] in the cold house before he left, and the thinking has not stopped and has only intensified with everything he has found since. She is at the center of all of this. The crest on the wall, the tapestry in [[Campaign Knowledge/Locations/The Ruined Observatory|the Observatory]], [[Campaign Knowledge/Characters/The Visage]] speaking in her voice, [[Campaign Knowledge/Characters/Ari]] saying her family name in the dark. She knew what she came from. She chose differently. He does not yet know what she chose it over and he needs to know and he is going to find out.
-
-He is thinking about [[Campaign Knowledge/Characters/Ari]] and what the phrases mean and whether he is ever going to learn to hear what it is actually trying to say.
-
-He is thinking about the blank pages at the back of [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] and what he will write in them when he understands enough to write.
-
-He is thinking, quietly and privately and not yet ready to examine it directly, that he might be connected to one of [[Campaign Knowledge/Clues/The Brothers]] through [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother's]] bloodline. He is not looking at this thought head on yet. He is aware it is there.
+He is thinking about [[Campaign Knowledge/Characters/Ari]] and whether he will learn to hear what it is trying to say. About the blank pages at the back of [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] and what he will write in them when he understands enough to write. About the possibility, quiet and unexamined, that he might be connected to one of [[Campaign Knowledge/Clues/The Brothers]] through [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother's]] bloodline. He is not looking at that thought head on yet. He is aware it is there.
 
 ---
 
 A young Aarakocra, slight and rumpled, spectacles slightly askew. Tawny gold and cream feathers with dust still worked into the plumage from [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ruin]]. Mud dried on one cheek feather from a moment in the flight out that he does not fully remember. The feather crest at the back of his head is doing what it always does, standing at an angle that suggests someone who has not looked in a mirror and would not think to.
 
 [[Campaign Knowledge/Items/Aeralon's Journal|The journal]] is open on his lap. [[Campaign Knowledge/Items/Sylara's Amulet|The amulet]] is around his neck. [[Campaign Knowledge/Characters/Ari|The raven]] is on his knee. Three inheritances, all visible, none of them fully understood.
-
-He looks like exactly what he is. A twenty three year old scholar who crawled through a ruin and came out the other side of something he does not yet have words for, sitting in a jail cell in [[Campaign Knowledge/Locations/Grainfall]], waiting for morning and whatever comes after it.
 
 He does not look emboldened. That part is internal. It will surface when the moment requires it.
 
@@ -82,11 +68,11 @@ Morning. Whatever the authorities decide to do with him. The party he is about t
 
 [[Campaign Knowledge/Locations/The Ruined Observatory]] is still at the edge of the forest. [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|The sealed ruin]] is still beneath the town. [[Campaign Knowledge/Characters/The Visage]] is still in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] or connected to it or waiting in whatever way ancient things wait. [[Campaign Knowledge/Items/Aeralon's Journal|The journal]] has blank pages. [[Campaign Knowledge/Items/Sylara's Amulet|The amulet]] has more tiers. [[Campaign Knowledge/Characters/Ari]] has more to say if he can learn to hear it. [[Campaign Knowledge/Clues/The Four Symbols]] have three other bearers somewhere in the world. [[Campaign Knowledge/Clues/Sae-th]] has passages he cannot read yet. [[Campaign Knowledge/Clues/The Brothers]] exist. [[Campaign Knowledge/Characters/The Architect]] came to [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother's]] bedside and gave a title instead of a name.
 
+He is not proud of running. His mother would not have run. She would have stood in that room and looked at whatever was speaking and made her choice with both eyes open. He is going back. And this time he is going to answer.
+
 He has been in [[Campaign Knowledge/Locations/Grainfall]] for three days. It already feels like the most important place he has ever been.
 
 He is twenty three years old and freshly alone in the world and he will not say either of those things out loud.
-
-But he is emboldened. Quietly, privately, in a way that has not yet had occasion to show itself.
 
 Whatever is in [[Campaign Knowledge/Organizations/The Dawnmere Lineage|that bloodline]], whatever spoke to him in that room, whatever [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother]] chose and whatever [[Campaign Knowledge/Characters/Aeralon Ashdelve|his father]] found, it has been here the whole time. It has always been here. And it did not break him in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|that ceremonial room]].
 
