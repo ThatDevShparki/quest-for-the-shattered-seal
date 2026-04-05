@@ -71,6 +71,16 @@ Nine threads. Zero answers. The dashboard updates itself.
 | [Juggl](https://juggl.io) | Interactive graph visualization per mystery thread |
 | [Linter](https://github.com/platers/obsidian-linter) | Markdown formatting on save |
 | [Calendarium](https://github.com/javalent/calendarium) | In-world calendar tracking |
+| [Quartz v4](https://quartz.jzhao.xyz/) | Static site publishing to GitHub Pages |
+| [Claude Code](https://claude.ai/claude-code) | AI-assisted vault management and prose review |
+
+### Claude Code Skill
+
+The vault ships with a custom `/review-prose` command for writing and reviewing campaign narrative. It enforces Zeph's voice, the vault's epistemic rules, and a fantasy tone calibrated for campaign journals: grounded in sensory detail, honest about uncertainty, brief enough to reference during play, rich enough to remember afterward.
+
+```
+/review-prose Campaign Notes/Story/03 - Arrival in Grainfall.md
+```
 
 ---
 

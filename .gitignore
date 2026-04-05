@@ -5,8 +5,8 @@
 .obsidian/themes/
 .obsidian/hotkeys.json
 
-# Claude Code
-.claude/
+# Claude Code (local settings only, commands are committed)
+.claude/settings.local.json
 
 # Quartz local build
 quartz-build/
