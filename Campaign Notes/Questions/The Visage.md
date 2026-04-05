@@ -1,7 +1,6 @@
 ---
 type: question
 status: open
-scope: campaign
 priority: high
 subject: "The Visage"
 core_question: "What is the entity in the ceremonial room, and what does it want from him?"
@@ -12,6 +11,7 @@ tags:
   - mystery/ruin
 dm_source:
 publish: false
+scope: campaign
 ---
 
 # Questions -- The Visage

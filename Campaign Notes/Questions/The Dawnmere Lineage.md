@@ -1,7 +1,6 @@
 ---
 type: question
 status: open
-scope: both
 priority: high
 subject: "The Dawnmere Lineage"
 core_question: "What does carrying the Dawnmere name actually mean?"
@@ -11,6 +10,7 @@ tags:
   - mystery/symbols
 dm_source:
 publish: false
+scope: both
 ---
 
 # Questions -- The Dawnmere Lineage

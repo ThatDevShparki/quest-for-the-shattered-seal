@@ -1,7 +1,6 @@
 ---
 type: question
 status: open
-scope: character
 priority: high
 subject: "Aeralon Ashdelve"
 core_question: "What did his father find in Grainfall, and why did it destroy him?"
@@ -12,6 +11,7 @@ tags:
   - mystery/dreamrot
 dm_source:
 publish: false
+scope: character
 ---
 
 # Questions -- Aeralon Ashdelve

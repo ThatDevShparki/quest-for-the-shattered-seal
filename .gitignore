@@ -11,6 +11,9 @@
 # Quartz local build
 quartz-build/
 
+# Build output
+docs/
+
 # OS
 .DS_Store
 Thumbs.db

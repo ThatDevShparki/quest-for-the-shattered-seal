@@ -1,7 +1,6 @@
 ---
 type: question
 status: open
-scope: both
 priority: medium
 subject: "The Architect"
 core_question: "Who came to his mother's bedside, and what did he do there?"
@@ -11,6 +10,7 @@ tags:
   - mystery/dawnmere
 dm_source:
 publish: false
+scope: both
 ---
 
 # Questions -- The Architect

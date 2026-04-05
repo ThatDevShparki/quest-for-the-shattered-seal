@@ -1,7 +1,6 @@
 ---
 type: question
 status: open
-scope: campaign
 priority: high
 subject: "The Four Symbols"
 core_question: "What do the four symbols represent, and who carries the other three?"
@@ -12,6 +11,7 @@ tags:
   - mystery/dawnmere
 dm_source:
 publish: false
+scope: campaign
 ---
 
 # Questions -- The Four Symbols

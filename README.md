@@ -15,7 +15,7 @@
 
 ---
 
-### The Scholar
+# The Scholar
 
 **Zephyrix "Zeph" Skydelver** is an Aarakocra Cleric of Oghma, Knowledge Domain. Twenty-three years old. Spectacles askew. Feather crest unruly. His mother died before he could know her. His father followed her into something ancient and never came back.
 
@@ -25,7 +25,7 @@ He is in a jail cell in Grainfall. Session one begins at dawn.
 
 ---
 
-### The Vault
+# The Vault
 
 This is not a wiki. It is a player's knowledge base, written entirely from Zeph's perspective. What he knows. What he does not know. What he suspects and what he fears. The gaps are as deliberate as the details.
 
@@ -43,7 +43,7 @@ Every document is linked. Every mystery is tagged. Every question is tracked. Th
 
 ---
 
-### The Mysteries
+# The Mysteries
 
 Nine threads. Zero answers. The dashboard updates itself.
 
@@ -61,7 +61,7 @@ Nine threads. Zero answers. The dashboard updates itself.
 
 ---
 
-### The Stack
+# The Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -74,7 +74,7 @@ Nine threads. Zero answers. The dashboard updates itself.
 
 ---
 
-### Conventions
+# Conventions
 
 - Everything is written from Zeph's perspective. Third person. No omniscience.
 - No em dashes. Deliberate stylistic choice.

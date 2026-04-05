@@ -123,11 +123,13 @@ Do not use tags for things already in frontmatter fields:
 The `scope` frontmatter property classifies whether a question or clue is personal to Zeph or part of the broader world mystery.
 
 **Valid values:**
+
 - `character` — Personal to Zeph. His body, his parents, his familiar, his direct emotional experience.
 - `campaign` — World-level mystery. Ancient entities, lost languages, sealed ruins, unknown civilizations.
 - `both` — Sits at the boundary. Personal to Zeph AND structurally important to the world (e.g., the Dawnmere lineage is his blood and an ancient world structure).
 
 **Classification guidance:**
+
 - If the question or clue would exist regardless of Zeph's involvement, it is `campaign`.
 - If the question or clue is about Zeph's body, family, familiar, or direct emotional experience, it is `character`.
 - If removing Zeph from the equation would change the nature of the question but not eliminate it, it is `both`.

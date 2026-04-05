@@ -1,7 +1,6 @@
 ---
 type: question
 status: open
-scope: campaign
 priority: high
 subject: "The Sealed Ruin Beneath Grainfall"
 core_question: "What civilization built this place, and why did someone seal it?"
@@ -12,6 +11,7 @@ tags:
   - mystery/visage
 dm_source:
 publish: false
+scope: campaign
 ---
 
 # Questions -- The Sealed Ruin Beneath Grainfall
