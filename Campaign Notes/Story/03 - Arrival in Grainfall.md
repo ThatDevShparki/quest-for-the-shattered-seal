@@ -28,9 +28,9 @@ He copied them carefully and moved on toward [[Campaign Knowledge/Locations/The 
 
 [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|The ruin]] had been sealed. Officially. Recently. The stated reason was structural instability. Nothing in his father's survey notes supported this. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] went in anyway.
 
-The air inside was still in the way that sealed air is still, old and undisturbed and carrying the faint mineral smell of excavated stone that he has known since childhood. The dust lay undisturbed across every surface. No foot had moved through this space in a very long time. He moved slowly. His father taught him to move slowly. You read a site before you touch it.
+The air inside was still, old and undisturbed, carrying the faint mineral smell of excavated stone that he had known since childhood. The dust lay undisturbed across every surface. No foot had moved through this space in a very long time. He moved slowly. His father taught him to move slowly. You read a site before you touch it.
 
-What he read was unfamiliar. This is the significant thing and he recognized its significance immediately. He has spent his life in [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon's]] orbit, surrounded by the breadth of what academic archaeology has documented. He has encountered obscure civilizations, regional cultures, poorly documented periods of history. Nothing in this ruin matched anything he had encountered in any of that. The civilization that built this place left no trace in any record he has access to. It predates the record entirely.
+What he read was unfamiliar. He recognized this immediately. He had spent his life in [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon's]] orbit, surrounded by the breadth of what academic archaeology had documented. He had encountered obscure civilizations, regional cultures, poorly documented periods of history. Nothing in this ruin matched anything he had encountered in any of that. The civilization that built this place had left no trace in any record he could access.
 
 Crypts lined the hallways. Skeletons in armor from centuries past, jeweled and armed in designs no living scholar had ever documented firsthand. And on every wall, in every hallway and chamber, murals. Detailed and deliberate, describing events and people and moments from a civilization that history had swallowed whole. He could not read them. The figures and events depicted belonged to a visual language as unfamiliar as [[Campaign Knowledge/Clues/Sae-th]].
 
@@ -44,7 +44,7 @@ He stopped moving. The same crest on [[Campaign Knowledge/Items/Sylara's Amulet|
 
 Then he reached for the journal.
 
-He found the crest inside. Drawn over and over again, different sizes and orientations, some careful and some frantic. Every single one defaced. Crossed out, etched through, lines torn into the page with what must have been fury or fear or something that had stopped being one and become the other. [[Campaign Knowledge/Characters/Aeralon Ashdelve|His father]] had found this room too. Had stood in this same spot. Had drawn what he saw until he could not stop drawing it and then destroyed every trace of it he could reach.
+He found the crest inside. Every version [[Campaign Knowledge/Characters/Aeralon Ashdelve|his father]] had drawn, the ones he had seen in the cold house without understanding, matched the shape on the wall in front of him. And every version had been destroyed. His father had stood in this same spot. Had looked at the same stone. Had opened this same journal and drawn what he saw and then torn through each drawing as though the act of recording it was itself dangerous.
 
 Surrounding the defaced crests, threaded through the incoherent scribbles, were references to old gods and to a language called [[Campaign Knowledge/Clues/Sae-th]] and to something ancient connected to this place and [[Campaign Knowledge/Organizations/The Dawnmere Lineage|this bloodline]] that [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had clearly understood and just as clearly did not want his son to find.
 
