@@ -101,9 +101,15 @@ a.internal.tag-link {
   font-weight: bold;
 }
 
-// Links
+// Links — strip Quartz's default highlight background on internal links
 a {
   color: var(--secondary);
+}
+
+a.internal {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
 }
 
 // ── Scope Badges ──────────────────────────────────────────────
