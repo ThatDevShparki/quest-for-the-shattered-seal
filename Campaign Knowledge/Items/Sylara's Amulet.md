@@ -2,7 +2,7 @@
 type: item
 possessed: true
 aliases: [the amulet, the pendant, Pendant of Dawnmere]
-tags: [mystery/dawnmere, mystery/visage]
+tags: [mystery/dawnmere, mystery/visage, mystery/symbols]
 dm_source:
 image: "[[Resources/Images/Sylara's Amulet - Image.png]]"
 publish: true
@@ -145,6 +145,24 @@ The warlock arc will change the character of these properties as [[Campaign Know
 
 ---
 
+## What He Does Not Know
+
+He does not know what the amulet was designed for originally. He does not know what [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] understood about its nature when she wore it, whether she knew it was something more than a holy symbol or whether she wore it in deliberate ignorance of its deeper function.
+
+He does not know what recognized the crest in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] or what the recognition set in motion. He does not know if the warmth he felt was the amulet responding to [[Campaign Knowledge/Characters/The Visage|the entity]] that spoke to him, or to something in his own blood, or to something in the room itself that had nothing to do with either.
+
+He does not know what the other three symbols represent or who carries them or whether they have objects of their own that correspond to his pendant.
+
+He does not know what the amulet will become when he answers the question [[Campaign Knowledge/Characters/The Visage|the voice]] asked him. He suspects the answer will change it. He suspects he is not ready to find out.
+
+He is wearing it anyway. He has not taken it off since [[Campaign Knowledge/Locations/Grainfall]]. He does not intend to.
+
+His mother wore this and chose light. Whatever the amulet is and whatever it is becoming, she made her choice in it and he is going to make his.
+
+He just has not made it yet.
+
+---
+
 ## Connections
 
 - [[Campaign Knowledge/Characters/Sylara Dawnmere]] -- wore the pendant her entire life as a cleric of holy light
@@ -193,21 +211,3 @@ _To be filled in as the campaign progresses._
 |||||
 |||||
 |||||
-
----
-
-## What He Does Not Know
-
-He does not know what the amulet was designed for originally. He does not know what [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] understood about its nature when she wore it, whether she knew it was something more than a holy symbol or whether she wore it in deliberate ignorance of its deeper function.
-
-He does not know what recognized the crest in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] or what the recognition set in motion. He does not know if the warmth he felt was the amulet responding to [[Campaign Knowledge/Characters/The Visage|the entity]] that spoke to him, or to something in his own blood, or to something in the room itself that had nothing to do with either.
-
-He does not know what the other three symbols represent or who carries them or whether they have objects of their own that correspond to his pendant.
-
-He does not know what the amulet will become when he answers the question [[Campaign Knowledge/Characters/The Visage|the voice]] asked him. He suspects the answer will change it. He suspects he is not ready to find out.
-
-He is wearing it anyway. He has not taken it off since [[Campaign Knowledge/Locations/Grainfall]]. He does not intend to.
-
-His mother wore this and chose light. Whatever the amulet is and whatever it is becoming, she made her choice in it and he is going to make his.
-
-He just has not made it yet.

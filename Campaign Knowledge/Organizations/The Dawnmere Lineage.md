@@ -7,6 +7,11 @@ aliases:
 tags:
   - mystery/dawnmere
   - mystery/visage
+  - mystery/saeth
+  - mystery/brothers
+  - mystery/architect
+  - mystery/symbols
+  - mystery/ari
 dm_source:
 image:
 publish: true
@@ -16,7 +21,7 @@ publish: true
 
 ## What He Was Told
 
-His mother described the crest to him. This is the foundational fact of everything he knows about [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]], and it is also the entirety of it. A small child asking about the pendant around his mother's neck, and [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] crouching down to his level and describing what the symbols meant and what they represented to her family.
+His mother described the crest to him. This is the foundational fact of everything he knows about the Dawnmere lineage, and it is also the entirety of it. A small child asking about the pendant around his mother's neck, and [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] crouching down to his level and describing what the symbols meant and what they represented to her family.
 
 He does not remember the conversation with perfect clarity. He remembers the feeling of it more than the content, the particular quality of her attention when she explained something she considered important, the way she held the pendant out so he could look at it while she spoke. The features of the crest and what she said they meant to the Dawnmere family are still somewhere in him, imprecise and fading at the edges but present. He recognized the symbols at [[Campaign Knowledge/Locations/The Ruined Observatory]] when he saw them. He does not yet fully understand what he was recognizing or what the recognition means.
 
@@ -38,7 +43,7 @@ He wears it now as his holy symbol, the way his mother wore it. This felt natura
 
 He feels proud to carry the Dawnmere name. This is uncomplicated and genuine. Whatever the name means in depths he cannot yet see, at the surface it means his mother, and his mother was the warmth and the light and the hand on the shoulder and the steady handwriting on the first page of [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] telling his father to look up and show their son the sky. The Dawnmere name means that. He is proud to carry it.
 
-The pride sits alongside something newer and less comfortable. [[Campaign Knowledge/Organizations/The Dawnmere Lineage|The Dawnmere crest]] on the wall of the ceremonial room beneath [[Campaign Knowledge/Locations/Grainfall]]. Woven into a royal bloodline carved into stone that predates recorded history. His mother's symbol in a civilization that should not have known it existed. He looked down at the pendant around his neck and then back at the wall and understood for the first time that [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] knew exactly where she came from. She wore the mark anyway. She chose light anyway.
+The pride sits alongside something newer and less comfortable. The Dawnmere crest on the wall of the ceremonial room beneath [[Campaign Knowledge/Locations/Grainfall]]. Woven into a royal bloodline carved into stone that predates recorded history. His mother's symbol in a civilization that should not have known it existed. He looked down at the pendant around his neck and then back at the wall and understood for the first time that [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] knew exactly where she came from. She wore the mark anyway. She chose light anyway.
 
 What she chose it over is the question he does not yet have an answer to.
 
@@ -62,7 +67,7 @@ He ran from a voice in the ceremonial room. A woman's voice. Something that knew
 
 His first instinct was his mother. This matters. Instinct is not random. It reaches for the most accurate available explanation before the reasoning mind has time to intervene. Something in him recognized that voice as connected to something maternal, something Dawnmere, something from the part of his inheritance he does not yet understand.
 
-He has not built the framework that connects [[Campaign Knowledge/Characters/The Visage]] to the lineage. [[Campaign Knowledge/Characters/The Visage]] in the ceremonial room and the Dawnmere name live in separate places in his mind right now. He is still processing. The ritual was recent and the processing is ongoing and he is sitting in a jail cell with [[Campaign Knowledge/Characters/Ari]] on his knee and [[Campaign Knowledge/Items/Sylara's Amulet|the amulet]] glowing against his chest and there is only so much a person can integrate at once.
+He has not built the framework that connects [[Campaign Knowledge/Characters/The Visage]] to the lineage. The Visage in the ceremonial room and the Dawnmere name live in separate places in his mind right now. He is still processing. The ritual was recent and the processing is ongoing and he is sitting in a jail cell with [[Campaign Knowledge/Characters/Ari]] on his knee and [[Campaign Knowledge/Items/Sylara's Amulet|the amulet]] glowing against his chest and there is only so much a person can integrate at once.
 
 But the instinct was there. It reached for his mother before it reached for anything else. He has not yet asked himself what that means.
 
@@ -76,7 +81,7 @@ Almost everything.
 
 He does not know the actual history of the Dawnmere line. Where it began, how far back it goes, who the people were who carried the name before his mother. He does not know if there are living members of the lineage beyond himself. He does not know if any of them are aware that [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] had a son.
 
-He does not know what his mother chose the light over. He knows she chose it deliberately because [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere crest]] on the wall of that ceremonial room tells him the choice was against something, not simply toward something. You do not wear the mark of a bloodline as a holy symbol of light if the bloodline itself is simply a line of light clerics. There was something to turn away from. She turned away from it and wore its symbol as evidence of the turning.
+He does not know what his mother chose the light over. He knows she chose it deliberately because the Dawnmere crest on the wall of that ceremonial room tells him the choice was against something, not simply toward something. You do not wear the mark of a bloodline as a holy symbol of light if the bloodline itself is simply a line of light clerics. There was something to turn away from. She turned away from it and wore its symbol as evidence of the turning.
 
 He does not know what she knew about the civilization whose walls bore her family's crest. He does not know if she knew about [[Campaign Knowledge/Characters/The Visage]] or whether her faith was built in response to it or in ignorance of it or in some relationship to it that he has no word for yet.
 
@@ -96,7 +101,7 @@ Pride. Still pride. This has not changed and he does not expect it to change reg
 
 He is proud to carry that name. He is proud to wear that crest. Whatever it connects to, whatever it means in depths he cannot yet see, it meant [[Campaign Knowledge/Characters/Sylara Dawnmere]] chose something and built something and loved something and left a note in [[Campaign Knowledge/Items/Aeralon's Journal|a journal]] that found her son twenty years after her death exactly when he needed it.
 
-That is [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]] as he knows it. A woman who chose. A crest she made mean something better. A name passed to a son who does not yet know what he is carrying.
+That is the Dawnmere lineage as he knows it. A woman who chose. A crest she made mean something better. A name passed to a son who does not yet know what he is carrying.
 
 He is going to find out. He suspects what he finds will be large and old and not entirely safe and will require him to make choices of his own about what the name means and what he is willing to do in it.
 

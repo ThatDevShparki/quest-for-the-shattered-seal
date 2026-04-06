@@ -28,7 +28,7 @@ Everything was untouched. The dust was undisturbed in the way that dust is undis
 
 He moved slowly. His father taught him to move slowly. You read a site before you touch it and you touch it before you take from it and you take from it only when you understand what you are taking. He touched nothing. He read everything he could.
 
-What he read was unfamiliar. This is the significant thing and he recognized its significance immediately. He has spent his life in [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s orbit, surrounded by [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s scholarship and [[Campaign Knowledge/Organizations/The Orryn Society]]'s accumulated knowledge and the breadth of what academic archaeology has documented across decades of serious work. He has encountered obscure civilizations, regional cultures, poorly documented periods of history. He has sat in rooms full of the most knowledgeable people in the known world and listened to them argue about the edges of what is understood.
+What he read was unfamiliar. This is the significant thing and he recognized its significance immediately. He has spent his life in [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s orbit, surrounded by Aeralon's scholarship and [[Campaign Knowledge/Organizations/The Orryn Society]]'s accumulated knowledge and the breadth of what academic archaeology has documented across decades of serious work. He has encountered obscure civilizations, regional cultures, poorly documented periods of history. He has sat in rooms full of the most knowledgeable people in the known world and listened to them argue about the edges of what is understood.
 
 Nothing in this ruin matched anything he had encountered in any of that. Not approximately. Not in the way that a regional variation matches its root culture or a later period echoes an earlier one. The civilization that built this place left no trace in any record he has access to. It predates the record entirely or exists entirely outside it.
 
@@ -72,7 +72,7 @@ He found it deep inside. The hallways led to it with the architectural logic of 
 
 It was large. Large enough that his footsteps changed quality when he entered, the echo deepening and broadening in the way of spaces built to hold something significant. The ceiling was high and lost to shadow at the edges of his light source. The floor was unbroken stone, the same precision of construction as everything else in the ruin but grander in its execution, a surface made to be stood upon by people who considered the standing important.
 
-Braziers and altars were arranged on a central platform, the configuration deliberate and specific in a way that his father's early journal entries had described precisely. He recognized it from those descriptions. He had read that passage enough times that standing in the room felt like arriving somewhere he had been told about rather than discovering something new. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had seen this. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had stood here.
+Braziers and altars were arranged on a central platform, the configuration deliberate and specific in a way that his father's early journal entries had described precisely. He recognized it from those descriptions. He had read that passage enough times that standing in the room felt like arriving somewhere he had been told about rather than discovering something new. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had seen this. Aeralon had stood here.
 
 He touched the walls as he moved around the space. Not to take samples, not to disturb, simply the archaeologist's instinct to make physical contact with a thing you are trying to understand, to feel the texture and temperature of the stone and the precision of the carvings beneath your hands. The walls were cold and very smooth and the carvings were sharper than their apparent age should have allowed, as though whatever the civilization used to cut stone had been more precise than anything in current use.
 
@@ -165,6 +165,7 @@ He does not know if he will go back. He knows he will go back. He does not know 
 - [[Campaign Knowledge/Clues/The Brothers]] -- possibly connected to the civilization that built the ruin
 - [[Campaign Knowledge/Organizations/The Orryn Society]] -- the accumulated scholarly knowledge that could not identify this civilization
 - [[Campaign Knowledge/Characters/Ari]] -- Aeralon's familiar, who emerged from the journal in the cell after the ritual
+- [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] -- explored the ruin, performed the ritual, fled
 
 ---
 

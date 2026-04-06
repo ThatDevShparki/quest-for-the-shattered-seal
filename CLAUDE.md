@@ -77,7 +77,7 @@ These are non-negotiable. Every one of them exists because of a specific decisio
   - Sessions: `type`, `session_number`, `tags`
   - Questions: `type`, `priority`, `status`, `scope`, `subject`, `session_introduced`, `tags`
   - Indexes: `type`
-- **Wiki-link every meaningful mention of a known entity.** Use display text for readability: `[[Aeralon Ashdelve|Aeralon]]`. Link every occurrence, not just the first.
+- **Wiki-link every meaningful mention of a known entity.** Use display text for readability: `[[Aeralon Ashdelve|Aeralon]]`. Link the first mention of each entity per paragraph. Subsequent mentions in the same paragraph stay as plain text. Never self-link (a document must not link to itself).
 - **Tags are for mystery threads and narrative weight only.** Do not duplicate what frontmatter fields already express. See the tag taxonomy below.
 
 ---

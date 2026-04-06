@@ -2,7 +2,7 @@
 type: item
 possessed: true
 aliases: [the journal, the inheritance]
-tags: [mystery/saeth, mystery/dawnmere, mystery/ari, mystery/ruin]
+tags: [mystery/saeth, mystery/dawnmere, mystery/ari, mystery/ruin, mystery/visage, mystery/brothers]
 dm_source:
 image: "[[Resources/Images/Aeralon's Journal - Image.png]]"
 publish: true
@@ -112,7 +112,7 @@ Beside these passages, in handwriting still steady enough to be deliberate, [[Ca
 
 _As far as I can tell this is the language of [[Campaign Knowledge/Clues/The Brothers|the brothers]]. It is called [[Campaign Knowledge/Clues/Sae-th]]. It binds the world._
 
-This annotation raises more questions than it answers. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] does not know who [[Campaign Knowledge/Clues/The Brothers|the brothers]] are. He does not know what it means for a language to bind the world, whether this is a metaphysical claim or a literal one or a description of function he does not yet have the framework to interpret. He does not know how much of the [[Campaign Knowledge/Clues/Sae-th]] passages his father was able to translate or whether the annotation represents the full extent of his understanding or merely the part he chose to write down.
+This annotation raises more questions than it answers. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] does not know who [[Campaign Knowledge/Clues/The Brothers|the brothers]] are. He does not know what it means for a language to bind the world, whether this is a metaphysical claim or a literal one or a description of function he does not yet have the framework to interpret. He does not know how much of the Sae-th passages his father was able to translate or whether the annotation represents the full extent of his understanding or merely the part he chose to write down.
 
 The passages themselves remain unread. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] does not know [[Campaign Knowledge/Clues/Sae-th]]. He does not know anyone who does.
 
@@ -120,11 +120,11 @@ The passages themselves remain unread. [[Campaign Knowledge/Characters/Zephyrix 
 
 ## The Familiar
 
-[[Campaign Knowledge/Characters/Ari|The raven]] that emerged from the journal in the jail cell in [[Campaign Knowledge/Locations/Grainfall]] was [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s familiar throughout his career. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] did not know this until [[Campaign Knowledge/Characters/Ari]] emerged. He never saw a raven at his father's side. It was never there, or was never visible, or was kept from him by some deliberate concealment he had no reason to suspect.
+[[Campaign Knowledge/Characters/Ari|The raven]] that emerged from the journal in the jail cell in [[Campaign Knowledge/Locations/Grainfall]] was [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s familiar throughout his career. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] did not know this until Ari emerged. He never saw a raven at his father's side. It was never there, or was never visible, or was kept from him by some deliberate concealment he had no reason to suspect.
 
 The journal is where [[Campaign Knowledge/Characters/Ari]] lived after [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] stopped being able to maintain the relationship that kept it close. It waited in the only place it had left to wait. It emerged after the ritual in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]], in the dark of the cell, and has not left since.
 
-How much [[Campaign Knowledge/Characters/Ari]] knows about the journal's contents is unknown. It speaks in [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s cadences, in fragments and observations and half finished sentences, but whether this represents actual memory of what [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] said and thought or something more limited is not yet clear. It is a source of potential knowledge about the journal and its author that [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] has barely begun to access.
+How much [[Campaign Knowledge/Characters/Ari]] knows about the journal's contents is unknown. It speaks in [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s cadences, in fragments and observations and half finished sentences, but whether this represents actual memory of what Aeralon said and thought or something more limited is not yet clear. It is a source of potential knowledge about the journal and its author that [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] has barely begun to access.
 
 ---
 

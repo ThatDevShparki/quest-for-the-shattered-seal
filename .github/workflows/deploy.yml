@@ -27,8 +27,9 @@ jobs:
         with:
           node-version: 22
 
+      # Pinned to v4.5.2. Bump this tag when upgrading Quartz.
       - name: Clone Quartz
-        run: git clone --depth 1 https://github.com/jackyzha0/quartz.git /tmp/quartz
+        run: git clone --depth 1 --branch v4.5.2 https://github.com/jackyzha0/quartz.git /tmp/quartz
 
       - name: Install Quartz dependencies
         run: cd /tmp/quartz && npm ci
@@ -36,13 +37,19 @@ jobs:
       - name: Copy vault content
         run: |
           rm -rf /tmp/quartz/content/*
-          cp -R "Campaign Knowledge" /tmp/quartz/content/
-          cp -R "Campaign Notes" /tmp/quartz/content/
-          mkdir -p /tmp/quartz/content/Resources
-          cp -R Resources/Images /tmp/quartz/content/Resources/ 2>/dev/null || true
-
-      - name: Copy landing page
-        run: cp .quartz/index.md /tmp/quartz/content/index.md
+          for item in */; do
+            case "$item" in
+              Templates/|docs/) ;;
+              *) cp -R "$item" /tmp/quartz/content/ ;;
+            esac
+          done
+          for f in *.md; do
+            case "$f" in
+              CLAUDE.md|README.md) ;;
+              *) cp -f "$f" /tmp/quartz/content/ ;;
+            esac
+          done
+          cp .quartz/index.md /tmp/quartz/content/index.md
 
       - name: Apply Quartz config
         run: |
@@ -53,6 +60,18 @@ jobs:
 
       - name: Build
         run: cd /tmp/quartz && npx quartz build
+
+      - name: Validate build output
+        run: |
+          if [ ! -f /tmp/quartz/public/index.html ]; then
+            echo "::error::Build produced no index.html. Quartz build may have silently failed."
+            exit 1
+          fi
+          PAGE_COUNT=$(find /tmp/quartz/public -name "*.html" | wc -l)
+          echo "Published $PAGE_COUNT pages"
+          if [ "$PAGE_COUNT" -lt 5 ]; then
+            echo "::warning::Only $PAGE_COUNT pages published. Expected at least 20+. Check publish: true frontmatter."
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

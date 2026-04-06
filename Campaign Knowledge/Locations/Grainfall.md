@@ -2,7 +2,7 @@
 type: location
 visited: true
 aliases: [the town]
-tags: [mystery/ruin]
+tags: [mystery/ruin, mystery/visage, mystery/dawnmere]
 dm_source:
 image:
 publish: true
@@ -40,7 +40,7 @@ The ruin beneath Grainfall was sealed. Officially and recently. The stated reaso
 
 Nothing in his father's survey notes supported this explanation. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had documented the site extensively in his earlier years, before the madness, and his structural observations described a ruin that was remarkably well preserved for its age. Not unstable. Deliberately constructed to last. The kind of stonework that does not fail without intervention.
 
-Someone sealed it after [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s last visit or during his final years of deteriorating research. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] does not know who made that decision or under whose authority or what actually prompted it. He does not know if the sealing was a response to what [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] found there or a coincidence of timing. He does not know if the people who sealed it knew what was inside.
+Someone sealed it after [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]]'s last visit or during his final years of deteriorating research. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] does not know who made that decision or under whose authority or what actually prompted it. He does not know if the sealing was a response to what Aeralon found there or a coincidence of timing. He does not know if the people who sealed it knew what was inside.
 
 He went in anyway. He knows what he found. He does not yet know what finding it means for the town that has been sitting above it.
 
@@ -132,6 +132,7 @@ He does not have much choice but to be.
 - [[Campaign Knowledge/Clues/The Brothers]] -- referenced in the journal, possibly connected to the four symbols
 - [[Campaign Knowledge/Characters/The Visage]] -- the entity that spoke during the ritual beneath the town
 - [[Campaign Knowledge/Characters/Ari]] -- Aeralon's familiar, emerged from the journal in the jail cell
+- [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] -- arrived three days ago, currently in the jail cell
 
 ---
 

@@ -6,5 +6,6 @@
     ".claude/",
     ".quartz/",
     ".github/"
-  ]
+  ],
+  "livePreview": false
 }

@@ -16,9 +16,9 @@ publish: true
 
 ## How He Knows
 
-He knows through his father. This is the only source he has and it is an imperfect one, not because [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] lied to him, he does not believe his father lied to him, but because [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] told the story with a careful precision that always felt like management rather than disclosure. The kind of telling that gives a child enough to satisfy the question without enough to generate the next one.
+He knows through his father. This is the only source he has and it is an imperfect one, not because [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] lied to him, he does not believe his father lied to him, but because Aeralon told the story with a careful precision that always felt like management rather than disclosure. The kind of telling that gives a child enough to satisfy the question without enough to generate the next one.
 
-It was never a story [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] offered. It was always a story [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] gave when asked, and only when asked, and only as much of it as the asking seemed to require. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] asked about his mother often throughout his childhood, the way children ask about absent parents, repeatedly and from different angles and with the particular persistence of someone who is trying to assemble a person out of secondhand accounts. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] answered with warmth and with care and with a tone that [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] now recognizes as the tone of someone who has decided how much of a thing to say and is holding to that decision regardless of the pressure to say more.
+It was never a story Aeralon offered. It was always a story Aeralon gave when asked, and only when asked, and only as much of it as the asking seemed to require. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] asked about his mother often throughout his childhood, the way children ask about absent parents, repeatedly and from different angles and with the particular persistence of someone who is trying to assemble a person out of secondhand accounts. Aeralon answered with warmth and with care and with a tone that Zeph now recognizes as the tone of someone who has decided how much of a thing to say and is holding to that decision regardless of the pressure to say more.
 
 There was never anger in the telling. Never resentment or grief displayed openly. The tone was caring and precise in the way that a parent is caring and precise when they are navigating something they believe their child is not yet ready for, releasing information in measured amounts, watching for the moment the child has enough and stopping there.
 
@@ -36,27 +36,27 @@ He was not a physician. Several physicians and clerics had come in the days prio
 
 He had a warm smile. He had circular glasses. These details are [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]]'s own, from the eyes of a small child who was present in the room and noticed the things a small child notices, which are not the things adults notice. He does not know if his father would have described the man the same way. He knows only what he himself registered, a warmth in the expression and a particular shape to the lenses, details that settled into his memory and stayed there with the specificity that certain images from early childhood retain regardless of how much else fades.
 
-When [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] asked his name, as he asked the name of every guest because he always asked the name of every guest, the man smiled and said he was called [[Campaign Knowledge/Characters/The Architect]].
+When Zeph asked his name, as he asked the name of every guest because he always asked the name of every guest, the man smiled and said he was called the Architect.
 
 Not his name. A title. Or a description. Or something else entirely dressed up as one of those two things.
 
 He was gone before morning. [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] died the following day.
 
-This is the complete record. Everything [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] knows about [[Campaign Knowledge/Characters/The Architect]] fits in these few sentences. He has carried them for his entire life without knowing what to do with them.
+This is the complete record. Everything Zeph knows about the Architect fits in these few sentences. He has carried them for his entire life without knowing what to do with them.
 
 ---
 
 ## The Telling
 
-[[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] never described [[Campaign Knowledge/Characters/The Architect]] in any evaluative way. He reported what had happened, the arrival, the name, the departure, without attaching interpretation or emotional response to any of it. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] never heard his father say he was frightened by the visitor or relieved by him or confused by him or angry at him. He heard only the facts, delivered with the same careful neutrality that [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] brought to the rest of the story of that night.
+[[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] never described the Architect in any evaluative way. He reported what had happened, the arrival, the name, the departure, without attaching interpretation or emotional response to any of it. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] never heard his father say he was frightened by the visitor or relieved by him or confused by him or angry at him. He heard only the facts, delivered with the same careful neutrality that Aeralon brought to the rest of the story of that night.
 
-[[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] accepted this as his father simply not knowing what to make of it. A strange thing had happened and [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] was reporting it as a strange thing without overclaiming understanding he did not have.
+Zeph accepted this as his father simply not knowing what to make of it. A strange thing had happened and Aeralon was reporting it as a strange thing without overclaiming understanding he did not have.
 
 He is less certain of this interpretation now.
 
-The caring precision of his father's telling, which he understood throughout his childhood as evidence of gentleness, he is beginning to reread as evidence of something more specific. A parent does not choose their words that carefully about something they are genuinely neutral on. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] was not neutral on most things. He was passionate and opinionated and frequently incapable of concealing what he thought. His neutrality on [[Campaign Knowledge/Characters/The Architect]] was not the neutrality of someone with no feeling about the subject. It was the neutrality of someone who had decided what to feel and was holding that decision very carefully in place.
+The caring precision of his father's telling, which he understood throughout his childhood as evidence of gentleness, he is beginning to reread as evidence of something more specific. A parent does not choose their words that carefully about something they are genuinely neutral on. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] was not neutral on most things. He was passionate and opinionated and frequently incapable of concealing what he thought. His neutrality on the Architect was not the neutrality of someone with no feeling about the subject. It was the neutrality of someone who had decided what to feel and was holding that decision very carefully in place.
 
-He does not know what his father actually knew about [[Campaign Knowledge/Characters/The Architect]]. He does not know if [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] encountered him again, in [[Campaign Knowledge/Locations/Grainfall]] or elsewhere, in the years of his descent. He does not know if his father's final obsessive return to [[Campaign Knowledge/Locations/Grainfall]] and the changes it produced in him had anything to do with whatever [[Campaign Knowledge/Characters/The Architect]] was.
+He does not know what his father actually knew about the Architect. He does not know if Aeralon encountered him again, in [[Campaign Knowledge/Locations/Grainfall]] or elsewhere, in the years of his descent. He does not know if his father's final obsessive return to Grainfall and the changes it produced in him had anything to do with whatever the Architect was.
 
 He used to think these were unconnected threads. He is less certain of this now too.
 
@@ -64,11 +64,11 @@ He used to think these were unconnected threads. He is less certain of this now 
 
 ## What He Has Not Connected
 
-He has not connected [[Campaign Knowledge/Characters/The Architect]] to the voice in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]]. This is important to state clearly. The man who came to his mother's bedside with a warm smile and circular glasses and the entity that spoke to him in his mother's voice and asked him to become its servant do not yet share a framework in his mind. They live in separate places. He is not there yet.
+He has not connected the Architect to the voice in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]]. This is important to state clearly. The man who came to his mother's bedside with a warm smile and circular glasses and the entity that spoke to him in his mother's voice and asked him to become its servant do not yet share a framework in his mind. They live in separate places. He is not there yet.
 
-He is thinking about his mother. That is what is driving the processing right now, the note in [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] and [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the crest]] on the wall and [[Campaign Knowledge/Items/Sylara's Amulet|the amulet]] growing warm against his chest and the voice that knew exactly how to sound like [[Campaign Knowledge/Characters/Sylara Dawnmere]]. [[Campaign Knowledge/Characters/The Architect]] is a core detail in that narrative, a thread that runs through the night she died, but he has not yet pulled it to see where it leads.
+He is thinking about his mother. That is what is driving the processing right now, the note in [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] and [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the crest]] on the wall and [[Campaign Knowledge/Items/Sylara's Amulet|the amulet]] growing warm against his chest and the voice that knew exactly how to sound like [[Campaign Knowledge/Characters/Sylara Dawnmere]]. The Architect is a core detail in that narrative, a thread that runs through the night she died, but he has not yet pulled it to see where it leads.
 
-The instinct that reached for his mother when the voice spoke in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] is the same instinct that might eventually reach for [[Campaign Knowledge/Characters/The Architect]]. He has not followed it there yet. He is still processing the first part.
+The instinct that reached for his mother when the voice spoke in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] is the same instinct that might eventually reach for the Architect. He has not followed it there yet. He is still processing the first part.
 
 He will get there. He is the kind of person who follows threads. He just has not gotten to this one yet.
 
@@ -76,7 +76,7 @@ He will get there. He is the kind of person who follows threads. He just has not
 
 ## What He Feels
 
-Curious is the most accurate word for what he has felt about [[Campaign Knowledge/Characters/The Architect]] for most of his life. A low-level wondering that attached itself to the detail and never fully released it. Who gives a title instead of a name? What was he doing at his mother's bedside? Why did he leave before morning and not after?
+Curious is the most accurate word for what he has felt about the Architect for most of his life. A low-level wondering that attached itself to the detail and never fully released it. Who gives a title instead of a name? What was he doing at his mother's bedside? Why did he leave before morning and not after?
 
 These questions never had urgency before. They were the kind of questions that live in the background of a person's understanding, present without pressing, waiting for context that might or might not arrive.
 
@@ -84,9 +84,9 @@ The context is arriving. Not all at once and not in a way that makes anything cl
 
 He is wary. This is the honest description of where he has arrived. Not afraid, not hostile, not certain enough of anything to feel either of those things. Wary in the way that you become wary of something you have always known was there but are only now beginning to understand might have always been looking back.
 
-He does not know if [[Campaign Knowledge/Characters/The Architect]] is dangerous. He does not know if [[Campaign Knowledge/Characters/The Architect]] is connected to what he found in [[Campaign Knowledge/Locations/Grainfall]]. He does not know if [[Campaign Knowledge/Characters/The Architect]] is connected to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]] or to the entity in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] or to his mother's death in any way beyond the coincidence of timing.
+He does not know if the Architect is dangerous. He does not know if the Architect is connected to what he found in [[Campaign Knowledge/Locations/Grainfall]]. He does not know if the Architect is connected to [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere lineage]] or to the entity in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] or to his mother's death in any way beyond the coincidence of timing.
 
-He does not know anything about [[Campaign Knowledge/Characters/The Architect]] except a warm smile, circular glasses, and a name that is not a name.
+He does not know anything about the Architect except a warm smile, circular glasses, and a name that is not a name.
 
 That is enough to be wary of. He has learned to trust that kind of instinct.
 
@@ -96,11 +96,11 @@ That is enough to be wary of. He has learned to trust that kind of instinct.
 
 Everything that matters.
 
-He does not know who or what [[Campaign Knowledge/Characters/The Architect]] is. He does not know whether [[Campaign Knowledge/Characters/The Architect]] is a person in the conventional sense or something else wearing the shape of one. He does not know whether the warmth of the smile was genuine or performed or something more specific than either of those words covers.
+He does not know who or what the Architect is. He does not know whether the Architect is a person in the conventional sense or something else wearing the shape of one. He does not know whether the warmth of the smile was genuine or performed or something more specific than either of those words covers.
 
-He does not know what [[Campaign Knowledge/Characters/The Architect]] did at his mother's bedside. He does not know if the visit was connected to her death or incidental to it. He does not know if something was taken or given or witnessed or initiated or concluded. He does not know why no one else in the room seemed to find the visit unusual enough to document or discuss. He does not know how [[Campaign Knowledge/Characters/The Architect]] knew to come or who told him or whether anyone told him at all.
+He does not know what the Architect did at his mother's bedside. He does not know if the visit was connected to her death or incidental to it. He does not know if something was taken or given or witnessed or initiated or concluded. He does not know why no one else in the room seemed to find the visit unusual enough to document or discuss. He does not know how the Architect knew to come or who told him or whether anyone told him at all.
 
-He does not know if [[Campaign Knowledge/Characters/The Architect]] knows he exists. He does not know if he has been watched. He does not know if the name he was given, [[Campaign Knowledge/Characters/The Architect]], was chosen for the child who would remember it or for some other reason entirely.
+He does not know if the Architect knows he exists. He does not know if he has been watched. He does not know if the name he was given, the Architect, was chosen for the child who would remember it or for some other reason entirely.
 
 He does not know if he will meet him.
 
@@ -110,7 +110,7 @@ He thinks he will. He does not know why he thinks this. He thinks it anyway.
 
 ## The Name
 
-[[Campaign Knowledge/Characters/The Architect]].
+The Architect.
 
 He has said it in his head thousands of times across his life without knowing what it meant. A title implies a function. An architect designs and builds things. Whatever this entity is, whatever it does, it chose to be understood as something that makes things, that plans and constructs and brings into being.
 
