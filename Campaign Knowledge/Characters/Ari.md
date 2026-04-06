@@ -11,11 +11,13 @@ tags:
   - mystery/dawnmere
   - mystery/visage
 dm_source:
-image:
+image: "[[Resources/Images/Ari - Image.png]]"
 publish: true
 ---
 
 # Ari
+
+![[Resources/Images/Ari - Image.png]]
 
 ## The Name
 

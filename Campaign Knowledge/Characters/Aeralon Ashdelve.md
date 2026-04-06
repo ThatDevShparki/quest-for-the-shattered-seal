@@ -13,11 +13,13 @@ tags:
   - mystery/brothers
   - mystery/ari
 dm_source:
-image:
+image: "[[Resources/Images/Aeralon Ashdelve - Image.png]]"
 publish: true
 ---
 
 # Aeralon Ashdelve
+
+![[Resources/Images/Aeralon Ashdelve - Image.png]]
 
 ## The Man Before
 

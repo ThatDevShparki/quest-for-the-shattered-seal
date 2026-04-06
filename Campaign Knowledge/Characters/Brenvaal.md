@@ -4,11 +4,13 @@ status: unknown
 aliases: []
 tags: []
 dm_source:
-image:
+image: "[[Resources/Images/Brenvaal - Image.png]]"
 publish: true
 ---
 
 # Brenvaal
+
+![[Resources/Images/Brenvaal - Image.png]]
 
 ## Who He Was
 

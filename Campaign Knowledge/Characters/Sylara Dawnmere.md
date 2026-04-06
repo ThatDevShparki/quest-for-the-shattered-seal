@@ -9,11 +9,13 @@ tags:
   - mystery/architect
   - mystery/visage
 dm_source:
-image:
+image: "[[Resources/Images/Sylara Dawnmere - Image.png]]"
 publish: true
 ---
 
 # Sylara Dawnmere
+
+![[Resources/Images/Sylara Dawnmere - Image.png]]
 
 ## What He Remembers
 
