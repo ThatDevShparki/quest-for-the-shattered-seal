@@ -135,7 +135,8 @@ He spent the nights working backwards through his father's notes, looking for th
 - [[Campaign Knowledge/Characters/Ari]] — his familiar, a raven hidden for decades and drawn into the journal during his descent
 - [[Campaign Knowledge/Characters/The Architect]] — the visitor at Sylara's bedside, whose identity Aeralon reported without interpretation
 - [[Campaign Knowledge/Organizations/The Orryn Society|The Orryn Society]] — the institution he helped shape and eventually withdrew from
-- [[Campaign Knowledge/Organizations/The Dawnmere Lineage]] — Sylara's bloodline, whose crest Aeralon drew obsessively and defaced
+- [[Campaign Knowledge/Organizations/The Dawnmere Lineage]] — Sylara's bloodline, whose crest Aeralon recorded obsessively from the ceremonial room wall with a fracturing hand
+- [[Campaign Knowledge/Clues/Dreamrot]] — the word the Visage named, which may describe what consumed him
 - [[Campaign Knowledge/Items/Aeralon's Journal|The journal]] — his most private possession, left to Zeph as inheritance
 - [[Campaign Knowledge/Items/Sylara's Amulet|The amulet]] — Sylara's holy symbol, kept in a wooden box on his desk
 - [[Campaign Knowledge/Locations/Grainfall]] — the site of his ultimate discovery and the center of his obsession
@@ -160,13 +161,19 @@ These are the questions he carries. Some he hopes to answer. Some he is not sure
 
 **Did Aeralon ever go back to the first page?** [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] wrote to him there. She told him to look up and show [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] the sky. He did, for years. Then he stopped. Did he stop reading the note or did he stop being able to follow it? Was there a last time he opened to the first page, and what did he feel, and did any part of him that was still himself understand what he was losing?
 
-**What did Aeralon understand about [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]'s bloodline?** He spent his career excavating ancient civilizations. He ended up in a ruin that contained his wife's family crest woven into a royal bloodline carved in stone that predated recorded history. He wrote that he had found her. He defaced every drawing of [[Campaign Knowledge/Organizations/The Dawnmere Lineage|her crest]] he made. What did he understand about what she was and where she came from? Did he know before [[Campaign Knowledge/Locations/Grainfall]] or did Grainfall tell him? Did she tell him and did he not understand until he stood in that room?
+**What did Aeralon understand about [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]'s bloodline?** He spent his career excavating ancient civilizations. He ended up in a ruin that contained his wife's family crest woven into a royal bloodline carved in stone that predated recorded history. He stood in that ceremonial room and did what he always did. He tried to take notes. The pages [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] read as fury in the cold house were a fracturing hand trying to copy what it saw, each attempt less steady than the last. What did Aeralon understand about what [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] was and where she came from? Did he know before [[Campaign Knowledge/Locations/Grainfall]] or did Grainfall tell him? Did she tell him and did he not understand until he stood in that room?
 
 **What is [[Campaign Knowledge/Characters/The Architect]]?** Aeralon told [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] about the visitor at [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]]'s bedside matter of factly and without interpretation. He chose those words deliberately. He chose to tell the story and to tell it without meaning attached. Why? Did he have an interpretation he was not sharing? Did he know who or what the Architect was? Did he encounter the Architect again, in [[Campaign Knowledge/Locations/Grainfall]] or elsewhere, in the years of his descent?
 
 **Was any of it a choice?** The pushing away, the reclusiveness, the anger. How much of it was the Dreamrot and how much of it was his father, and is there a meaningful distinction between those two things by the end? When Aeralon pushed [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] out of his life, was there enough of Aeralon left in there to be doing it on purpose, as an act of protection, the last loving thing he could manage? Or had the thing that was consuming him simply decided Zeph was no longer useful to have nearby?
 
-[[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] believes it was protection. He needs to believe this. He has not yet found evidence that contradicts it and he is not sure what he will do if he does.
+Standing in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]], Zeph found his answer. Or the beginning of one. The final pages were not the ruin of a broken mind. They were field notes. His father had been working the entire time, still the scholar, still trying to document what he found with hands that could no longer hold steady. If Aeralon was still that coherent, still that present beneath the fracture, then the pushing away was deliberate. It was protection. The last piece of him that was still recognizably himself, choosing to put distance between his son and whatever was consuming him.
+
+[[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] believes this now with more certainty than he did before [[Campaign Knowledge/Locations/Grainfall]]. The evidence in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] supports it.
+
+**What else is in the final pages?** He read them as madness. He was wrong. The crests were field notes. The surrounding scribbles were annotations. If the pages he dismissed as incoherent were actually the work of a scholar fighting to document what he found, then there may be more in those pages than Zeph has yet been able to read. Not because the content is hidden but because he was reading it with the wrong assumption. He assumed fracture. The truth was documentation. What else in those pages is waiting to be understood by someone who reads them as scholarship rather than collapse?
+
+The rest is what he is going to [[Campaign Knowledge/Locations/Grainfall]] to find out.
 
 ---
 
@@ -179,8 +186,6 @@ He taught him everything he knew because he believed his son was worth teaching.
 Aeralon was a brilliant and passionate and frequently distracted man who learned to be a father by deciding that was what he was going to be, and who kept that decision as long as he could keep anything.
 
 Whatever took him at the end, it took him fighting. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] is certain of this too.
-
-The rest is what he is going to [[Campaign Knowledge/Locations/Grainfall]] to find out.
 
 ---
 

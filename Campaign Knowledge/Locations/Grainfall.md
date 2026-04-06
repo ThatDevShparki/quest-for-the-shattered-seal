@@ -4,11 +4,13 @@ visited: true
 aliases: [the town]
 tags: [mystery/ruin, mystery/visage, mystery/dawnmere]
 dm_source:
-image:
+image: "[[Resources/Images/Grainfall - Image.png]]"
 publish: true
 ---
 
 # Grainfall
+
+![[Resources/Images/Grainfall - Image.png]]
 
 ## Why He Came
 

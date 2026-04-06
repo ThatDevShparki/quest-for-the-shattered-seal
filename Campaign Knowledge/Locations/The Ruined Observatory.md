@@ -4,11 +4,13 @@ visited: true
 aliases: [the Observatory]
 tags: [mystery/symbols, mystery/dawnmere]
 dm_source:
-image:
+image: "[[Resources/Images/Ruined Observatory - Image.png]]"
 publish: true
 ---
 
 # The Ruined Observatory
+
+![[Resources/Images/Ruined Observatory - Image.png]]
 
 ## The Location
 

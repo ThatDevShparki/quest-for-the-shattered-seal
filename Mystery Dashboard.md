@@ -330,4 +330,4 @@ LIMIT 8
 
 ---
 
-[[Home|Home]] · [[Campaign Notes/Questions/Index|Open Questions]] · [[Campaign Knowledge/Index|Master Index]]
+[[Home|Home]]

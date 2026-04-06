@@ -9,9 +9,7 @@ This is an Obsidian vault for a D&D 5.5e campaign called **Dreamrot**. The vault
 ### Before Doing Anything
 
 1. Read `Home.md` — the dashboard shows the current state of every document type
-2. Read `Campaign Knowledge/Index.md` — the master index with tracker status
-3. Read `Campaign Notes/Questions/Index.md` — the consolidated open questions list
-4. Read the relevant documents for whatever you are working on
+2. Read the relevant documents for whatever you are working on
 
 ### Creating New Documents
 
@@ -37,8 +35,6 @@ When the campaign reveals new information:
 3. Update the narrative sections of character/location/item/clue docs if new information changes what Zeph knows. These are reference profiles, not the primary narrative.
 4. Add new `[[wiki-links]]` to any newly relevant entities
 5. Update `tags:` in frontmatter if the document now connects to a new mystery thread
-6. Update `Campaign Notes/Questions/Index.md` if a question is answered or a new one opens
-7. Update `Campaign Knowledge/Index.md` tracker status if entry counts change
 
 ---
 

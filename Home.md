@@ -103,4 +103,4 @@ SORT choice(priority = "high", "1", choice(priority = "medium", "2", "3")) ASC
 
 ---
 
-[[Campaign Knowledge/Index|Master Index]] · [[Campaign Notes/Questions/Index|Open Questions]] · [[Campaign Knowledge/Vault Database|Vault Database]]
+[[Campaign Knowledge/Vault Database|Vault Database]]
