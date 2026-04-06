@@ -2,14 +2,14 @@
 type: question
 status: open
 priority: high
-subject: "Sylara Dawnmere"
-core_question: "What did his mother know, and what did she choose light over?"
+subject: Sylara Dawnmere
+core_question: What did his mother know, and what did she choose light over?
 session_introduced: 0
 tags:
   - mystery/dawnmere
   - mystery/architect
 dm_source:
-publish: false
+publish: true
 scope: character
 ---
 

@@ -2,14 +2,14 @@
 type: question
 status: open
 priority: high
-subject: "The Ruined Observatory"
-core_question: "Who is living in the observatory, and why?"
+subject: The Ruined Observatory
+core_question: Who is living in the observatory, and why?
 session_introduced: 0
 tags:
   - mystery/symbols
   - mystery/dawnmere
 dm_source:
-publish: false
+publish: true
 scope: campaign
 ---
 

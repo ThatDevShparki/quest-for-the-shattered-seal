@@ -2,14 +2,14 @@
 type: question
 status: open
 priority: high
-subject: "The Dawnmere Lineage"
-core_question: "What does carrying the Dawnmere name actually mean?"
+subject: The Dawnmere Lineage
+core_question: What does carrying the Dawnmere name actually mean?
 session_introduced: 0
 tags:
   - mystery/dawnmere
   - mystery/symbols
 dm_source:
-publish: false
+publish: true
 scope: both
 ---
 

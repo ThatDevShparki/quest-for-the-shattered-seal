@@ -2,15 +2,15 @@
 type: question
 status: open
 priority: high
-subject: "The Four Symbols"
-core_question: "What do the four symbols represent, and who carries the other three?"
+subject: The Four Symbols
+core_question: What do the four symbols represent, and who carries the other three?
 session_introduced: 0
 tags:
   - mystery/symbols
   - mystery/brothers
   - mystery/dawnmere
 dm_source:
-publish: false
+publish: true
 scope: campaign
 ---
 

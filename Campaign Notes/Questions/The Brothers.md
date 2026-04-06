@@ -2,15 +2,15 @@
 type: question
 status: open
 priority: medium
-subject: "The Brothers"
-core_question: "Who are the brothers, and do they still exist?"
+subject: The Brothers
+core_question: Who are the brothers, and do they still exist?
 session_introduced: 0
 tags:
   - mystery/brothers
   - mystery/saeth
   - mystery/symbols
 dm_source:
-publish: false
+publish: true
 scope: campaign
 ---
 

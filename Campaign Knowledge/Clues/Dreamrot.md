@@ -2,7 +2,9 @@
 type: clue
 decoded: false
 scope: both
-aliases: [the dreamrot, dreamrot]
+aliases:
+  - the dreamrot
+  - dreamrot
 tags:
   - mystery/dreamrot
   - mystery/visage
@@ -10,7 +12,7 @@ tags:
   - thread/open
 dm_source:
 image:
-publish: false
+publish: true
 ---
 
 # Dreamrot

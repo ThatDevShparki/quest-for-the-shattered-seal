@@ -2,15 +2,15 @@
 type: question
 status: open
 priority: high
-subject: "The Visage"
-core_question: "What is the entity in the ceremonial room, and what does it want from him?"
+subject: The Visage
+core_question: What is the entity in the ceremonial room, and what does it want from him?
 session_introduced: 0
 tags:
   - mystery/visage
   - mystery/dawnmere
   - mystery/ruin
 dm_source:
-publish: false
+publish: true
 scope: campaign
 ---
 

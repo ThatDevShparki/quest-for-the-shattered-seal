@@ -2,14 +2,14 @@
 type: question
 status: open
 priority: high
-subject: "Sae-th"
-core_question: "What does the language of the brothers say, and what does it bind?"
+subject: Sae-th
+core_question: What does the language of the brothers say, and what does it bind?
 session_introduced: 0
 tags:
   - mystery/saeth
   - mystery/brothers
 dm_source:
-publish: false
+publish: true
 scope: campaign
 ---
 

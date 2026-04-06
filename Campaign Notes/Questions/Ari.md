@@ -2,14 +2,14 @@
 type: question
 status: open
 priority: high
-subject: "Ari"
-core_question: "What is Ari trying to say, and whose familiar is it really?"
+subject: Ari
+core_question: What is Ari trying to say, and whose familiar is it really?
 session_introduced: 0
 tags:
   - mystery/ari
   - mystery/dawnmere
 dm_source:
-publish: false
+publish: true
 scope: character
 ---
 

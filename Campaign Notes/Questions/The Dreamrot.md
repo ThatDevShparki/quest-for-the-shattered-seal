@@ -2,14 +2,14 @@
 type: question
 status: open
 priority: high
-subject: "The Dreamrot"
-core_question: "What is the Dreamrot doing to him, and is it the same thing that took his father?"
+subject: The Dreamrot
+core_question: What is the Dreamrot doing to him, and is it the same thing that took his father?
 session_introduced: 0
 tags:
   - mystery/dreamrot
   - mystery/dawnmere
 dm_source: "[[Resources/DM Notes/Session 0 Guidance]]"
-publish: false
+publish: true
 scope: character
 ---
 

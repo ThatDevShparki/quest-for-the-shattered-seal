@@ -2,15 +2,15 @@
 type: question
 status: open
 priority: high
-subject: "The Sealed Ruin Beneath Grainfall"
-core_question: "What civilization built this place, and why did someone seal it?"
+subject: The Sealed Ruin Beneath Grainfall
+core_question: What civilization built this place, and why did someone seal it?
 session_introduced: 0
 tags:
   - mystery/ruin
   - mystery/dawnmere
   - mystery/visage
 dm_source:
-publish: false
+publish: true
 scope: campaign
 ---
 
