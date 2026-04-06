@@ -19,7 +19,7 @@ publish: false
 
 A single word, spoken by [[Campaign Knowledge/Characters/The Visage]] in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] during the ritual. The narrative account of this moment is told in [[Campaign Notes/Story/04 - The Ritual|The Ritual]].
 
-The voice said it without explanation. Dreamrot. Placed into the room the way you place a stone on a table and wait. As though it should already mean something to him. As though it had been part of his story longer than he had known.
+The voice said it without explanation. Dreamrot. Placed into the room without context or ceremony, as though he should already know its weight. As though it should already mean something to him. As though it had been part of his story longer than he had known.
 
 He did not recognize it.
 
@@ -53,7 +53,7 @@ He suspects the word and the changes are connected. He suspects the word names s
 
 Everything that matters.
 
-He does not know what Dreamrot is. Whether it is a disease, a condition, a curse, a process, a name for something the world does to certain people. He does not know if it is natural or inflicted. He does not know if it has a source or if it is something that simply exists, like weather, present everywhere and touching whoever it touches.
+He does not know what Dreamrot is. Whether it is a disease, a curse, a process, a name for something the world does to certain people. He does not know if it is natural or inflicted. He does not know if it has a source or if it is something that simply exists, like weather, present everywhere and touching whoever it touches.
 
 He does not know if it is what killed [[Campaign Knowledge/Characters/Aeralon Ashdelve|his father]]. He suspects this. He cannot confirm it. The word arrived from a voice he does not trust, in a room he fled, during an encounter he has not finished processing. The source makes the information suspect. But suspect is not the same as wrong.
 

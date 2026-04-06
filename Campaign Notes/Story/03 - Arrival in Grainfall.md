@@ -52,7 +52,7 @@ Crypts lined the hallways. Skeletons in armor from centuries past, jeweled and a
 
 He found [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] deep inside. The hallways led to it with the architectural logic of a space designed to be arrived at rather than stumbled upon. He knew this before he entered. His father's journal had described this approach, every corridor and turn documented with the precision of the earlier years.
 
-It was large. His footsteps changed quality when he entered, the echo deepening in the way of spaces built to hold something significant. Braziers and altars arranged on a central platform, the configuration matching the journal entries he had found in [[Campaign Knowledge/Locations/The Ruined Observatory|the Observatory]]. He was standing in his father's notes. Every detail confirmed.
+It was large. His footsteps changed quality when he entered, the echo deepening in the way of spaces built to hold something significant. Braziers and altars arranged on a central platform, the configuration matching the journal entries he had found in [[Campaign Knowledge/Locations/The Ruined Observatory|the Observatory]]. He was standing in his father's notes.
 
 [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had seen this. Aeralon had stood here. And whatever he had intended to do in this room, whatever the ritual in the journal demanded, he had not finished it.
 
