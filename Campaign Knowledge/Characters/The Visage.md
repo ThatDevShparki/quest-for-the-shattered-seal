@@ -11,6 +11,7 @@ tags:
   - thread/open
   - mystery/saeth
   - mystery/brothers
+  - mystery/dreamrot
 dm_source:
 image: "[[Resources/Images/The Visage - Image.png]]"
 publish: true
@@ -58,11 +59,11 @@ But underneath the asking, and this is the thing he cannot stop returning to, th
 
 Not the desperation of weakness exactly. The desperation of something that needs something specific and has been waiting for it and is finally in proximity to it and is urgently aware that the window may be narrow. Whatever the Visage is and however ancient and however powerful, it was not speaking from a position of comfortable authority. It was reaching. The quality of the reaching was unmistakable.
 
-It offered knowledge in exchange for patronage. Not vague knowledge. Specific knowledge. Knowledge of his mother. Hints toward secrets his father kept. The things [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] wants most in the world, named precisely, offered as the price of the service it was asking for.
+It offered knowledge in exchange for patronage. It said it knew what [[Campaign Knowledge/Characters/Aeralon Ashdelve|his father]] had carried and what it cost him. It said it knew [[Campaign Knowledge/Characters/Sylara Dawnmere|his mother's]] secrets, the things she had held alongside her faith, the things she had chosen not to pass on. It named something he had never heard before. Dreamrot. Placed into the room without explanation, as though it should already mean something to him. It did not say what any of these things were. It said it could. It said it would. For a price.
 
-And then, as if to prove the offer was credible, as if to demonstrate that it knew what it was talking about, [[Campaign Knowledge/Items/Sylara's Amulet|the amulet]] grew warm against his chest and somewhere in [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] the raven stirred.
+Then it spoke of what he carried. It said the amulet held more than a family crest and a dead woman's faith, and [[Campaign Knowledge/Items/Sylara's Amulet|the amulet]] grew warm against his chest as though something in the metal recognized its own nature being spoken aloud. It said [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] held more than a scholar's notes, and against his side the journal trembled.
 
-It woke both of them. Deliberately, as a bargaining token. To say look, I know what you carry, I know what it is, I can tell you things you do not know because I know things you do not know. The waking of the amulet and the emergence of [[Campaign Knowledge/Characters/Ari|the raven]] were not accidents of the ritual. They were a demonstration.
+Whether the voice woke them or whether they woke themselves at the sound of their own truth, he cannot say. He knows only that both responded in the same moment the voice named them, and that the coincidence did not feel like coincidence.
 
 He ran before he answered. He is still not sure if running was wisdom or cowardice or something in between that he does not have a clean word for yet.
 
@@ -153,8 +154,8 @@ He ran without answering. He is still running in some sense. He knows he cannot 
 - [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] — the one it spoke to, the one it asked to serve
 - [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] — it spoke in her voice, offered knowledge of her
 - [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] — may have encountered it during his years of descent
-- [[Campaign Knowledge/Characters/Ari]] — stirred in the journal during the encounter, woken as a demonstration
-- [[Campaign Knowledge/Items/Sylara's Amulet|The amulet]] — grew warm during the encounter, woken as a demonstration
+- [[Campaign Knowledge/Characters/Ari]] — stirred in the journal when the voice spoke of what lived inside it
+- [[Campaign Knowledge/Items/Sylara's Amulet|The amulet]] — grew warm when the voice spoke of what it held
 - [[Campaign Knowledge/Characters/The Architect]] — not yet connected in Zeph's mind, but the framework might exist
 - [[Campaign Knowledge/Organizations/The Dawnmere Lineage]] — the Visage needs someone carrying the Dawnmere blood
 - [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|The sealed ruin]] — the ceremonial room where the encounter took place
@@ -176,8 +177,8 @@ _This section will be updated as the campaign progresses and the Visage reveals 
 |Spoke in response to the ritual in the ceremonial room|Experienced directly|The ritual was designed to reach gods long forgotten by the living world.|
 |Spoke in a woman's voice that resembled Sylara's|Experienced directly|Acoustic shape of his mother's voice. Missing her warmth entirely.|
 |Asked him to become its servant|Experienced directly|The word servant specifically. Implies a defined structure of obligation.|
-|Offered knowledge of his mother and his father's secrets in exchange|Experienced directly|Specific enough to be credible. Credibility demonstrated by waking the amulet and the raven.|
-|Woke the amulet and stirred the raven as a bargaining demonstration|Inferred from timing|Amulet grew warm during the encounter. Raven stirred in the journal during the encounter, then fully emerged later in the cell. Zeph believes both were deliberate.|
+|Offered knowledge of his mother's secrets and his father's burden in exchange for patronage|Experienced directly|Said it knew what Aeralon carried and what Sylara kept. Named Dreamrot without explanation. Did not reveal details, only that it could.|
+|Spoke of the amulet and journal by nature, and both responded|Experienced directly|Amulet grew warm when the voice said it held more than he knew. Journal trembled when the voice said it held more than notes. Whether the voice woke them or they woke themselves is unclear.|
 |Carried a quality of desperation beneath the asking|Experienced directly|Not weakness. The desperation of something that needs something specific and has been waiting.|
 |Zeph ran without answering|Experienced directly|Did not say yes. Did not say no. The question remains open.|
 |Zeph's first instinct was his mother|Experienced directly|The instinct arrived before the rational mind had time to intervene. He has not yet fully examined what this means.|

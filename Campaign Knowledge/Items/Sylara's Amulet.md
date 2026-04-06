@@ -24,7 +24,7 @@ In [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremoni
 
 He has not taken it off since.
 
-Then came the ritual. [[Campaign Knowledge/Characters/The Visage|The voice]]. The chaos of skeletons rising and walls shaking and braziers lighting all at once. In the middle of it, as he ran, the pendant grew warm against his chest for the first time. Not hot. Warm. Like a hand on a shoulder in a dark room.
+Then came the ritual. [[Campaign Knowledge/Characters/The Visage|The voice]]. It spoke in his mother's sound without her warmth. It named something called Dreamrot without explaining it. And when it spoke of the pendant around his neck, when it said the amulet held more than what he knew, the pendant grew warm against his chest for the first time. Not hot. Warm. Like a hand on a shoulder in a dark room.
 
 He spent the night in the cell turning it over in the dark. Testing what he had felt. Watching it catch light that was not there. [[Campaign Knowledge/Characters/Ari|The raven]] sat on his knee and said nothing useful and he kept turning the pendant over and over until the shape of what it was began to come clear.
 
@@ -64,7 +64,7 @@ He is less certain of this interpretation now.
 
 For the narrative account of the activation, see [[Campaign Notes/Story/04 - The Ritual|The Ritual]].
 
-In [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]], as he ran, the amulet grew warm against his chest for the first time in his life. He had worn it for weeks by that point and it had been an object, present and meaningful but inert. In the chaos of the ritual's aftermath it became something else. Something that was responding rather than simply being worn.
+In [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]], when [[Campaign Knowledge/Characters/The Visage|the voice]] spoke of the pendant and what slept inside it, the amulet grew warm against his chest for the first time in his life. He had worn it for weeks by that point and it had been an object, present and meaningful but inert. At the sound of its own nature being named, it became something else. Something that was responding rather than simply being worn.
 
 He spent the night in the cell learning the edges of it. By morning he understood that it was not simply his mother's holy symbol. It had been waiting for a specific moment and the ritual in that room had apparently been enough to constitute that moment.
 
@@ -193,7 +193,7 @@ _This section will be updated as the campaign progresses and new information is 
 |Sylara wore this as her holy symbol her entire life|Childhood memory and Aeralon's telling|The foundational fact of the object.|
 |Sylara described the crest's features to Zeph as a child|Direct childhood memory, imprecise|Enough retained to recognize related symbols at the Ruined Observatory.|
 |Aeralon kept it in a wooden box for twenty years without explanation|Observed after Aeralon's death|He never wore it, displayed it, or spoke of it.|
-|Amulet activated — grew warm during ritual and flight from ceremonial room|Experienced directly by Zeph|First time the object had ever responded. Connected to the ritual and the entity in the room.|
+|Amulet activated — grew warm when the voice spoke of what it held|Experienced directly by Zeph|First time the object had ever responded. Warmth began when the Visage named the pendant's hidden nature.|
 |Catches light at angles that do not correspond to any light source|Observed during night in cell|Increasing in frequency since the activation.|
 |Functions as holy symbol and spellcasting focus|Established in use|Responded to Oghma's domain without friction. May be responding to something else as well.|
 |The Dawnmere crest is one of four related symbols|Discovered at Ruined Observatory|Minor deliberate variations between the four. Significance of the differences unknown.|

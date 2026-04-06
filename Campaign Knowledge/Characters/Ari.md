@@ -33,7 +33,7 @@ He does not know if it has another name. He does not know if it had a name befor
 
 He was not looking for it. He did not know it was there. The narrative version of this emergence is told in [[Campaign Notes/Story/05 - The Cell|The Cell]].
 
-The first sign came in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]], during the encounter with [[Campaign Knowledge/Characters/The Visage]]. In the middle of the voice and the chaos, somewhere in [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] the raven stirred. He did not notice it then. He was running.
+The first sign came in [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]], during the encounter with [[Campaign Knowledge/Characters/The Visage]]. When the voice spoke of [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] and what lived inside it, the cover trembled against his side. He registered the tremor without being able to process it. The voice was too large in the room for anything else to fully land.
 
 The night of the arrest, sitting in the cell after the guards had stopped making rounds, [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] moved. Not dramatically. A tremor along the cover, like something breathing inside it. He had been turning the pages for hours by that point, working through his father's notes, and he noticed it the way you notice something at the edge of your attention when everything else has gone quiet.
 
@@ -166,7 +166,7 @@ That is all he knows how to do with it right now. He suspects it is enough to st
 - [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] — his father's familiar, drawn into the journal during the descent
 - [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] — named it, carries it, is learning to listen to it
 - [[Campaign Knowledge/Items/Aeralon's Journal|The journal]] — where Ari lived, drawn as a crude raven in the chaotic later pages
-- [[Campaign Knowledge/Characters/The Visage]] — stirred the raven during the encounter as a bargaining demonstration
+- [[Campaign Knowledge/Characters/The Visage]] — the raven stirred when the voice spoke of what lived in the journal
 - [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] — the Dawnmere name and its warmth echo in Ari's fragments
 - [[Campaign Knowledge/Items/Sylara's Amulet|The amulet]] — woke at the same time Ari stirred, during the ritual
 - [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|The sealed ruin]] — where the ritual occurred that first stirred the raven
@@ -184,7 +184,7 @@ _This section will be updated as the campaign progresses and Ari reveals more of
 
 |Entry|Source|Notes|
 |---|---|---|
-|First stirred in the journal during the Visage encounter in the ceremonial room|Inferred from timing — not noticed until later|The stirring happened during the ritual. Zeph was running and did not register it.|
+|First stirred in the journal when the Visage spoke of what lived inside it|Experienced directly — registered but not processed|The journal trembled against his side when the voice named its hidden nature. Zeph felt the tremor but could not process it in the moment.|
 |Fully emerged from a two page spread in Aeralon's journal in the cell|Observed directly in cell|The spread appeared to be chaotic scribbles until it revealed itself as a crude brutalist drawing of a raven.|
 |Aeralon drew it into the journal|Inferred from the drawing|When and why is unknown. During the fracture, intentional or not, unclear.|
 |Speaks in Aeralon's cadences|Observed directly|Rhythm and phrasing of Aeralon. Content fragmentary and incomplete.|
