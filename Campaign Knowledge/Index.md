@@ -20,7 +20,7 @@ publish: false
 |[[Campaign Knowledge/Characters/Brenvaal]]|Aarakocra artisan, potter and smith. Aeralon's former understudy. Helped care for Zeph after Sylara died. Last known contact was a tense closed-door conversation with Aeralon about Grainfall. Whereabouts unknown.|Complete at campaign start. Will expand if/when encountered.|
 |[[Campaign Knowledge/Characters/Sylara Dawnmere]]|Zeph's mother. Cleric of holy light. Deceased. Biography is intentionally thin — Zeph barely knew her. Remembered as warmth more than detail. Connected to the Dawnmere lineage in ways she never explained.|Deliberately thin. Will expand significantly throughout campaign.|
 |[[Campaign Knowledge/Characters/The Architect]]|Unknown entity. Came to Sylara's bedside the night before she died. Gave a title instead of a name. Warm smile, circular glasses. Zeph has not connected him to the Visage or the Dawnmere lineage yet.|Complete at campaign start. Significant expansion expected.|
-|[[Campaign Knowledge/Characters/The Visage]]|Entity encountered in the ceremonial room of the sealed ruin. Spoke in Sylara's voice without her warmth. Offered knowledge of his mother and father's secrets in exchange for patronage. Woke the amulet and Ari as a bargaining demonstration. Zeph ran without answering.|Complete at campaign start. Central campaign entity. Major expansion expected.|
+|[[Campaign Knowledge/Characters/The Visage]]|Entity encountered in the ceremonial room of the sealed ruin. Spoke in Sylara's voice without her warmth. Named Dreamrot. Offered knowledge of his mother and father's secrets in exchange for patronage. Spoke of the amulet and journal by nature, and both responded. Zeph ran without answering.|Complete at campaign start. Central campaign entity. Major expansion expected.|
 |[[Campaign Knowledge/Characters/Zephyrix Skydelver]]|Full origin story, session 0 questions, present state, bonds, ideals, flaws, personality, and motivating question. The foundational character document.|Complete at campaign start.|
 
 ---
@@ -31,6 +31,7 @@ publish: false
 |---|---|---|
 |[[Campaign Knowledge/Clues/Sae-th]]|A language found in Aeralon's journal. Annotated as the language of the Brothers. It binds the world. Script unidentified and unread. Passages copied but not decoded. Knowledge tracker included.|Complete at campaign start. Tracker ready for decoded passages.|
 |[[Campaign Knowledge/Clues/The Brothers]]|Referenced once in Aeralon's journal annotation alongside Sae-th. Unnamed, unnumbered, unknown. Possibly connected to the four symbols. Provisional inference only.|Deliberately thin. Almost entirely a tracker waiting to be filled.|
+|[[Campaign Knowledge/Clues/Dreamrot]]|A word spoken by the Visage during the ritual encounter, without explanation. Produces delayed unease. Zeph fears it names what happened to Aeralon and what is beginning to happen to him. He has not said it aloud.|Deliberately thin. Almost entirely unknown. Central campaign mystery.|
 |[[Campaign Knowledge/Clues/The Four Symbols]]|Four variations of a shared base form found at the Ruined Observatory on a worn tapestry. Dawnmere crest is one of them. Recognized by Zeph from a childhood memory of Sylara describing the crest. Visual reference pending from DM. Knowledge tracker included.|Partially complete. Awaiting DM's visual reference for the symbols.|
 
 ---
@@ -123,6 +124,7 @@ _A quick reference for which documents have active knowledge trackers and their 
 |[[Campaign Knowledge/Clues/Sae-th]]|Yes|7|Session 0|
 |[[Campaign Knowledge/Characters/The Visage]]|Yes|8|Session 0|
 |[[Campaign Knowledge/Clues/The Brothers]]|Yes|4|Session 0|
+|[[Campaign Knowledge/Clues/Dreamrot]]|Yes|4|Session 0|
 |[[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall]]|Yes|10|Session 0|
 |[[Campaign Knowledge/Locations/The Ruined Observatory]]|Yes|7|Session 0|
 |[[Campaign Knowledge/Locations/Grainfall]]|Yes|0|Session 0|

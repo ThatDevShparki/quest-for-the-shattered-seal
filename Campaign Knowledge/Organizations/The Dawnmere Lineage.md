@@ -51,9 +51,11 @@ What she chose it over is the question he does not yet have an answer to.
 
 ## What the Ruins Told Him
 
-He went into the ceremonial room and stood before a family tree that should not have contained his family. He opened [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] and found his father had stood in the same spot and drawn the crest over and over until he could not stop drawing it and then destroyed every trace of it he could reach.
+He first found the crest in [[Campaign Knowledge/Items/Aeralon's Journal|the journal's]] final pages, drawn obsessively and defaced every time. He reached for [[Campaign Knowledge/Items/Sylara's Amulet|his mother's amulet]] and the match was immediate. His father had been fixated on [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara's]] family mark in the madness of his final years.
 
-He went to [[Campaign Knowledge/Locations/The Ruined Observatory]] at the edge of the forest and found the symbol of his house carved into the stone. He noticed that someone was living on the upper levels. He went further inside and copied down the markings surrounding the crest and realized, looking at what he had copied, that what appeared to be a single symbol was in fact four. Each remarkably similar to the others. Minor deliberate variations between them. He recognized them from somewhere he could not immediately place, from something his mother said while holding the pendant out for a small child to look at. The memory is imprecise. He knows the recognition was real.
+At [[Campaign Knowledge/Locations/The Ruined Observatory]] he found the crest again on a tapestry, rendered in vivid detail alongside [[Campaign Knowledge/Clues/The Four Symbols|three other symbols]], each a deliberate variation. He copied all four into the journal and discovered the ritual pages connected to them. Someone was living on the upper levels. He noticed but did not investigate.
+
+He went into [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] and stood before a family tree that should not have contained his family. The crest was there too, woven into a lineage that predated recorded history. His father had stood in this same spot. Had drawn the crest from this wall and destroyed every trace of it he could reach.
 
 He does not yet know what [[Campaign Knowledge/Clues/The Four Symbols]] mean in relation to each other or to his family's crest. He does not yet know which of the four is his. He does not yet know what the differences between them signify or whether the differences are the point or whether the sameness is.
 

@@ -74,9 +74,9 @@ He does not know what recognized the crest. He does not know what the warmth mea
 
 ## The Crest
 
-[[Campaign Knowledge/Organizations/The Dawnmere Lineage|The Dawnmere family crest]] is the central feature of the pendant. Its specific design elements are what [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] described to [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] as a child. He carries an imprecise memory of that description which was precise enough to allow him to recognize the symbols at [[Campaign Knowledge/Locations/The Ruined Observatory]] as related.
+[[Campaign Knowledge/Organizations/The Dawnmere Lineage|The Dawnmere family crest]] is the central feature of the pendant. [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] first made the connection in the cold house after his father died, recognizing the crest on the pendant as the same symbol [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] had drawn and defaced obsessively in [[Campaign Knowledge/Items/Aeralon's Journal|the journal's]] final pages. The match was immediate once he held the amulet against the page.
 
-At the observatory he discovered that what appeared to be a single symbol was in fact four, each remarkably similar to the others with minor deliberate variations between them. His family's crest is one of [[Campaign Knowledge/Clues/The Four Symbols|the four]]. He does not yet know which, or what the other three represent, or who carries them.
+At [[Campaign Knowledge/Locations/The Ruined Observatory|the Observatory]] he discovered the crest again on a tapestry, where it appeared not as one symbol but [[Campaign Knowledge/Clues/The Four Symbols|four]], each remarkably similar to the others with minor deliberate variations between them. His family's crest is one of the four. He does not yet know which, or what the other three represent, or who carries them.
 
 The crest appears on the walls of [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin beneath Grainfall]], woven into the royal bloodline of a civilization that predates recorded history. It appears in [[Campaign Knowledge/Locations/The Ruined Observatory]] at the edge of the forest. It appears obsessively and defaced in the final pages of his father's [[Campaign Knowledge/Items/Aeralon's Journal|journal]]. It is around his neck right now.
 

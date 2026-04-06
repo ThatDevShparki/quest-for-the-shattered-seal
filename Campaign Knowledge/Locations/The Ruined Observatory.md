@@ -66,9 +66,9 @@ He copied down what surrounded it carefully. That is when he found [[Campaign Kn
 
 For the full clue analysis, see [[Campaign Knowledge/Clues/The Four Symbols]].
 
-Looking more closely at the tapestry and the stonework surrounding it, he found that what had appeared to be a single symbol was in fact four. Each rendered with the same careful craft as the central crest, each sharing the base structure of [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere crest]] with minor deliberate variations that distinguished them from each other and from his family's symbol.
+Looking more closely at the tapestry, he found that what had appeared to be a single symbol was in fact four. Each rendered with the same careful craft as the central crest, each sharing the base structure of [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere crest]] with minor deliberate variations that distinguished them from each other and from his family's symbol.
 
-He copied them all. He recognized them, imprecisely and from somewhere he could not immediately place, from something his mother said while holding [[Campaign Knowledge/Items/Sylara's Amulet|the pendant]] out for a small child to look at.
+He took out [[Campaign Knowledge/Items/Aeralon's Journal|the journal]], opened it to a blank page, and copied all four. It was the first thing he had ever added to his father's journal. Then he searched through the earlier entries and found descriptions of a ceremonial space and a ritual connected to these symbols. A trail his father had left without meaning to.
 
 He has not yet had time to study the copy properly. [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|The sealed ruin]] was waiting and everything that followed the sealed ruin left no space for the quiet study that the symbols deserved.
 
@@ -113,7 +113,7 @@ He does not know if it is safe to go back. He is going back anyway.
 - [[Campaign Knowledge/Locations/Grainfall]] -- the town at whose edge the Observatory stands
 - [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall]] -- the ruin beneath the town, bearing the same Dawnmere crest
 - [[Campaign Knowledge/Organizations/The Dawnmere Lineage]] -- the bloodline whose crest appears on the tapestry
-- [[Campaign Knowledge/Clues/The Four Symbols]] -- four variations of the Dawnmere crest found on the tapestry and surrounding stonework
+- [[Campaign Knowledge/Clues/The Four Symbols]] -- four variations of the Dawnmere crest found on the tapestry
 - [[Campaign Knowledge/Items/Sylara's Amulet]] -- bears the same crest; Sylara described its features to Zeph as a child
 - [[Campaign Knowledge/Characters/Sylara Dawnmere]] -- Zeph's mother, who first showed him the crest
 - [[Campaign Knowledge/Characters/Aeralon Ashdelve]] -- Zeph's father, whose notes referenced the general area
@@ -137,7 +137,7 @@ _This section will be updated as the campaign progresses and the Observatory rev
 |Called the Ruined Observatory|Local designation|Whether the name is accurate to its original purpose is unknown.|
 |Someone is living on the upper levels|Evidence observed, not direct sighting|Did not see the occupant directly. Did not ascend to upper levels.|
 |A worn tapestry bearing the Dawnmere family crest hangs on the lower level|Observed directly|Old and worn but high quality. Hung with intention at some point in its history.|
-|Four symbols surround the crest on the tapestry, each a variation of the shared base form|Observed and copied|Recognized imprecisely from childhood memory of mother describing the crest.|
+|Four symbols surround the crest on the tapestry, each a variation of the shared base form|Observed and copied into the journal|First addition Zeph made to his father's journal. Led him to discover the ritual pages in the earlier entries.|
 |Zeph spent less than one hour inside on his only visit|Established timeline|Visited before the sealed ruin. Arrest followed. No return visit yet.|
 |Upper levels compromised but present|Observed from below|Did not ascend. Someone is using them despite the condition.|
 

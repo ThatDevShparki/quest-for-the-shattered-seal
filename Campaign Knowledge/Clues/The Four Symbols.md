@@ -13,9 +13,9 @@ scope: campaign
 
 ## The Discovery
 
-At [[Campaign Knowledge/Locations/The Ruined Observatory]] at the edge of the forest outside [[Campaign Knowledge/Locations/Grainfall]], going further inside after noticing someone appeared to be living on the upper levels, [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] found [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere family crest]] carved into the stone.
+At [[Campaign Knowledge/Locations/The Ruined Observatory]] at the edge of the forest outside [[Campaign Knowledge/Locations/Grainfall]], going further inside after noticing someone appeared to be living on the upper levels, [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] found a tapestry bearing [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere family crest]]. He already knew the symbol. He had found it defaced in the final pages of [[Campaign Knowledge/Items/Aeralon's Journal|his father's journal]] and recognized it as the crest on [[Campaign Knowledge/Items/Sylara's Amulet|his mother's amulet]].
 
-He stopped to copy down the markings surrounding it. Looking at what he had copied, he realized that what had appeared to be a single symbol was in fact four. Each remarkably similar to the others. Minor deliberate variations between them, specific enough to be intentional rather than the natural drift of repeated carving by different hands over time.
+But the tapestry showed him something the journal and the pendant could not. What he had taken for a single symbol was in fact four. Each remarkably similar to the others. Minor deliberate variations between them, specific enough to be intentional rather than the natural drift of repeated rendering by different hands over time.
 
 Someone designed these four symbols to be related and distinct simultaneously. The relationship and the distinction are both meaningful. He does not yet know how.
 
@@ -29,7 +29,7 @@ Not clearly. Not with the confidence of someone who has studied something and ca
 
 His mother described the features of [[Campaign Knowledge/Organizations/The Dawnmere Lineage|the Dawnmere crest]] to him when he was very young. She held [[Campaign Knowledge/Items/Sylara's Amulet|the pendant]] out so he could look while she spoke. He does not remember her words. He remembers the quality of her attention and the feeling of being shown something she considered important and the shape of the pendant catching the light while she talked.
 
-Whatever she described to him that day is somewhere in him still. Imprecise and fading but present enough that standing in [[Campaign Knowledge/Locations/The Ruined Observatory]] looking at four carved symbols he had never consciously seen before, something in him knew them.
+Whatever she described to him that day is somewhere in him still. Imprecise and fading but present enough that standing in [[Campaign Knowledge/Locations/The Ruined Observatory]] looking at four symbols on a tapestry he had never consciously seen before, something in him knew them.
 
 He does not yet know what the knowing means or what his mother actually told him or whether what he recognized was his family's symbol specifically or something about the relationship between all four.
 
@@ -57,7 +57,7 @@ He does not know the relationship between the four symbols and [[Campaign Knowle
 
 He does not know what his mother actually said about the crest when she described it to him. He knows she said something meaningful. He cannot retrieve it precisely enough to use it yet.
 
-He does not know who carved the symbols into [[Campaign Knowledge/Locations/The Ruined Observatory]] or when or why that specific location was chosen. He does not know if the person living on the upper levels of the Observatory has anything to do with the symbols or is simply using the structure as shelter.
+He does not know who wove the tapestry in [[Campaign Knowledge/Locations/The Ruined Observatory]] or when or why that specific location was chosen. He does not know if the person living on the upper levels of the Observatory has anything to do with the symbols or is simply using the structure as shelter.
 
 He does not know if there are other locations where the four symbols appear together. He has found them in two places now, [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the sealed ruin]] and the Observatory. He suspects two is not the complete count.
 
@@ -65,7 +65,7 @@ He does not know if there are other locations where the four symbols appear toge
 
 ## What He Feels
 
-The recognition unsettled him in a way that the crest on the wall of [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] did not, or not in the same way. The crest in the ruin was a shock. A single symbol in a place it should not have been, enormous in its implication, connected immediately to [[Campaign Knowledge/Items/Aeralon's Journal|the journal]] and to his father's defaced drawings and to everything he had come to [[Campaign Knowledge/Locations/Grainfall]] to understand.
+The recognition unsettled him in a way that the crest on the wall of [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall|the ceremonial room]] did not, or not in the same way. The crest in the ruin was a confirmation. He had been following the symbol since the cold house, since the defaced journal pages and the amulet. But seeing it carved into the lineage wall of a civilization that predated every record he had ever encountered made the scale of it real in a way the pendant and the journal could not.
 
 The four symbols at the Observatory were something quieter and in some ways stranger. Not a shock but a resonance. The feeling of a string being plucked that he did not know was strung. Something his mother put in him when he was too young to know it was being put there, surfacing now in a ruined building at the edge of a forest because the right object was in front of him at the right moment.
 
@@ -77,7 +77,7 @@ He copied the inscription carefully. He is keeping the copy close.
 
 ## Connections
 
-- [[Campaign Knowledge/Locations/The Ruined Observatory]] -- where the four symbols were discovered, carved into stone
+- [[Campaign Knowledge/Locations/The Ruined Observatory]] -- where the four symbols were discovered on a tapestry
 - [[Campaign Knowledge/Locations/The Sealed Ruin Beneath Grainfall]] -- where the Dawnmere crest appears in the royal bloodline
 - [[Campaign Knowledge/Organizations/The Dawnmere Lineage]] -- one of the four symbols is the Dawnmere family crest
 - [[Campaign Knowledge/Characters/Sylara Dawnmere]] -- described the crest to Zeph as a child; the source of his recognition
@@ -105,7 +105,7 @@ _This section will be updated as the campaign progresses and the four symbols re
 |Four symbols exist, each a variation of a shared base form|Discovered at Ruined Observatory|Copied by hand. Intentional minor variations between them.|
 |Dawnmere family crest is one of the four|Inferred from recognition and visual match|Confirmed by comparison to pendant.|
 |Zeph recognized the symbols from childhood memory|Direct experience at Observatory|His mother described the crest to him as a child. Precise content of that description not retrievable yet.|
-|Symbols appear in the Ruined Observatory|Observed directly|Carved into stone. Someone appears to be living on the upper levels.|
+|Symbols appear on a tapestry in the Ruined Observatory|Observed directly|Woven into the tapestry alongside the Dawnmere crest. Someone appears to be living on the upper levels.|
 |Symbols appear in the sealed ruin beneath Grainfall|Observed in ceremonial room|Woven into the royal bloodline carved on the walls.|
 
 ---
