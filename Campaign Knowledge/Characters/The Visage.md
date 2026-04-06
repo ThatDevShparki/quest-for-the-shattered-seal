@@ -12,11 +12,13 @@ tags:
   - mystery/saeth
   - mystery/brothers
 dm_source:
-image:
+image: "[[Resources/Images/The Visage - Image.png]]"
 publish: true
 ---
 
 # The Visage
+
+![[Resources/Images/The Visage - Image.png]]
 
 ## The Name
 

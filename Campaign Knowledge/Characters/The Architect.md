@@ -8,11 +8,13 @@ tags:
   - mystery/dawnmere
   - thread/open
 dm_source:
-image:
+image: "[[Resources/Images/The Architect - Image.png]]"
 publish: true
 ---
 
 # The Architect
+
+![[Resources/Images/The Architect - Image.png]]
 
 ## How He Knows
 

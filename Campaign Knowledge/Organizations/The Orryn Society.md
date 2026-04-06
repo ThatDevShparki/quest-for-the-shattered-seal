@@ -4,11 +4,13 @@ aliases:
   - the Society
 tags: []
 dm_source:
-image:
+image: "[[Resources/Images/The Orryn Society - Image.png]]"
 publish: true
 ---
 
 # The Orryn Society
+
+![[Resources/Images/The Orryn Society - Image.png]]
 
 ## What He Remembers
 
