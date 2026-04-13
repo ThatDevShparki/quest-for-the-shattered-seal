@@ -172,6 +172,8 @@ _This section will be updated as the campaign progresses and new information is 
 _To be filled in as the campaign progresses._
 
 | Entry | Source | Session | Notes |
+|A page is missing from the journal|Discovered after hearing the Architect's name|1|Zeph noticed it when checking the journal after Zeke reported Ra's name. When it was taken and by whom is unknown. The violation feels like a desecration.|
+|Zeph added the four symbols to a blank page at the Observatory|Own addition|1|First thing he ever wrote in his father's journal. Copied the four crest variations from the tapestry.|
 | ----- | ------ | ------- | ----- |
 |       |        |         |       |
 |       |        |         |       |

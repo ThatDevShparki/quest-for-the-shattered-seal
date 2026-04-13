@@ -1,7 +1,7 @@
 ---
 type: location
 visited: true
-aliases: [the town]
+aliases: [the town, Gossier]
 tags: [mystery/ruin, mystery/visage, mystery/dawnmere]
 dm_source:
 image: "[[Resources/Images/Grainfall - Image.png]]"
@@ -104,19 +104,55 @@ He is going to find out. He has barely started. The jail cell is, in a specific 
 
 ---
 
+## The Island
+
+The locals call it Gossier. Grainfall is an island. The Spinewater River runs through the east. The storm never stops, or rarely stops, the weather carrying a persistence that feels less like climate and more like temperament. The morning of Session 1, the storm was dying out, which the locals seemed to treat as occasion rather than relief.
+
+[[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] spoke of the people of Gossier with reverence in [[Campaign Knowledge/Items/Aeralon's Journal|the journal]]. They are deeply connected with the land. He wrote about them the way he wrote about civilizations he respected, with the careful attention of someone who understood he was looking at something older than his framework for understanding it.
+
+---
+
+## The Turning of the Veil
+
+A festival. It was happening the morning the party was released from jail. Dance floors, dancers scattering colored powder through the air, painted alligators helping construct the festival grounds, a brass band playing in the background. Party-goers draped solid gold necklaces over them as they walked through.
+
+A person in a painted heron mask placed gold beads around [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph's]] neck and said, "For luck. The river favors those who give back."
+
+The river was bright red. Pure blood. Not metaphorical blood. Actual blood, fitting so seamlessly into the color and chaos of the festival that it took a moment to register. Zeph went to the river. He dropped his gold in. It dissolved on contact and became part of the current. Something happened when it did. He does not know what.
+
+The festival has an origin the locals do not remember. [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] wrote that he found the origin in Cibola, the city of gold.
+
+Then the pigs came through in the parade of beasts. Some of them looked wrong. Not the festive wrong of costumes and paint, but a sickly wrongness that lived beneath the decoration. One began eating another. A guard who approached was immediately consumed. The party fought. Investigation afterward revealed the pigs had been injected via the stomach with something, quite recently. Very little normal feed inside them. One of the dead was the man on stilts who had given [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] beads. The other was a small child that [[Campaign Knowledge/Characters/Calis]] recognized as one of her students.
+
+[[Campaign Knowledge/Characters/Malcarion|Mal]] said the Diamond Trading Company brings animals in from the mainland. The pigs likely came from them. Someone injected those pigs knowing they would be in a festival parade surrounded by people.
+
+Locals muttered about "the old stories" and "the river tales" when the pigs turned. That suggests this is not the first time something like this has happened, or at least not the first time it has been imagined.
+
+---
+
+## The Power Structure
+
+Fragments, assembled from a single morning:
+
+[[Campaign Knowledge/Characters/Miss DuBois]] is bedridden at [[Campaign Knowledge/Locations/The See Inn]] and has enough influence to bail strangers out of jail through intermediaries. She was from [[Campaign Knowledge/Organizations/The Orryn Society]].
+
+A witch coven operates in [[Campaign Knowledge/Locations/Grainfall|Gossier]] and backs something called the Dixie clan. [[Campaign Knowledge/Characters/Melina]] is their most presentable member.
+
+The Diamond Trading Company brings in animals and possibly monsters from the mainland.
+
+Someone called [[Campaign Knowledge/Characters/The Architect]] uses syringes on living things. The same name as the man who came to [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara's]] bedside. The same name given by [[Campaign Knowledge/Characters/Ra]] in the jail cell.
+
+These are pieces. He does not yet see the shape they make.
+
+---
+
 ## Where He Is Now
 
-A cell. Stone walls. Damp from the inside. The ceiling he has been looking at for most of a night while turning [[Campaign Knowledge/Items/Sylara's Amulet|a pendant]] over in his hands and watching [[Campaign Knowledge/Characters/Ari|a raven]] speak in his father's cadences.
+Released from jail. Walking through a festival in a town he barely knows, wearing gold beads given to him by a man in a heron mask, carrying a quest from a sick woman who knew his father, alongside four strangers who became companions by proximity rather than choice.
 
-Grainfall is out there beyond these walls, carrying whatever it carries, knowing whatever it knows, going about whatever it goes about in the early hours before morning.
+Grainfall is no longer the blank space it was when he arrived. It has a festival and a blood river and a witch coven and a dying woman from the Orryn Society and a man who calls himself the Architect and injected pigs that eat people and a campsite in the jungle where his father was last seen alive.
 
-He has been here only a few days. It already feels like the most important place he has ever been. He does not know if that is because it is or because everything that has happened since he arrived has compressed time in a way that makes a few days feel like a chapter.
-
-He suspects it is both.
-
-The campaign starts here. Everything he learns about Grainfall from this point forward will be earned rather than inherited. That is a different kind of knowing than anything else in this document. He is ready for it.
-
-He does not have much choice but to be.
+It is an island. It has always been an island. He just did not know it until this morning.
 
 ---
 
@@ -134,7 +170,14 @@ He does not have much choice but to be.
 - [[Campaign Knowledge/Clues/The Brothers]] -- referenced in the journal, possibly connected to the four symbols
 - [[Campaign Knowledge/Characters/The Visage]] -- the entity that spoke during the ritual beneath the town
 - [[Campaign Knowledge/Characters/Ari]] -- Aeralon's familiar, emerged from the journal in the jail cell
-- [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] -- arrived three days ago, currently in the jail cell
+- [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] -- arrived three days ago, released from jail in Session 1
+- [[Campaign Knowledge/Characters/Ra]] -- the older man in the cell who gave the name "the Architect"
+- [[Campaign Knowledge/Characters/Miss DuBois]] -- bedridden at the See Inn, former Orryn Society, knew Aeralon
+- [[Campaign Knowledge/Characters/Malcarion|Mal]], [[Campaign Knowledge/Characters/Remington]], [[Campaign Knowledge/Characters/Ezekiel|Zeke]], [[Campaign Knowledge/Characters/Calis]] -- the party, met in the jail cell
+- [[Campaign Knowledge/Characters/Mary]] -- Zeke's sister, works at the Sugar Back Eatery
+- [[Campaign Knowledge/Characters/Melina]] -- witch from the coven, bailed the party out
+- [[Campaign Knowledge/Locations/The See Inn]] -- where DuBois is staying
+- [[Campaign Knowledge/Clues/Dreamrot]] -- the word the Visage named, possibly connected to the sickness in this place
 
 ---
 
@@ -156,6 +199,10 @@ _To be filled in as the campaign progresses._
 
 |Entry|Source|Session|Notes|
 |---|---|---|---|
-|||||
-|||||
-|||||
+|Locally called Gossier. An island. Spinewater River runs through the east. Storm rarely stops.|Observed and overheard|1|Aeralon wrote of the people of Gossier with reverence.|
+|The Turning of the Veil festival|Experienced directly|1|Dance, music, colored powder, gold beads. Origin forgotten by locals. Aeralon connected it to Cibola.|
+|The river runs red with blood during the festival|Observed directly|1|Gold dissolved on contact. Something happened. Locals treat this as normal.|
+|Pigs in the parade were injected with something and attacked people|Investigated after combat|1|Injected via the stomach. One victim was a child Calis recognized. Diamond Trading Company likely supplied the pigs.|
+|Miss DuBois is bedridden at the See Inn, formerly of the Orryn Society|History check + direct meeting|1|Knew Aeralon. Gave party a quest to investigate a campsite.|
+|A witch coven operates here and backs the Dixie clan|History check|1|Melina is their most presentable member.|
+|Ra used the name "the Architect"|Reported by Zeke|1|Connection to the Architect from Sylara's bedside unconfirmed but noted.|

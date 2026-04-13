@@ -3,6 +3,7 @@ type: character
 status: unknown
 aliases:
   - the visitor
+  - Ra
 tags:
   - mystery/architect
   - mystery/dawnmere
@@ -104,9 +105,9 @@ He does not know what the Architect did at his mother's bedside. He does not kno
 
 He does not know if the Architect knows he exists. He does not know if he has been watched. He does not know if the name he was given, the Architect, was chosen for the child who would remember it or for some other reason entirely.
 
-He does not know if he will meet him.
+He did not know if he would meet him.
 
-He thinks he will. He does not know why he thinks this. He thinks it anyway.
+He has.
 
 ---
 
@@ -127,9 +128,10 @@ He is beginning to wonder.
 - [[Campaign Knowledge/Characters/Sylara Dawnmere|Sylara]] — visited her bedside the night before she died
 - [[Campaign Knowledge/Characters/Aeralon Ashdelve|Aeralon]] — reported the visit to Zeph with careful neutrality across many years
 - [[Campaign Knowledge/Characters/Zephyrix Skydelver|Zeph]] — the child who asked his name and has carried the answer ever since
+- [[Campaign Knowledge/Characters/Ra]] — the older man in the jail cell who gave this name to Zeke; possibly the same entity
 - [[Campaign Knowledge/Characters/The Visage]] — the entity in the ceremonial room, not yet connected to the Architect in Zeph's mind
 - [[Campaign Knowledge/Organizations/The Dawnmere Lineage]] — potentially connected through Sylara and the events of that night
-- [[Campaign Knowledge/Locations/Grainfall]] — where Aeralon's obsession led, possibly connected to whatever the Architect is
+- [[Campaign Knowledge/Locations/Grainfall]] — where Aeralon's obsession led, where Ra appeared in the jail cell
 
 ---
 
@@ -158,6 +160,8 @@ _To be filled in as the campaign progresses._
 
 |Entry|Source|Session|Notes|
 |---|---|---|---|
-|||||
-|||||
-|||||
+|An older man in the jail cell (Ra) told Zeke his name was the Architect|Reported by Zeke|1|Immediate recognition. The name hit Zeph like a wall. Same name from his mother's bedside eighteen years ago.|
+|Ra was coughing blood, healed by Calis, then left quickly|Observed directly|1|White hair, gold earring, blue/gold clothing. Speech was odd, as though what they heard was not what he said.|
+|The Architect reportedly uses syringes on monsters|Reported by Zeke|1|Connection to the injected pigs at the festival is noted but not confirmed.|
+|A page is missing from Zeph's journal|Discovered when checking after hearing the name|1|When and by whom it was taken is unknown. The violation is felt deeply.|
+|Zeph has never connected the Architect to malintent or mystery regarding his mother's death|Internal realization|1|The Architect was always a warm memory. Now the emotional frame around Sylara's death has shifted. Not into clarity. Into confusion.|
